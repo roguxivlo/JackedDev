@@ -34,6 +34,11 @@ CREATE TABLE used_muscle (
     CONSTRAINT used_muscle_primary_key PRIMARY KEY (exercise_id, muscle_id)
 );
 
+CREATE TABLE user (
+    login VARCHAR(20) PRIMARY KEY,
+    password VARCHAR(20) NOT NULL,
+);
+
 -- examples for test
 
 -- INSERT INTO exercise VALUES (1000, 'pull-up', 'Intermediate');
