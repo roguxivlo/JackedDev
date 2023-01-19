@@ -1,0 +1,47 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>JackedDev - wyszukiwarka</title>
+</head>
+
+<body>
+  <div>
+    <center>
+      <table>
+        <tr>
+          <td><a href="index.html">Strona Główna</a></td>
+        </tr>
+        <tr>
+          <td><a href="search.html">Szukaj Ćwiczeń</a></td>
+        </tr>
+        <tr>
+          <td><a href="login.html">Zaloguj się</a></td>
+        </tr>
+      </table>
+    </center>
+  </div>
+  <div>
+    <center>
+      <form action="search.php" method="post">
+        <table>
+          <tr>
+            <label for="difficulty">Difficulty: </label>
+            <select id="difficulty" name="difficulty">
+              <option value="all">All</option>
+              <option>Beginner</option>
+              <option>Intermediate</option>
+              <option>Advanced</option>
+            </select>
+          </tr>
+
+          <tr>
+            <td><input type="submit" value="Szukaj"></td>
+          </tr>
+        </table>
+      </form>
+    </center>
+  </div>
+</body>
+
+</html>
