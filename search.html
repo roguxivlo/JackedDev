@@ -1,6 +1,8 @@
 <html>
 
 <head>
+  <script src="search.js"></script>
+  <link rel="stylesheet" href="search.css">
   <meta charset="utf-8">
   <title>JackedDev - wyszukiwarka</title>
 </head>
@@ -29,6 +31,7 @@
       <form action="search.php" method="post">
         <table>
           <tr>
+
             <label for="difficulty">Difficulty: </label>
             <select id="difficulty" name="difficulty">
               <option value="all">All</option>
@@ -38,6 +41,63 @@
             </select>
           </tr>
 
+          <tr>
+            <div class="multiselect">
+              <div class="selectBox" onclick="showCheckboxes()">
+                <select>
+                  <option>Select target muscles</option>
+                </select>
+                <div class="overSelect"></div>
+              </div>
+              <div id="checkboxes">
+                <label for="Calves">
+                  <input type="checkbox" id="Calves" />Calves</label>
+                <label for="Shins">
+                  <input type="checkbox" id="Shins" />Shins</label>
+                <label for="Thighs">
+                  <input type="checkbox" id="Thighs" />Thighs</label>
+                <label for="ABS">
+                  <input type="checkbox" id="ABS" />ABS</label>
+                <label for="Butt/Hips">
+                  <input type="checkbox" id="Butt/Hips" />Butt/Hips</label>
+                <label for="Shoulders">
+                  <input type="checkbox" id="Shoulders" />Shoulders</label>
+                <label for="Back">
+                  <input type="checkbox" id="Back" />Back</label>
+                <label for="Chest">
+                  <input type="checkbox" id="Chest" />Chest</label>
+                <label for="Arms">
+                  <input type="checkbox" id="Arms" />Arms</label>
+                <label for="Neck">
+                  <input type="checkbox" id="Neck" />Neck</label>
+              </div>
+            </div>
+          </tr>
+
+          <tr>
+
+            <label for="equipment">Equipment: </label>
+            <select id="equipment" name="equipment">
+              <option value="all">All</option>
+              <option>Resistance Bands/Cables</option>
+              <option>Heavy Ropes</option>
+              <option>Cones</option>
+              <option>Kettlebells</option>
+              <option>Medicine Ball</option>
+              <option>No Equipment</option>
+              <option>Ladder</option>
+              <option>Bench</option>
+              <option>Dumbbells</option>
+              <option>Weight Machines / Selectorized</option>
+              <option>Barbell</option>
+              <option>BOSU Trainer</option>
+              <option>Stability Ball</option>
+              <option>Raised Platform/Box</option>
+              <option>Pull up bar</option>
+              <option>Hurdles</option>
+              <option>TRX</option>
+            </select>
+          </tr>
           <tr>
             <td><input type="submit" value="Szukaj"></td>
           </tr>
