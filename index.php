@@ -11,7 +11,7 @@
     <center>
       <table>
         <tr>
-          <td><a href="index.html">Strona Główna</a></td>
+          <td><a href="index.php">Strona Główna</a></td>
         </tr>
         <tr>
           <td><a href="search.html">Szukaj Ćwiczeń</a></td>
@@ -22,6 +22,12 @@
         <tr>
           <td><a href="register.html">Zarejestruj się</a></td>
         </tr>
+        <?php
+        session_start();
+        if (isset($_SESSION['login'])) {
+          echo "<tr><td><a href='logout.php'>Wyloguj się</a></td></tr>";
+        }
+        ?>
       </table>
     </center>
 

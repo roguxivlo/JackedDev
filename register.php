@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> JackedDev - rejestracja </title>
+    <title> JackedDev - Rejestracja </title>
     <meta charset="utf-8">
   </head>
   <body>
@@ -8,7 +8,7 @@
       <center>
         <table>
           <tr>
-            <td><a href="index.html">Strona Główna</a></td>
+            <td><a href="index.php">Strona Główna</a></td>
           </tr>
           <tr>
             <td><a href="search.html">Szukaj Ćwiczeń</a></td>
