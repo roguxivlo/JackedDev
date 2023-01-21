@@ -14,10 +14,10 @@
           <td><a href="search.html">Szukaj Ćwiczeń</a></td>
         </tr>
         <tr>
-          <td><a href="login.html">Zaloguj się</a></td>
+          <td><a href="login.php">Zaloguj się</a></td>
         </tr>
         <tr>
-          <td><a href="register.html">Zarejestruj się</a></td>
+          <td><a href="register.php">Zarejestruj się</a></td>
         </tr>
       </table>
     </center>

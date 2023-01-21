@@ -1,10 +1,10 @@
-<html>
+<html lang="pl">
   <head>
-    <title>JackedDev - Logowanie</title>
     <meta charset="utf-8">
-</head>
+    <title>JackedDev - Logowanie</title>
+  </head>
   <body>
-  <div>
+    <div>
       <center>
         <table>
           <tr>
@@ -14,52 +14,79 @@
             <td><a href="search.html">Szukaj Ćwiczeń</a></td>
           </tr>
           <tr>
-            <td><a href="login.html">Zaloguj się</a></td>
+            <td><a href="login.php">Zaloguj się</a></td>
           </tr>
           <tr>
-            <td><a href="register.html">Zarejestruj się</a></td>
+            <td><a href="register.php">Zarejestruj się</a></td>
           </tr>
+          <?php
+            session_start();
+            if (isset($_SESSION['login'])) {
+              echo "<tr><td><a href='logout.php'>Wyloguj się</a></td></tr>";
+              echo "<tr><td> Jesteś zalogowany jako ".$_SESSION['login']."</td></tr>";
+              exit;
+            }
+          ?>
         </table>
     </div>
-    <!-- Connect to mysql database -->
+    <div>
+        <form action="#" method="post">
+          <table>
+            <tr>
+              <td>Login:</td>
+              <td><input type="text" name="login"></td>
+            </tr>
+            <tr>
+              <td>Hasło:</td>
+              <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+              <td><input type="submit" value="Zaloguj"></td>
+            </tr>
+            
+          </table>
+        </form>
+      </center>
+    </div>
     <?php
-    session_start();
     // Check if user is already logged in
-    if (isset($_SESSION['login'])) {
-      echo "Jesteś już zalogowany, ".$_SESSION['login'];
-      exit;
-    }
-    $login = "jr440002";
-    $password = "haslo";
-    $host = "//labora.mimuw.edu.pl/LABS";
-    $connection = oci_connect($login, $password, $host);
-    if (!$connection) {
-      echo "oci_connect failed\n";
-      $e = oci_error();
-      echo $e['message'];
-    }
-    else {
-      $user_login = $_POST["login"];
-      $user_password = $_POST["password"];
-      $query = "SELECT * FROM USERS WHERE LOGIN = '$user_login' AND PASSWORD = '$user_password'";
-      $statement = oci_parse($connection, $query);
-      $r = oci_execute($statement);
-      if (!$r) {
-        $e = oci_error($statement);
+    if (isset($_POST["login"])) {
+      if (isset($_SESSION['login'])) {
+        echo "Jesteś już zalogowany, ".$_SESSION['login'];
+        exit;
+      }
+      $login = "jr440002";
+      $password = "haslo";
+      $host = "//labora.mimuw.edu.pl/LABS";
+      $connection = oci_connect($login, $password, $host);
+      if (!$connection) {
+        echo "oci_connect failed\n";
+        $e = oci_error();
         echo $e['message'];
       }
       else {
-        $row = oci_fetch_array($statement, OCI_ASSOC);
-        if ($row) {
-          echo "Zalogowano użytkownika $user_login";
-          $_SESSION['login'] = $user_login;
-          $_SESSION['password'] = $user_password;
+        $user_login = $_POST["login"];
+        $user_password = $_POST["password"];
+        $query = "SELECT * FROM USERS WHERE LOGIN = '$user_login' AND PASSWORD = '$user_password'";
+        $statement = oci_parse($connection, $query);
+        $r = oci_execute($statement);
+        if (!$r) {
+          $e = oci_error($statement);
+          echo $e['message'];
         }
         else {
-          echo "Niepoprawny login lub hasło";
+          $row = oci_fetch_array($statement, OCI_ASSOC);
+          if ($row) {
+            echo "Zalogowano użytkownika $user_login";
+            $_SESSION['login'] = $user_login;
+            $_SESSION['password'] = $user_password;
+          }
+          else {
+            echo "Niepoprawny login lub hasło";
+          }
         }
       }
     }
+    
     ?>
-  </body>
 </html>
