@@ -34,9 +34,22 @@ CREATE TABLE used_muscle (
     CONSTRAINT used_muscle_primary_key PRIMARY KEY (exercise_id, muscle_id)
 );
 
-CREATE TABLE user (
+CREATE TABLE users (
     login VARCHAR(20) PRIMARY KEY,
-    password VARCHAR(20) NOT NULL,
+    password VARCHAR(20) NOT NULL
+);
+
+CREATE TABLE training (
+    id NUMBER (4) PRIMARY KEY,
+    user_login VARCHAR(20) REFERENCES users(login),
+    training_date date NOT NULL
+);
+
+CREATE TABLE exercises_per_training (
+    training_id NUMBER(4) REFERENCES training(id),
+    exercise_id NUMBER(4) REFERENCES exercise(id),
+    series NUMBER(4),
+    repetitions NUMBER(4)
 );
 
 -- examples for test
