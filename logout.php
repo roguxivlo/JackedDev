@@ -11,7 +11,7 @@
           <td><a href="index.php">Strona Główna</a></td>
         </tr>
         <tr>
-          <td><a href="search.html">Szukaj Ćwiczeń</a></td>
+          <td><a href="search.php">Szukaj Ćwiczeń</a></td>
         </tr>
         <tr>
           <td><a href="login.php">Zaloguj się</a></td>

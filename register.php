@@ -11,20 +11,19 @@
             <td><a href="index.php">Strona Główna</a></td>
           </tr>
           <tr>
-            <td><a href="search.html">Szukaj Ćwiczeń</a></td>
-          </tr>
-          <tr>
-            <td><a href="login.php">Zaloguj się</a></td>
-          </tr>
-          <tr>
-            <td><a href="register.php">Zarejestruj się</a></td>
+            <td><a href="search.php">Szukaj Ćwiczeń</a></td>
           </tr>
           <?php
             session_start();
             if (isset($_SESSION['login'])) {
+              echo "<tr><td><a href='user_page.php'>Twoje treningi</a></td></tr>";
               echo "<tr><td><a href='logout.php'>Wyloguj się</a></td></tr>";
               echo "<tr><td>Jesteś już zalogowany, ".$_SESSION['login']."</td></tr>";
               exit;
+            }
+            else {
+              echo "<tr><td><a href='login.php'>Zaloguj się</a></td></tr>";
+              echo "<tr><td><a href='register.php'>Zarejestruj się</a></td></tr>";
             }
           ?>
         </table>
