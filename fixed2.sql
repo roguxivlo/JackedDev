@@ -461,7 +461,7 @@ Exercise Variation: To add resistance and increase the level of difficulty, hold
 
 If balancing on the right leg, use the left leg to help move into a position of flexion on the right hip; pointing the left leg backwards while pointing the toes and straightening the legs will help move the right hip into a position of flexion.
 ');
-INSERT INTO exercise VALUES (1048, 'Kneeling ABC's', 'Beginner');
+INSERT INTO exercise VALUES (1048, 'Kneeling ABCs', 'Beginner');
 INSERT INTO used_muscle VALUES (1048, 1004);
 INSERT INTO required_equipment VALUES (1048, 1012);
 INSERT INTO exercise_description VALUES (1048, 'Kneeling behind a stability ball, lean the body forward at a 45 degree angle and rest the elbows on the top of the ball. Keep the stomach muscles tight and the elbows pushing up from the ball directly under the shoulders. Move the ball around with the elbows drawing the letters of the alphabet. Maintain a straight line from head to knees.
@@ -563,7 +563,7 @@ Exercise Variation: Repeat the same exercise, but train each leg independently.
 
 Improper technique will result in excessive recruitment (use) of the lumber extensors (low back muscles). Stabilize your low back throughout the exercise and use a lighter resistance if you are unable to control movement in the low back.
 ');
-INSERT INTO exercise VALUES (1058, 'Modified Hurdler's Stretch', 'Beginner');
+INSERT INTO exercise VALUES (1058, 'Modified Hurdlers Stretch', 'Beginner');
 INSERT INTO used_muscle VALUES (1058, 1003);
 INSERT INTO required_equipment VALUES (1058, 1005);
 INSERT INTO exercise_description VALUES (1058, 'Starting Position: Assume a seated position with legs extended in front of you and point your toes towards the ceiling without bending your knees. Gently fold your left leg by bending the knee and tucking the sole of that foot gently against the inside of your right thigh. Sit upright (i.e., trunk vertical) with your head aligned with your spine and place your hands on the top of your thighs.
@@ -591,7 +591,7 @@ Move into each position slow and controlled. Avoid any movement of the shoulders
 INSERT INTO exercise VALUES (1060, 'Single Arm, Single Leg Plank', 'Advanced');
 INSERT INTO used_muscle VALUES (1060, 1000);
 INSERT INTO required_equipment VALUES (1060, 1005);
-INSERT INTO exercise_description VALUES (1060, '");
+INSERT INTO exercise_description VALUES (1060, '');
 INSERT INTO exercise VALUES (1061, 'Single Leg Hamstring Curl', 'Advanced');
 INSERT INTO used_muscle VALUES (1061, 1005);
 INSERT INTO used_muscle VALUES (1061, 1003);
@@ -858,7 +858,7 @@ INSERT INTO exercise_description VALUES (1092, 'Place a cable pulley at the lowe
 INSERT INTO exercise VALUES (1093, 'Kneeling Lat Pulldown', 'Intermediate');
 INSERT INTO used_muscle VALUES (1093, 1007);
 INSERT INTO required_equipment VALUES (1093, 1000);
-INSERT INTO exercise_description VALUES (1093, '");
+INSERT INTO exercise_description VALUES (1093, '');
 INSERT INTO exercise VALUES (1094, 'Kneeling Reverse Fly', 'Intermediate');
 INSERT INTO used_muscle VALUES (1094, 1007);
 INSERT INTO used_muscle VALUES (1094, 1006);
@@ -932,7 +932,7 @@ Remember to keep your feet planted into the floor with your abdominals engaged a
 INSERT INTO exercise VALUES (1099, 'Prone (Lying) Hamstrings Curl', 'Beginner');
 INSERT INTO used_muscle VALUES (1099, 1003);
 INSERT INTO required_equipment VALUES (1099, 1000);
-INSERT INTO exercise_description VALUES (1099, '");
+INSERT INTO exercise_description VALUES (1099, '');
 INSERT INTO exercise VALUES (1100, 'Quadruped Bent-knee Hip Extensions', 'Beginner');
 INSERT INTO used_muscle VALUES (1100, 1004);
 INSERT INTO used_muscle VALUES (1100, 1005);
@@ -1206,7 +1206,7 @@ This exercise targets the major back muscles effectively, but should be performe
 INSERT INTO exercise VALUES (1129, 'Seated Leg Extension ', 'Beginner');
 INSERT INTO used_muscle VALUES (1129, 1003);
 INSERT INTO required_equipment VALUES (1129, 1009);
-INSERT INTO exercise_description VALUES (1129, '");
+INSERT INTO exercise_description VALUES (1129, '');
 INSERT INTO exercise VALUES (1130, 'Seated Leg Press Exercise', 'Beginner');
 INSERT INTO used_muscle VALUES (1130, 1005);
 INSERT INTO used_muscle VALUES (1130, 1003);
@@ -1249,7 +1249,7 @@ INSERT INTO used_muscle VALUES (1134, 1008);
 INSERT INTO required_equipment VALUES (1134, 1004);
 INSERT INTO exercise_description VALUES (1134, 'In a standing position, lean over slightly at the hips keeping the back flat. Begin with the medicine ball at the chest with elbows out to the sides and forcefully push the ball toward the floor underneath the chest. Catch the ball when it rebounds and repeat quickly.
 ');
-INSERT INTO exercise VALUES (1135, 'Prone ABC's', 'Advanced');
+INSERT INTO exercise VALUES (1135, 'Prone ABCs', 'Advanced');
 INSERT INTO used_muscle VALUES (1135, 1004);
 INSERT INTO required_equipment VALUES (1135, 1012);
 INSERT INTO exercise_description VALUES (1135, 'Kneeling facing a stability ball, lean the chest forward at a 45 degree angle and rest both elbows on the top of the ball directly under the shoulders. Keeping the stomach muscles squeezed and body supported off the ball, raise the knees off the ground. With the body in a straight line from head to feet, move the ball around with the elbows to draw the letters of the alphabet. Maintain a straight line from head to feet.
@@ -1571,7 +1571,7 @@ INSERT INTO used_muscle VALUES (1174, 1005);
 INSERT INTO used_muscle VALUES (1174, 1000);
 INSERT INTO required_equipment VALUES (1174, 1000);
 INSERT INTO required_equipment VALUES (1174, 1009);
-INSERT INTO exercise_description VALUES (1174, '");
+INSERT INTO exercise_description VALUES (1174, '');
 INSERT INTO exercise VALUES (1175, 'Standing Hip Adduction', 'Intermediate');
 INSERT INTO used_muscle VALUES (1175, 1004);
 INSERT INTO used_muscle VALUES (1175, 1005);
@@ -2024,7 +2024,7 @@ INSERT INTO used_muscle VALUES (1218, 1000);
 INSERT INTO required_equipment VALUES (1218, 1003);
 INSERT INTO exercise_description VALUES (1218, 'Lie on the ground on the right side, with the body curled in the fetal position and the kettlebell in the right hand. Roll over to the back facing the ceiling with the left leg out straight about 45 degrees and the right knee bent so that the right foot is flat on the floor. Grip a kettlebell tightly in the right arm and hold it straight overhead with the left arm directly out to the left side. Lift the right shoulder off the ground, and push up with the left hand while curling the chest up. Keeping the eyes on the kettlebell throughout the movement, push the right foot into the floor and straighten the left arm to lift the hips off the floor. Hold the bridge position while bringing the left leg back and placing the left knee on the floor directly under the hips. Remove the left hand from the floor, and move into a kneeling position with the left knee and right foot on the ground. Continue to hold the right arm overhead and press the right foot into the ground, swinging the left leg forward to stand up straight. To return to the ground, step back with the left leg and slowly lower to a kneeling position, place the left hand on the floor and sweep the left leg to the front of the body. Hold the bridge position between left hand and right foot, then slowly lower the hips to the ground before rolling all the way back to the ground.
 ');
-INSERT INTO exercise VALUES (1219, 'Waiter's Carry', 'Advanced');
+INSERT INTO exercise VALUES (1219, 'Waiters Carry', 'Advanced');
 INSERT INTO used_muscle VALUES (1219, 1000);
 INSERT INTO required_equipment VALUES (1219, 1003);
 INSERT INTO exercise_description VALUES (1219, 'Stand with the feet hip-width apart and hold a kettlebell in the right hand in a ‘bottom-up’ position (holding the top of the handle so that the bottom of the kettlebell is facing up to the ceiling.) Squeeze the handle of the kettlebell with a tight grip to maintain balance. Keep the back straight and the right elbow next to the rib cage while walking a specified, pre-determined distance; after covering the distance turn towards the kettlebell to face the opposite direction and return to the starting point.
@@ -2172,7 +2172,7 @@ INSERT INTO required_equipment VALUES (1233, 1007);
 INSERT INTO required_equipment VALUES (1233, 1008);
 INSERT INTO exercise_description VALUES (1233, 'Lie on a flat bench so that the body is perpendicular to the bench with the upper back and shoulders lying across the pad. Press the feet into the ground about hip-width apart, hold one dumbbell in each hand and rest them on top of the hips to add external resistance. Slowly lower the tailbone towards the floor while holding the weights on the hips, and to return to the top press both feet into the floor and squeeze the glute muscles.
 ');
-INSERT INTO exercise VALUES (1234, 'Farmer's Carry', 'Intermediate');
+INSERT INTO exercise VALUES (1234, 'Farmers Carry', 'Intermediate');
 INSERT INTO used_muscle VALUES (1234, 1000);
 INSERT INTO required_equipment VALUES (1234, 1008);
 INSERT INTO exercise_description VALUES (1234, 'Hold a dumbbell in each hand with a tight, firm grip and the palms facing down, and allow the arms to rest along the sides of the body so the dumbbells are next to each hip. Keep the back straight and walk a specified, pre-determined distance. Once reaching the end, turn around and return to the starting point.
