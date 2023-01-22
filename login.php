@@ -76,9 +76,9 @@
         else {
           $row = oci_fetch_array($statement, OCI_ASSOC);
           if ($row) {
-            echo "Zalogowano użytkownika $user_login";
             $_SESSION['login'] = $user_login;
             $_SESSION['password'] = $user_password;
+            header('Location: https://students.mimuw.edu.pl/~jr440002/user_page.php');
           }
           else {
             echo "Niepoprawny login lub hasło";
