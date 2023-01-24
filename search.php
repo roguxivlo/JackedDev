@@ -18,15 +18,14 @@
           <td><a href="search.php">Szukaj Ćwiczeń</a></td>
         </tr>
         <?php
-          session_start();
-          if (isset($_SESSION['login'])) {
-            echo "<tr><td><a href='user_page.php'>Twoje treningi</a></td></tr>";
-            echo "<tr><td><a href='logout.php'>Wyloguj się</a></td></tr>";
-          }
-          else {
-            echo "<tr><td><a href='login.php'>Zaloguj się</a></td></tr>";
-            echo "<tr><td><a href='register.php'>Zarejestruj się</a></td></tr>";
-          }
+        session_start();
+        if (isset($_SESSION['login'])) {
+          echo "<tr><td><a href='user_page.php'>Twoje treningi</a></td></tr>";
+          echo "<tr><td><a href='logout.php'>Wyloguj się</a></td></tr>";
+        } else {
+          echo "<tr><td><a href='login.php'>Zaloguj się</a></td></tr>";
+          echo "<tr><td><a href='register.php'>Zarejestruj się</a></td></tr>";
+        }
         ?>
       </table>
     </center>
@@ -111,54 +110,70 @@
     </center>
   </div>
   <?php
-      if (isset($_POST["submit"])) {
-        $difficulty = $_POST["difficulty"];
-        $equipment = $_POST["equipment"];
-        $targetMuscles = array();
-        if (isset($_POST["Calves"])) {
-          array_push($targetMuscles, "Calves");
-        }
-        if (isset($_POST["Shins"])) {
-          array_push($targetMuscles, "Shins");
-        }
-        if (isset($_POST["Thighs"])) {
-          array_push($targetMuscles, "Thighs");
-        }
-        if (isset($_POST["ABS"])) {
-          array_push($targetMuscles, "ABS");
-        }
-        if (isset($_POST["Butt/Hips"])) {
-          array_push($targetMuscles, "Butt/Hips");
-        }
-        if (isset($_POST["Shoulders"])) {
-          array_push($targetMuscles, "Shoulders");
-        }
-        if (isset($_POST["Back"])) {
-          array_push($targetMuscles, "Back");
-        }
-        if (isset($_POST["Chest"])) {
-          array_push($targetMuscles, "Chest");
-        }
-        if (isset($_POST["Arms"])) {
-          array_push($targetMuscles, "Arms");
-        }
-        if (isset($_POST["Neck"])) {
-          array_push($targetMuscles, "Neck");
-        }
-        
-        echo "Wybrałeś:<br>";
-        echo $difficulty."<br>";
-        echo $equipment."<br>";
-        for ($i = 0; $i < count($targetMuscles); $i++) {
-          echo $targetMuscles[$i]."<br>";
-        }
+  if (isset($_POST["submit"])) {
+    $difficulty = $_POST["difficulty"];
+    $equipment = $_POST["equipment"];
+    $targetMuscles = array();
+    if (isset($_POST["Calves"])) {
+      array_push($targetMuscles, "Calves");
+    }
+    if (isset($_POST["Shins"])) {
+      array_push($targetMuscles, "Shins");
+    }
+    if (isset($_POST["Thighs"])) {
+      array_push($targetMuscles, "Thighs");
+    }
+    if (isset($_POST["ABS"])) {
+      array_push($targetMuscles, "ABS");
+    }
+    if (isset($_POST["Butt/Hips"])) {
+      array_push($targetMuscles, "Butt/Hips");
+    }
+    if (isset($_POST["Shoulders"])) {
+      array_push($targetMuscles, "Shoulders");
+    }
+    if (isset($_POST["Back"])) {
+      array_push($targetMuscles, "Back");
+    }
+    if (isset($_POST["Chest"])) {
+      array_push($targetMuscles, "Chest");
+    }
+    if (isset($_POST["Arms"])) {
+      array_push($targetMuscles, "Arms");
+    }
+    if (isset($_POST["Neck"])) {
+      array_push($targetMuscles, "Neck");
+    }
+
+    echo "Wybrałeś:<br>";
+    echo $difficulty . "<br>";
+    echo $equipment . "<br>";
+    for ($i = 0; $i < count($targetMuscles); $i++) {
+      echo $targetMuscles[$i] . "<br>";
+    }
+
+    $table_name = "exercies JOIN target_muscles ON exercises.id = target_muscles.exercise_id JOIN required_equipment ON exercises.id = required_equipment.exercise_id";
+
+    if ($difficulty != "all") {
+      $sql = "SELECT * FROM ".$table_name." WHERE difficulty_level = '$difficulty'";
+    } else {
+      $sql = "SELECT * FROM ".$table_name;
+    }
 
 
-      }
-      else {
-        echo "Nie wybrałeś żadnych opcji<br>";
-      }
-    ?>
+    $sql = $sql.";";
+    echo "<br>".$sql."<br><br>";
+
+    $stmt = oci_parse($conn, $sql);
+    oci_execute($stmt);
+    while($row = oci_fetch_array($stmt, OCI_BOTH)) {
+      echo $row['EXERCISE_NAME'] . $row['DIFFICULTY_LEVEL'] . "<br>";
+    }
+
+  } else {
+    echo "Nie wybrałeś żadnych opcji<br>";
+  }
+  ?>
 </body>
 
 </html>

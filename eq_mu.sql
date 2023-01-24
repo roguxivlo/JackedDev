@@ -20,7 +20,7 @@ INSERT INTO muscle VALUES (1000, 'Body/Integrated');
 INSERT INTO muscle VALUES (1001, 'Calves');
 INSERT INTO muscle VALUES (1002, 'Shins');
 INSERT INTO muscle VALUES (1003, 'Thighs');
-INSERT INTO muscle VALUES (1004, 'Abs');
+INSERT INTO muscle VALUES (1004, 'ABS');
 INSERT INTO muscle VALUES (1005, 'Butt/Hips');
 INSERT INTO muscle VALUES (1006, 'Shoulders');
 INSERT INTO muscle VALUES (1007, 'Back');
