@@ -19,13 +19,10 @@ INSERT INTO used_muscle VALUES (1003, 1002);
 INSERT INTO used_muscle VALUES (1003, 1003);
 INSERT INTO required_equipment VALUES (1003, 1002);
 INSERT INTO exercise_description VALUES (1003, 'Starting Position: Lay out your cones as illustrated creating a zig-zag line for 10 - 15 yards (9 - 14 m). The cones should be 2 - 4" (approximately 1 m) apart.
-
 Start by standing to the outside of the first cone, with both feet together or hip-width apart and feet facing forward. Stiffen (“brace”) your abdominal muscles to stabilize your spine and maintain this position throughout the exercise.
 Squat down, then immediately explode upwards in a diagnonal direction over the cone i na directio ntowards the 2nd cone (with a minimal pause in the squat position). Your jump should push through your the heels of your feet and extend your hips, knees and ankles in one movement. Swinging your arms upwards as you jump will increase your power and jumping ability.
 Maintain your foot alignment during the jump, landing with your feet aligned in the same position as when you jumped. Make first contact through your mid-foot (balls of your feet), rolling immediately back through you heels while initaiting a "hip-hinge" (bending at the hips, pushing your butt backwards) to absorb the impacting forces. Continue to drop into a 1/2 squat position bofre transitioning explosively into another diagonal jump.
-
 Exercise Variation: Progress the drill intensity by jumping higher over the cones, spacing the cones further apart (4 - 6") or increasing the overal length of the grid. However, one set through the drills should not exceed 10 seconds (if performing at a 9 or 10-out-of-10 effort) or 15-20 yards for lower intensities.
-
 Always learn the proper machanics of landing before jumping. Alignment of the foot, knee and ankle, and the mechanics of landing are critical to minimizing injury associated with jumping activities.
 ');
 INSERT INTO exercise VALUES (1004, 'Low Windmill', 'Advanced');
@@ -61,13 +58,11 @@ INSERT INTO used_muscle VALUES (1007, 1006);
 INSERT INTO required_equipment VALUES (1007, 1004);
 INSERT INTO exercise_description VALUES (1007, 'Before you begin make sure that you are working with a partner who can catch the ball, (let the partner feel the medicine ball first so he or she knows how much it weighs and can prepare to catch it) or be sure that you have a solid wall or medicine ball rebounder that can withstand the forces of impact from a medicine ball.
 Starting Position: Stand on the floor in an athletic ready position with both feet hip-width apart, position your body directly facing your partner (or wall / rebounder), your should be at least 5-8 feet away from your partner and each partner should maintain the spine in neutral (normal-to-flat), shoulders depressed (no shrugging) with scapulae retracted (squeezing shoulder blades together). Keep your chest lifted up, head in line with your spine or slightly extended (raised). Firmly hold a medicine ball between both hands right in front of your chest; contract and brace the abdominals and keep your hips pressed forward by contracting your glutes. Your head should be level and your eyes should be looking directly at the target.
-
 The partner preparing to catch the medicine ball should stand with his or her feet firmly planted into the ground, the hips slightly flexed, the abdominals engaged and both hands held straight in front of the chest in order to provide a target for the partner throwing the ball. The person throwing the ball should step forward with the right foot into a forward lunge, as the right foot hits the ground bend your left knee to allow you to sink into your right hip simultaneously push the medicine ball away from your chest to throw it directly to your partner.
 The partner catching the ball should catch it in a standing position with the arms outstretched straight out in front of his or her body, as the medicine ball hits the hands, allow it to decelerate towards the chest. Once the catching partner catches the medicine ball he or she should then step forward with the left leg into a forward lunge to throw the ball back to the partner who originated the throw who should be standing with the hips flexed, both feet hip width apart and the arms outstretched straight in front of his or her body to prepare to catch the ball.
 The partner who originated the throwing should again step forward with his or her right leg into a forward lunge and throw the medicine ball back to the other person who is standing with outstretched hands prepared to catch the ball and step back into a forward lunge.
 The partner catching the ball should first catch the ball with both hands and the feet hip width apart before stepping forward into a forward lunge with the left leg to throw another chest pass back to the partner who originated the lunging and throwing movement. Perform a number of lunge and throws stepping with one leg before alternating and conducting the same number of lunge and throws stepping forward with the other leg.
 Exercise Variation: The partner catching the ball can balance on one leg to work on core stability while decelerating the forces related to catching the ball before stepping into the forward lunge.
-
 During the entire thowing and catching sequence each partner should position his or her body with the spine in neutral (normal-to-flat), shoulders depressed (no shrugging) with scapulae retracted (squeezing shoulder blades together). Each partner should keep his or her chest held up and out, the head in line with his or her spine and both hands out front while preparing to catch the ball (holding the hands in front of the body gives the partner throwing the ball a target to aim for when releasing the ball; the throwing partner should keep his or her eyes on the catching partner"s hands to ensure good aim).
 ');
 INSERT INTO exercise VALUES (1008, 'Medicine Ball Push-ups', 'Advanced');
@@ -88,7 +83,6 @@ INSERT INTO required_equipment VALUES (1009, 1005);
 INSERT INTO exercise_description VALUES (1009, 'Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towards your body). Slowly lean forward to place your hands on the floor slightly in front of your shoulders, fingers pointing forwards. Flex your left hip, bringing your left thigh to your chest, placing your left foot on the floor, heel slighlty lifted and toes pointing forward. Lift your right knee off the ground, fully extending your right leg behind you, with your foot in dorsi flexion, (toes pointing towards your shins, heel up). Stiffen your abdominal muscles (“brace”) to stabilize your spine, then depress and retract your scapulae (pull your shoulders down and back)
 Keeping your hands firmly on the ground, abs engaged and shoulder strong, simultaneously switch leg positions. Both feet leave the ground as your drive your right knee forward and extend your left leg back. Now your left leg is fully extending behind you and your right hip is flexed with your right foot on the floor.
 Exercise Variation: If you have limited range of motion in the hips, place hands on a step or platform.
-
 Keep your weight evenly distributed on both legs. Do not shift all your weight foward into your front foot.
 ');
 INSERT INTO exercise VALUES (1010, 'Multidirectional Ladder Drill', 'Advanced');
@@ -102,7 +96,6 @@ Close-up: both feet are planted inside the ladder, maintain an athletic ready po
 Close-up: when both feet are next to each other in the square, pick up the right foot and plant it on the outside of the ladder in order to push off with right foot and pick up the left foot to move it forward to the next square in the ladder. The drill should create a zig-zag pattern which is a combination of both forward and lateral movement; the foot pattern is: in-in-out-in-in-out (right foot in the square-left foot in the square-right foot outside the square with the left foot picked up and moved forward to the next square, when it is on the ground the right foot is picked up from the outside of the square and brought into the square next to the left; the left foot is then planted on the outside of the square and the right foot moved forward to the next square).
 Exercise Variation: When learning the drill, you can plant just one foot on the outside of the ladder, as you improve your skill and speed, you can bring both feet outside the ladder-plant the right foot, then bring the left foot outside the ladder to hit the ground next to the right before being moved to the next forward square. Another variation is to keep your eyes off of your feet and looking straight ahead where your opponent would be during an athletic competition.
 Keep your hips flexed with a tall, straight spine to ensure the athletic position throughout the entire range-of-motion of the drill.
-
 ');
 INSERT INTO exercise VALUES (1011, 'Offset Single-arm Chest Press', 'Advanced');
 INSERT INTO used_muscle VALUES (1011, 1008);
@@ -115,15 +108,10 @@ INSERT INTO exercise VALUES (1012, '90 Lat Stretch', 'Beginner');
 INSERT INTO used_muscle VALUES (1012, 1007);
 INSERT INTO required_equipment VALUES (1012, 1005);
 INSERT INTO exercise_description VALUES (1012, 'Starting Position: Stand with your feet hip-width apart with arms by your sides. Stiffen your abdominal muscles (“brace”) to stabilize your spine, then depress and retract your scapulae (pull shoulders down and back) without arching your low back. Hold your chest up and out, tilt your head slightly up.
-
 With a slight bend in the knee, shift your weight over your heels and slowly begin bending forward at the hips, maintaining the abdominal bracing and flat back. Place your hands on the table while keeping the arms straight with the elbows extended and position the arms so there is a straight line from the shoulders, through the elbows to the wrists.
-
 With your hands on the table, keep your legs directly under your hips while leaning back into your hips, straightening the legs and drawing your torso closer to the ground while keeping a flat back. Keep your chin tucked into your neck to stabilize your cervical spine and to keep your head from dropping towards the floor.
-
 Hold the stretch position for 15-30 seconds for a total of 2-4 repetitions. To increase the stretch of the latissimus dorsi (back) muscles, rotate your thumbs to point toward the ceiling.
-
 Exercise Variation: To increase the stretch, supinate the palms (turn the palms up to face the ceiling) while leaning back into your hips.
-
 Exhale as you lean back into your hips. Be sure not to fully “lock” the knees while holding this position.
 ');
 INSERT INTO exercise VALUES (1013, 'Ankle Flexion ', 'Beginner');
@@ -131,11 +119,8 @@ INSERT INTO used_muscle VALUES (1013, 1001);
 INSERT INTO used_muscle VALUES (1013, 1002);
 INSERT INTO required_equipment VALUES (1013, 1000);
 INSERT INTO exercise_description VALUES (1013, 'Starting Position: Assume a seated position, extending one leg out in front. Secure a cable or resistance band around the ball of that foot. The resistance should be pulling the bottom of your foot away from you.
-
 Start with your foot in plantar flexion (toes pointed forward away from your body) and slowly dorsiflex the ankle (pulling your toes towards your shin). Slowly return to your starting position, controlling the speed of movement and repeat.
-
 The movement comes from your ankle, so avoid any bending or full extension of your knee throughout the movement. Always aim to keep your foot aligned facing forward.
-
 As an exercise progression, modify your movement to include a slight foot rotation as you dorsiflex the ankle (toes point towards the ceiling). The direction of your slight rotation should be into inversion (bringing the big toe towards your shin bone).
 ');
 INSERT INTO exercise VALUES (1014, 'Anti-rotation Reverse Lunge', 'Beginner');
@@ -149,11 +134,8 @@ INSERT INTO used_muscle VALUES (1015, 1008);
 INSERT INTO used_muscle VALUES (1015, 1006);
 INSERT INTO required_equipment VALUES (1015, 1005);
 INSERT INTO exercise_description VALUES (1015, 'Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you.
-
 Slowly bend forward to place your palms flat on the mat, positioning your hands shoulder-width apart with your fingers facing forward. Slowly shift your weight forward until your shoulders are positioned directly over your hands. Reposition your hands as needed to allow full extension of your body from the knees without any bend at the hips. Stiffen your torso by contracting your core and abdominal muscles ("bracing").
-
 Downward Phase: Slowly lower your body towards the floor while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards during this downward phase. Continue to lower yourself until your chest or chin touch the mat or floor. Your elbows should remain close to the sides of your body or flare outwards slightly.
-
 Upward Phase: Press upwards through your arms while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards. Continue pressing until the arms are fully extended at the elbows.
 ');
 INSERT INTO exercise VALUES (1016, 'Bodyweight Squat', 'Beginner');
@@ -164,17 +146,11 @@ INSERT INTO used_muscle VALUES (1016, 1002);
 INSERT INTO used_muscle VALUES (1016, 1003);
 INSERT INTO required_equipment VALUES (1016, 1005);
 INSERT INTO exercise_description VALUES (1016, 'Starting Position: Begin standing with your feet slightly wider than hip-width, with the toes turned slightly outwards with your hands by your sides so the palms facing inwards. Depress and retract your scapulae (pull the shoulders down and back).
-
 Stiffen your core and abdominal muscles (“bracing”) to stabilize your spine. Hold your chest up and out, tilt your head slightly up, shift your weight back into your heels while pushing your hips towards the wall behind you.
-
 Downward Phase: Start the downward phase by first shifting your hips backwards then downwards to create a hinge-like movement at your hips and knees simultaneously. As you lower your hips the knees will then start to shift forward slowly, but try to control the amount of forward translation (movement) of the tibia (shinbone). Maintain tension in the core muscles (continue bracing) and attempt to keep your back flat.
-
 Continue to lower yourself until your thighs are parallel or almost parallel with the floor, until your heels begin to lift off the floor, or until your torso begins to round or flex forward. Monitor your feet, ankles and knees, ensuring that the feet don"t move, the ankles do not collapse in or out and the knees remain aligned over the second toe.
-
 From the Lowered Position: the knees should continue to remain aligned over the second toe and body weight should be evenly distributed between the balls and heels of the feet. From the side, the position of the tibia (shinbone) and torso should be parallel with each other and the low back should appear flat or showing the beginning of some rounding.
-
 Upward Phase: While maintaining your back, chest and head-up position, exhale and extend the hips and knees by pushing your feet into the floor through your heels. The hips and torso need to rise together while keeping the heels flat on the floor and knees aligned over the second toe. Continue extending until you reach your starting position.
-
 Hip Hinge, Dumbell Front Squat, Barbell High Back Squat, Dumbbell Deadlift, Barbell Deadlift
 ');
 INSERT INTO exercise VALUES (1017, 'Calf Raise', 'Beginner');
@@ -188,13 +164,9 @@ INSERT INTO used_muscle VALUES (1018, 1007);
 INSERT INTO used_muscle VALUES (1018, 1008);
 INSERT INTO required_equipment VALUES (1018, 1005);
 INSERT INTO exercise_description VALUES (1018, 'Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towards your body).
-
 Slowly lean forward to place your hands on the mat, positioning them directly under your shoulders at shoulder-width with your hands facing forward. Reposition your hands and knees as necessary so that your knees are directly under your hips and hands are directly under your shoulders.
-
 Gently stiffen your core and abdominal muscles to position your spine in a neutral position, avoiding any sagging or arching.
-
 Upward (Cat) Phase: Gently exhale and contract your abdominal muscles, pushing your spine upwards towards the ceiling and hold this position for 10 - 15 seconds. Allow your head to fall towards your chest, maintaining alignment with the spine.
-
 Downward (Cow) Phase: Slowly relax and yield to the effects of gravity. Let your stomach fall towards the floor (increasing the arch in your low back) and allow your shoulder blades to fall together (move towards the spine). Hold this position for 10 - 15 seconds before returning to your starting position
 ');
 INSERT INTO exercise VALUES (1019, 'Chest Press', 'Beginner');
@@ -212,11 +184,8 @@ INSERT INTO used_muscle VALUES (1020, 1005);
 INSERT INTO used_muscle VALUES (1020, 1003);
 INSERT INTO required_equipment VALUES (1020, 1005);
 INSERT INTO exercise_description VALUES (1020, 'Starting Position: Kneel with both knees directly under your hips and feet plantar flexed (toes pointing behind you) with the big toes touching. Begin to widen your knees towards the outside of the mat. Stiffen your abdominal muscles (“brace”) to stabilize your spine, and depress and retract your scapulae (pull shoulders down and back) without arching your low back. Slowly lean forward placing your hands on the ground, positioning them directly under your shoulders with your fingers facing froward. Inhale.
-
 Keeping your hands planted, exhale and hinge at the hips, bringing your glutes to your heels. As you sit back, maintaining the connection between your glutes and heels, extend through your back and arms. Pull the shoulders down and back keeping them away from the ears. Allow your chest to rest between your thighs and your forehead to rest on the floor. Inhale as you lengthen the spine, extending through the upper body, and exhale as you fold deeper into the pose, widening the knees as needed.
-
 Hold this position for 5-10 slow, deep breaths (approximately 30 seconds to a minute).
-
 Exercise variation: Extend your arms alongside the body with the palms facing upward and the fronts of your shoulders toward the floor.
 ');
 INSERT INTO exercise VALUES (1021, 'Cobra Exercise', 'Beginner');
@@ -234,24 +203,17 @@ INSERT INTO used_muscle VALUES (1022, 1005);
 INSERT INTO used_muscle VALUES (1022, 1006);
 INSERT INTO required_equipment VALUES (1022, 1005);
 INSERT INTO exercise_description VALUES (1022, 'Starting Position: Lie prone (on your stomach) on a mat with your legs extended, ankles slightly plantarflexed (toes pointing away from your shins), arms extended overhead with palms facing each other. Relax your head to align it with your spine.
-
 Upward Phase: Exhale, contract your abdominal/core muscles to stabilize your spine and slowly raise one arm a few inches off the floor keeping your arm extended and avoiding any rotation in your arm. Maintain your head and torso position, avoiding any arching in your back or raising of your head. Hold this position briefly.
-
 Downward Phase: Gently inhale and lower your arm back towards your starting position without any movement in your low back or hips.
-
 Exercise Variation (1): From your starting position, contract your abdominal and core muscles to stabilize your spine and slowly extend one hip (raise one leg) a few inches off the floor keeping your leg extended, ankle plantarflexed (toes pointing away from your shins) and avoiding any rotation in your leg. Maintain your head and torso position, avoiding any arching in your back or raising of your head. Hold this position briefly before returning to your starting position.
-
 Exercise Variation(2): From your starting position, contract your abdominal/core muscles to stabilize your spine and slowly extend one hip (raise one leg) a few inches off the floor while simultaneously raising the opposite arm a few inches off the floor. Keep both your leg and arm extended and avoiding any rotation in each. Maintain your head and torso position, avoiding any arching in your back or raising of your head. Hold this position briefly before returning to your starting position.
 ');
 INSERT INTO exercise VALUES (1023, 'Crunch', 'Beginner');
 INSERT INTO used_muscle VALUES (1023, 1004);
 INSERT INTO required_equipment VALUES (1023, 1005);
 INSERT INTO exercise_description VALUES (1023, 'Starting Position: Lie in a supine (on your back) position on a mat with your knees bent, feet flat on the floor and heels 12 - 18" from your tailbone.
-
 Place your hands behind your head, squeezing your scapulae (shoulder blades) together and pulling your elbows back without arching your low back. This elbow position should be maintained throughout the exercise. Align your head with your spine, but allow it to move into slight flexion (moving the chin towards the chest) during the upward phase of the exercise.
-
 Upward Phase: Exhale, contract your abdominal and core muscles and flex your chin slightly towards your chest while slowly curling your torso towards your thighs. The movement should focus on pulling your rib cage towards your pelvis (the neck stays relaxed while the chin is tucked towards the neck). Your feet, tailbone and lower back should remain in contact with the mat at all times. Continue curling up until your upper back is lifted off the mat. Hold this position briefly.
-
 Downward Phase: Gently inhale and slowly uncurl (lower) your torso back towards the mat in a controlled fashion keeping your feet, tailbone and low back in contact with the mat.
 ');
 INSERT INTO exercise VALUES (1024, 'Rotational Uppercut', 'Intermediate');
@@ -297,7 +259,6 @@ INSERT INTO exercise_description VALUES (1028, 'Starting Position: Lie flat on y
 “T” Formation: From the same starting position, gently exhale and slowly raise your arms until vertical with the floor, then open up to your sides into the “T” formation (90-degree angle to form the letter “T”) as illustrated, while maintaining your elbows extended, depressed shoulder position and stable spine (avoid arching your back). Continue to move your arms until the backs of your hands touch the floor in the “T” position, or until you reach the point of tension, but avoid bouncing or pushing to the point of pain. Hold this position for 15 – 30 seconds then relax and return to your starting position. Perform 2 – 4 repetitions.
 “W” Formation and Wipers: From the same starting position, flex (bend) your elbows and externally rotate (turn out) your arms until the back of your forearms touch, or come close to touching the floor (forming the letter “W” as illustrated), while maintaining your elbows extended, depressed shoulder position and stable spine (avoid arching your back). Gently exhale and slowly slide your arms overhead along the floor while maintaining your bent-elbow position until your hands touch above your head or until you reach the point of tension, but avoid bouncing or pushing to the point of pain (sometimes referred to as “snow angels”). Hold both the “W” and overhead positions for 10 - 15 seconds then relax and slide your arms back to your “W” formation. Perform 2 – 4 repetitions.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions in each formation, holding the end position for 1 - 2 seconds.
-
 EXERCISE TIP: To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bouncing and control movement at other segments of the body. During this stretch, attempt to keep your scapulae (shoulders) depressed and avoid arching in your low back.
 ');
 INSERT INTO exercise VALUES (1029, 'Shrug', 'Intermediate');
@@ -359,11 +320,8 @@ INSERT INTO used_muscle VALUES (1038, 1005);
 INSERT INTO used_muscle VALUES (1038, 1003);
 INSERT INTO required_equipment VALUES (1038, 1005);
 INSERT INTO exercise_description VALUES (1038, 'Starting Position: Stand with your feet together and your arms raised in front to shoulder height, with your elbows fully extended. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 In preparation to step forward, slowly lift one foot off the floor, stabilizing your body on the stance (supporting) leg. Avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot. Hold this position momentarily before stepping forward. The raised (swing) leg should initiate contact with a heel strike first, slowly transferring your body weight into the leading (forward) foot placed firmly on the floor. As you load into this leg, avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot.
-
 As you lunge forward, focus more on dropping your hips towards the floor rather than driving your hips forward. This will help control the amount of forward movement of your shinbone (forward tibial translation) over your foot. Continue lowering your body to a comfortable position or until your front thigh becomes parallel with the floor and your tibia (shinbone) is in a slight forward lean. While lunging, simultaneously, bend forward at your hips, maintaining a flat back and drive your extended arms towards the floor in front of you (hands should reach somewhere below your knees). This increases the load on your gluteal muscle group.
-
 Firmly push off with your front leg, activating both your quads and glutes (thighs and butt muscles) to return to your upright, starting position.
 ');
 INSERT INTO exercise VALUES (1039, 'Front Squat to Overhead Press', 'Advanced');
@@ -377,13 +335,9 @@ INSERT INTO used_muscle VALUES (1040, 1005);
 INSERT INTO used_muscle VALUES (1040, 1003);
 INSERT INTO required_equipment VALUES (1040, 1005);
 INSERT INTO exercise_description VALUES (1040, 'Starting Position: Stand with your feet together and your arms raised in front to shoulder height, with your elbows fully extended. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal/core muscles) to stiffen your spine.
-
 From the same starting position, step out sideways with the right foot (both feet remain pointed forward) to the 3 o"clock position. Once the foot is firmly placed on the floor, begin to bend at the hips, pushing them backwards while simultaneously shifting your weight over that same foot. Continue shifting your weight until your tibia (shinbone) is vertical to the floor and your knee is aligned directly over the second toe of that foot. Your left leg should be near, or at full extension while keeping the right foot flat. The heels of both feet should stay flat on the floor.
-
 While lunging, simultaneously move your arms and lean your torso in the opposite direction to the lunge movement, increasing the load on your glute muscle group. Firmly push off with your front leg, activating both your quads and glutes (thighs and butt muscles) to return to your upright, starting position.
-
 From the same starting position, step with one foot in front and across the body (both feet remain pointed forward). Once the foot is firmly placed on the floor, begin to bend at the hips, pushing them backwards while simultaneously shifting your weight over that same foot. Continue shifting your weight until your tibia (shinbone) is vertical to the floor and your knee is aligned directly over the second toe of that foot. Your opposite leg should be flexed with the heel off the ground.
-
 While lunging, simultaneously rotate your torso and arms in the opposite direction to the lunge movement, increasing the load on your gluteal muscle group. Firmly push off with your front leg, activating both your quads and glutes (thighs and butt muscles) to return to your upright, starting position.
 ');
 INSERT INTO exercise VALUES (1041, 'Halo', 'Advanced');
@@ -413,7 +367,6 @@ Action: With the left leg, take a large step forward toward the cone into a lung
 Moving counter clockwise to the next cone (left front rotational), rotate to the left, pivoting off your right foot and lunging with your left leg aligning your feet and hips in the direction you are stepping (toward the cone). Follow the same technique as listed in step 3. Immediately push off your left foot and bring it back to center.
 Continue counter clock-wise until you reach your starting point. Repeat the drill lunging forward with your right foot and moving clock-wise.
 Exercise Variations: (1) Perform this drill extending the same side arm toward the cone. In this case, the opposite elbow would drive back behind the body. (2) Once you become comfortable with the oblique angle lunges, you can focus more on exploding to the cone. To increase the amount of explosion, widen the hexagon allowing you to take a couple steps forward then lunge to touch each cone. Placing a cone in the middle will provide a reference point.
-
 It would be beneficial to practice the directional movements with stepping first to make sure your hip and foot alignment is correct before moving to the lunge. You may also have to adjust the size of the hexagon to a distance appropriate for you to perform the exercise correctly. Keep your arm movements strong and controlled.
 ');
 INSERT INTO exercise VALUES (1044, 'High Plank T-spine Rotation', 'Advanced');
@@ -456,9 +409,7 @@ Maintain the abdominal bracing to keep the core stiff and the spine straight, le
 Continue flexing forward on the right hip (continue squeezing the right thigh and glutes to help maintain stability) while reaching forward with the left arm and extending the right leg backwards (into hip extension). To help maintain balance, find a spot on the floor and fix your gaze on that spot, this will create additional stability.
 At the point where you feel your end range-of-motion while balanced on your right leg, reach forward with the left arm to fully extend the elbow while flexing the shoulder at the same time extend the left leg straight back to create full hip extension. Point the toes of the left foot towards the wall behind you in order to move into full extension of the left hip (and concurrent flexion of the right hip); continue to maintain abdominal bracing to ensure balance and stability. Try to keep the hips level and do not let the left hip drop towards the floor or roll away from the right (planted) leg. Hold this position for 3-5 seconds.
 Maintain abdominal bracing and begin to lean back into the right hip while pulling the left hip forward (back into flexion) and the left arm back down towards your midsection. Return to an upright, standing position and repeat for a specific number of repetitions or a certain period of time. Alternate legs and repeat for the same number of repetitions or period of time.
-
 Exercise Variation: To add resistance and increase the level of difficulty, hold a dumbbell in your left hand (the weight should be in the hand opposite of the standing (balance) leg).
-
 If balancing on the right leg, use the left leg to help move into a position of flexion on the right hip; pointing the left leg backwards while pointing the toes and straightening the legs will help move the right hip into a position of flexion.
 ');
 INSERT INTO exercise VALUES (1048, 'Kneeling ABCs', 'Beginner');
@@ -471,35 +422,25 @@ INSERT INTO used_muscle VALUES (1049, 1005);
 INSERT INTO used_muscle VALUES (1049, 1003);
 INSERT INTO required_equipment VALUES (1049, 1005);
 INSERT INTO exercise_description VALUES (1049, 'Starting Position: From a kneeling position place the left knee on the floor (or stretch mat) directly under the left hip, and place the right foot in front of the right hip so that the right knee is directly over the right ankle and the right hip is in a position of ninety (90) degrees. Place both hands gently on the right thigh to help maintain a straight, tall spine.
-
 Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, "brace" (engage your abdominal/core muscles) to stiffen your spine and keep your pelvis level (and stable). Lean forward into your right hip while keeping your left knee pressed into the ground, do not allow your pelvis to rotate to the anterior (forward). To increase the stretch to the left hip flexors, squeeze and contract the glute muscles of your left hip.
-
 Hold the stretch position for 30-45 seconds at a time for a total of 2-5 repetitions; try to move into the stretch a little deeper with each repetition, but be sure to keep your core braced to not allow the pelvis to rotate and lose the stretch. Complete all repetitions on one side before alternating to the other hip.
-
 Exercise Variation: To increase the intensity of the stretch raise the left arm straight in the air and tilt slightly to the right side and you lean forward into the right hip; be sure to alternate sides.
 ');
 INSERT INTO exercise VALUES (1050, 'Kneeling Lat Stretch (w/bench)', 'Beginner');
 INSERT INTO used_muscle VALUES (1050, 1007);
 INSERT INTO required_equipment VALUES (1050, 1007);
 INSERT INTO exercise_description VALUES (1050, 'Starting Position: Kneel on an exercise mat or floor positioning your knees and feet hip-width apart, with your feet plantar-flexed (toes pointing away from your body). Stiffen your core and abdominal muscles ("bracing") to stabilize your spine and pelvis.
-
 Slowly lean forward while bending from the hips and maintaining the abdominal bracing to keep the spine straight, place your hands on the bench while keeping the arms straight with the elbows extended and position the arms so there is a straight line from the shoulders, through the elbows to the wrists.
-
 With your hands on the bench, keep your knees directly under your hips while leaning back into your hips to increase the stretch into the upper back. Maintain the stiff core with the abdominal bracing to keep the spine straight and the pelvis level. Keep your chin tucked into your neck to stabilize your cervical spine and to keep your head from dropping towards the floor.
-
 Hold the stretch position for approximately 30-45 seconds, to increase the stretch into the latissimus dorsi (back) muscles, slowly rotate your thumbs to point up towards the ceiling. Repeat 2-4 times.
-
 Exercise Variation: To increase the stretch, supinate the palms (turn the palms up to face the ceiling) while leaning back into your hips.
-
 ');
 INSERT INTO exercise VALUES (1051, 'Kneeling TA Stretch', 'Beginner');
 INSERT INTO used_muscle VALUES (1051, 1005);
 INSERT INTO used_muscle VALUES (1051, 1003);
 INSERT INTO required_equipment VALUES (1051, 1005);
 INSERT INTO exercise_description VALUES (1051, 'Starting Position: Kneeling on both knees, hip-width apart, with your feet in plantar flexion (pointing backwards) and arms by your side, elongate the body reaching the head towards the ceiling. Stiffen your abdominal muscles (“brace”) to stabilize your spine, then depress and retract your scapulae (pull shoulders down and back) without arching your low back. Hold your chest up and out, and tilt your head slightly up.
-
 Shift your weight backwards, bringing your glutes to your heels, while maintaining “bracing.” Keeping your arms close to your sides, allow your arms to move behind you, placing your fingertips lightly on the floor for support. Hold the stretch for 15-30 seconds for 2-4 repetitions.
-
 Move into position slowly and controlled to avoid dropping all of your weight straight down onto your heels. Should you have any knee discomfort, come out of the stretch position slowly and do not repeat the stretch.
 ');
 INSERT INTO exercise VALUES (1052, 'Lateral Neck Flexion', 'Beginner');
@@ -514,11 +455,8 @@ INSERT INTO exercise VALUES (1053, 'Lateral Raise', 'Beginner');
 INSERT INTO used_muscle VALUES (1053, 1006);
 INSERT INTO required_equipment VALUES (1053, 1008);
 INSERT INTO exercise_description VALUES (1053, 'Starting Position: Stand holding dumbbells in your hands with a closed, neutral grip (thumbs around the handles and palms facing your body). Position the dumbbells alongside your thighs with your elbows extended or holding a slight bend. Assume either a split-stance position to stabilize your body or position your feet slightly wider than hip-width apart.
-
 Stiffen your torso by contracting your abdominal and core muscles ("bracing"), and depress and retract your scapulae (pull your shoulders down and back), maintaining this position throughout the exercise. Your head position should be aligned with your spine.
-
 Upward Phase: Exhale and slowly raise the dumbbells up and out to your sides. Your elbows and upper arms should rise together and be slightly ahead of your forearms and dumbbells. As your arms move past 60 - 70 degrees (nearing shoulder level), rotate them slightly upwards so that the front edge of the dumbbells point slightly upwards. Continue raising the dumbbells until your arms are level with your shoulders and approximately parallel with the floor. Maintain your torso erect (no arching your low back) and neutral wrist position (avoid flexion and extension of your wrists).
-
 Downward Phase: Inhale and gently lower the dumbbells back towards your starting position keeping your elbows slightly extended and holding the neutral grip position. Maintain your foot, torso, shoulder and wrist positions while lowering the dumbbells and rotating them slightly downwards as your arms pass that 60-70 degree mark.
 ');
 INSERT INTO exercise VALUES (1054, 'Lateral Shoulder Raise', 'Beginner');
@@ -531,13 +469,9 @@ INSERT INTO used_muscle VALUES (1055, 1005);
 INSERT INTO used_muscle VALUES (1055, 1003);
 INSERT INTO required_equipment VALUES (1055, 1002);
 INSERT INTO exercise_description VALUES (1055, 'Starting Position: Set out cones approximately 5 yards apart, stand at the far left cone in an athletic ready position: feet hip-width apart, knees bent with your weight back in your flexed hips. Engage the abdominals (bracing) to maintain spinal stability throughout the exercise.
-
 Maintain the athletic ready position with your hips bent, your chest over your knees and your nose over your toes with your weight balanced between being up on the balls of your feet and back in your hips; shift your weight towards your right and pick up your right foot while explosively pushing your left foot into the ground to start moving to your right.
-
 Maintain the athletic ready position while continuing to move to your right, picking up the right foot and placing it to the right while pushing the left foot into the ground to generate the force and momentum for the sideways movement. Your feet should remain parallel with one another with the toes facing foward and your weight on the balls of your feet (keep the whole foot on the ground, but your weight should be forward over the front of your feet); the emphasis of this drill should be on rapid, quick foot actions for the sideways (lateral) shuffling.
-
 At the far cone maintain the athletic ready position while shifting your weight over your left leg and push off with the right foot to begin shuffling back to the original starting point. As you shuffle back to your left, pick up the left foot and place it to the left while pushing offer with the right foot. Ensure that your feet remain parallel with your toes pointing forward and focus on rapid, quick foot actions for the duration of the movement.
-
 Exercise Variation: Work with a coach or training partner to provide either visual cues: by signaling which direction to move with a hand gesture, e.g. pointing to the left to shuffle to the left; or verbal cues: by stating which direction to shuffle, e.g. stating "right" to shuffle to the right.
 ');
 INSERT INTO exercise VALUES (1056, 'Leg Crossover Stretch ', 'Beginner');
@@ -549,7 +483,6 @@ Gently exhale and slowly press the knee of the crossed leg away from your body a
 Hold this position for a moment then slowly rotate your hips towards the floor, bringing the sole of the elevated foot to rest firmly on the floor. Avoid any rotation through your trunk or arching in your low back will performing this movement.
 Hold this position for 15 – 30 seconds then relax and return to your starting position. Perform 2 – 4 repetitions then repeat to the opposite side.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions with each leg, holding the stretched position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bouncing and control movement at other segments of the body. During this stretch, attempt to avoid any rotation or arching in your low back.
 ');
 INSERT INTO exercise VALUES (1057, 'Lying Hamstrings Curl', 'Beginner');
@@ -560,32 +493,25 @@ Slowly exhale and contract your hamstrings, flexing (bending) the knees and movi
 Continue contracting the hamstrings and moving the resistance pad until your knees are bent more than 90 degrees, or your lower legs are aligned vertical to the floor, or the pads come close to touching your butt.
 Pause momentarily, then slowly return to your starting position by lowering the resistance pads in a controlled manner. Repeat the movement.
 Exercise Variation: Repeat the same exercise, but train each leg independently.
-
 Improper technique will result in excessive recruitment (use) of the lumber extensors (low back muscles). Stabilize your low back throughout the exercise and use a lighter resistance if you are unable to control movement in the low back.
 ');
 INSERT INTO exercise VALUES (1058, 'Modified Hurdlers Stretch', 'Beginner');
 INSERT INTO used_muscle VALUES (1058, 1003);
 INSERT INTO required_equipment VALUES (1058, 1005);
 INSERT INTO exercise_description VALUES (1058, 'Starting Position: Assume a seated position with legs extended in front of you and point your toes towards the ceiling without bending your knees. Gently fold your left leg by bending the knee and tucking the sole of that foot gently against the inside of your right thigh. Sit upright (i.e., trunk vertical) with your head aligned with your spine and place your hands on the top of your thighs.
-
 Stiffen (“brace”) your abdominal muscles to stabilize your spine, then gently exhale and slowly bend forward from your hips, sliding your hands down your legs towards your ankles. Attempt to maintain a flat back position and avoid rounding your back towards the ceiling (i.e., move from the hips and not your low back). Keep your head aligned with your spine, knees extended and toes pointed upwards towards the ceiling. This should create a stretch through your hamstrings and calf muscles, with some stretching in your low and middle back.
-
 Continue to bend and reach forward to the point of tension in the stretch, but do not bounce or push to a point of pain. Hold this position for 15 - 30 seconds, then relax by returning to your starting position and repeat 2-4 times. You may elect to grasp your ankles to hold this position. Repeat with the opposite leg
-
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions, holding the stretched position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bounding, and control movement at other segments of the body. During this stretch, avoid any excessive rounding of your low back.
 ');
 INSERT INTO exercise VALUES (1059, 'Neck Flexion and Extension', 'Beginner');
 INSERT INTO used_muscle VALUES (1059, 1010);
 INSERT INTO required_equipment VALUES (1059, 1005);
 INSERT INTO exercise_description VALUES (1059, 'Starting Position: Stand with your feet hip-width apart, toes pointing forward or turned slightly outwards, with arms by your sides. Stiffen your abdominal muscles (“brace”) to stabilize your spine, then depress and retract your scapulae (pull shoulders down and back) without arching your low back.
-
 Slowly drop your chin toward your chest (neck flexion), think of making a "double-chin" by pressing your chin directly into your neck. Hold for 15-30 seconds and return to starting positon.
 Slowly bring the base of your skull toward your back (neck extension), brining your chip up toward the ceiling. Make sure to keep your shoulder relaxed, down and back. Hold for 5-10 seconds and return to starting position.
 Perform a total of 2-4 repetitions.
 Exercise Variations: (1)To increase the stretch during flexion, bring one hand behind your head and place your fingertips right above the base of the skull. Apply light pressure. (2) To increase the stretch during extension, bring one hand up to your forehead, placing only one or two fingers fingers on your forehead to apply a light pressure.
-
 Move into each position slow and controlled. Avoid any movement of the shoulders or shifting the head anterior and posterior.
 ');
 INSERT INTO exercise VALUES (1060, 'Single Arm, Single Leg Plank', 'Advanced');
@@ -656,7 +582,6 @@ Gently exhale and while stabilizing your scapulae (shoulder blades), trunk and h
 (a) Press the lower arm upwards, extending the elbow without allowing the scapula to move forward
 (b) Pull the upper arm downwards towards the chest, flexing (bending) the elbow without allowing the scapula to move backwards.
 Exercise Variation: The exercise intensity can be increased by using dumbbells.
-
 To maximize the benefits of this exercise and reduce the potential for injury, it is often important to stabilize the scapulae, trunk and hips and control movement at the shoulders. Follow the instructions provided carefully.
 ');
 INSERT INTO exercise VALUES (1070, 'Squat to Overhead Press', 'Advanced');
@@ -670,11 +595,8 @@ INSERT INTO used_muscle VALUES (1071, 1001);
 INSERT INTO used_muscle VALUES (1071, 1002);
 INSERT INTO required_equipment VALUES (1071, 1012);
 INSERT INTO exercise_description VALUES (1071, 'Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6" under your body weight) with both feet and hands on the floor, hip- and shoulder-width apart.
-
 Gently exhale, contract your abdominal/core muscles to stiffen your torso and slowly walk yourself forward, lifting your legs off the floor. Continue walking out until the fronts of your thighs or knees are resting on the top of the ball. Maintain a rigid torso aligned parallel with your legs. Retract and depress your scapulae (pull your shoulder back and down) as your reach your end position, with your arms fully extended and hands positioned directly under your shoulders. To help with stability, try to keep your legs straight and squeezed together. It helps to think about squeezing a quarter between your knees.
-
 Curling Phase: Exhale and slowly pull your knees towards your chest, rolling the ball forward as your knees tuck under your torso and your hips move upwards. Continue moving until your knees are positioned under your hips and your tibia (shinbone) lies over the top of the ball. Hold this position briefly.
-
 Lowering Phase: Inhale and push your knees away from your torso, returning your body to the starting position.
 ');
 INSERT INTO exercise VALUES (1072, 'Single Leg Squat', 'Intermediate');
@@ -684,16 +606,11 @@ INSERT INTO used_muscle VALUES (1072, 1002);
 INSERT INTO used_muscle VALUES (1072, 1003);
 INSERT INTO required_equipment VALUES (1072, 1005);
 INSERT INTO exercise_description VALUES (1072, 'Starting Position: Stand with your feet hip width apart, with the right foot slightly forward (the heel of the right foot should be parallel to the toes of the left foot), your body weight should be over the right foot, only the toes of the left foot should be touching the floor to help with balance and stabilization during the entire range-of-motion of the exercise. Gently contract your abdominal / core muscles ("bracing") to stiffen your torso and stabilize your spine, and depress and retract your scapulae (pull your shoulders down and back) without arching your low back and maintain this shoulder position throughout the exercise.
-
 Downward Movement: Inhale and press the right foot into the ground so your weight is balanced between the ball, heel and outside edge of the foot (keep the toes of the left foot on the floor for support during the entire range-of-motion of the exercise). Slowly begin to bend forward at the hips while maintaining the abdominal bracing to avoid shifting or rotation of your torso. Maintain a flat back and head alignment with your spine (or head extended slightly upwards).
-
 Maintain a tall spine with the abdominals braced, push your weight back into your right hip while allowing the right knee to hinge, you can either hold your arms by your side (as pictured) or hold them out front as a counter-balance. As you are lowering yourself, maintain your weight through the ball of the foot and heel of the stance (supporting) foot, keep the pelvis level and the hips aligned during the full range-of-motion of the exercise.
 Upward Movement: keep your bodyweight in your right leg and foot, exhale and slowly push the right foot into the ground to start moving upwards (by extending your hip and knee) to return to the initial standing position, maintain the core bracing through the entire movement to help keep the hips level and control balance.
-
 Switch the stance (supporting) leg, and complete another set of repetitions on the other leg.
-
 Exercise Variation: As this technique is mastered, the exercise intensity can be progressed by (1) lifting the supporting leg off of the floor. This increases the need for balance and stabilization within the body; (2) adding external resistance by holding a dumbbell in one hand or a medicine ball in both hands; (3) bending over and / or lower the hips closer to the ground increasing your knee bend; and (4) standing on unstable surfaces (e.g., Airex pad).
-
 ');
 INSERT INTO exercise VALUES (1073, 'Single-arm Chest Press', 'Intermediate');
 INSERT INTO used_muscle VALUES (1073, 1008);
@@ -757,13 +674,9 @@ INSERT INTO used_muscle VALUES (1081, 1004);
 INSERT INTO used_muscle VALUES (1081, 1007);
 INSERT INTO required_equipment VALUES (1081, 1012);
 INSERT INTO exercise_description VALUES (1081, 'Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6" under your body weight) with both feet and hands on the floor, hip- and shoulder-width apart.
-
 Outward Phase: Gently exhale, contract your abdominal/core muscles to stiffen your torso and slowly walk yourself forward, lifting your legs off the floor. Continue walking out until the fronts of your thighs or knees are resting on the top of the ball. Maintain a rigid torso so that your legs and trunk form one continuous line. Retract and depress your scapulae (pull your shoulder back and down) as your reach your end position, with your arms fully extended and hands positioned directly under your shoulders. Hold this position briefly.
-
 Return Phase: Inhale and slowly walk yourself backwards to your starting position.
-
 Exercise Variation (1): To further increase the balance challenge, walk yourself further out until the tops of your feet or toes rest on the top of the ball.
-
 Exercise Variation (2): To further increase the balance challenge, raise one leg off the ball while in the static press (walkout) position.
 ');
 INSERT INTO exercise VALUES (1082, 'Stability Ball Push-Up', 'Intermediate');
@@ -842,12 +755,9 @@ INSERT INTO used_muscle VALUES (1091, 1002);
 INSERT INTO used_muscle VALUES (1091, 1003);
 INSERT INTO required_equipment VALUES (1091, 1005);
 INSERT INTO exercise_description VALUES (1091, 'Starting Position: Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until your feel your heels about to lift off the floor. Try to maintain a flat back by bending forward at the hips, keep your head facing forward and position to your arms where comfortable or where they offer the greatest degree of balance support. Extend your shoulders and reach your arms behind you to prepare the arm swing forward and upwards which will help with the upward momentum of the jump.
-
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode upwards through your lower extremity, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As you jump into the air, keep your feet level with each other and parallel with the floor as you explode your arms forward and throw them up in the air reaching overhead to help create upwards momentum away from the ground.
-
 Extend all the way through the body to create a straight line from your toes up through you arms and out of your hands. When landing, land on the mid-foot rolling backwards towards the heels. Push your hips backwards and downwards to absorb the impacting (ground) forces associated with landing. Attempt to land softly and quietly and avoid locking out your knees on the landing as this may lead to potential knee injuries.
 Exercise Variation: To increase the level of difficulty do a knee tuck and pull your knees up towards your chest as you are jumping into the air.
-
 
 ');
 INSERT INTO exercise VALUES (1092, 'Kneeling Hay Baler', 'Intermediate');
@@ -864,13 +774,9 @@ INSERT INTO used_muscle VALUES (1094, 1007);
 INSERT INTO used_muscle VALUES (1094, 1006);
 INSERT INTO required_equipment VALUES (1094, 1000);
 INSERT INTO exercise_description VALUES (1094, 'Starting Position: Kneel on a mat holding resistance cable or band handles in both hands with your arms fully extended in front of your body at shoulder, or just above shoulder height. Your elbows will remain extended throughout the exercise. Grip the handles with a closed, neutral grip (thumbs wrapped around the handles and palms facing each other).
-
 Downward Movement: Gently contract your abdominal / core muscles ("bracing") to stiffen your torso and stabilize your spine, and depress and retract your scapulae (pull your shoulders down and back) without arching your low back and maintain this shoulder position throughout the exercise.
-
 Exhale and slowly pull your arms backwards and downwards to a point level of your hips, but forming a wide arc with your movement. As your arms move backwards forming this wide arc, slowly externally rotate your arms so that your palms face upward. Maintain your erect torso position and avoid arching your low back during the movement.
-
 Upward Movement: Inhale and slowly return your arms back to your starting position keeping your arms extended and torso vertical.
-
 ');
 INSERT INTO exercise VALUES (1095, 'Lateral Cone Jumps', 'Intermediate');
 INSERT INTO used_muscle VALUES (1095, 1005);
@@ -879,21 +785,13 @@ INSERT INTO used_muscle VALUES (1095, 1002);
 INSERT INTO used_muscle VALUES (1095, 1003);
 INSERT INTO required_equipment VALUES (1095, 1002);
 INSERT INTO exercise_description VALUES (1095, 'Starting Position: Place a series of cones 18-24" apart in a straight line on a non-slip surface. Stand 3-6" to your left of the first cone with your feet hip-width apart or closer, arms by your sides. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until your feel your heels about to lift off the floor. Try to maintain a flat back by bending forward at the hips. Keep your head facing forward or to the floor, and position your arms where comfortable or where they offer the greatest degree of balance support.
-
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode sideways (left) and upwards through your lower extremity over the top of the first cone, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As you jump into the air, try to keep your feet level with each other and parallel with the floor.
-
 Landing: The most important components of the landing phase are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees.
-
 Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels to create a level foot, parallel with the floor. Always push your hips backwards and drop your hips to absorb the jumping forces. Avoid locking your knees or quads on your landing as this may lead to potential knee injuries.
-
 Land with your trunk inclined slightly forward, head aligned with your spine and back rigid or flat. Keep your abdominal / core muscles engaged, stiffening your torso to protect your spine.
-
 With ONLY a very brief pause at the bottom of your landing phase, explode sideways (left) and upwards again through your lower extremity over the second cone, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As your jump into the air, try to keep your feet level with each other and parallel with the floor.
-
 Exercise Variation: As you develop your jumping and landing skills, you can progress the exercise intensity and complexity by: (1) driving your arms behind you during the downward phase, (2) driving your arms forward, upward (towards an overhead position) and slightly sideways in your jumping direction during the jumping phases, (3) driving your knees towards your chest during the jumping phases, (4) increasing the height of each cone or the spacing between each cone, or (5) moving back and forth more rapidly or adding more cones and performing a greater number of jumps in each direction.
-
 ');
 INSERT INTO exercise VALUES (1096, 'Overhead Triceps Stretch', 'Beginner');
 INSERT INTO used_muscle VALUES (1096, 1009);
@@ -907,13 +805,10 @@ INSERT INTO used_muscle VALUES (1097, 1005);
 INSERT INTO used_muscle VALUES (1097, 1003);
 INSERT INTO required_equipment VALUES (1097, 1005);
 INSERT INTO exercise_description VALUES (1097, 'Starting Position: Two training partners should stand approximately arm"s length away from one another with their feet slightly wider than hip width apart with your toes pointed forward or slightly outward. Position your feet so that the balls of your feet align under your center of gravity. Each partner should outstretch his or her arms so they can grasp each other"s forearms with their hands.
-
 Downward Phase: Each partner should start the downward phase by first shifting your hips backwards then downwards to create a hinge-like movement at your knees. As you lower your hips the knees will then start to shift forward slowly, but try to control the amount of forward translation (movement) of the tibia (shinbone). Brace your core to keep your trunk stable and spine straight. Each partner should maintain a firm grip and allow each other to lean back slightly in order to be able to sink deeper into the hips for a greater range-of-motion.
 Each person should continue to lower themself until their thighs are near, or parallel with the floor, or until their heels begin to lift off the floor, or until their torso begins to round or flex forward. Each person should monitor his or her feet, ankles and knees, to maintain control of their feet and knees each person should think about pushing the floor away from them while keeping your knees aligned over the second toe of each foot as they return to a standing position.
 Lowered Position: From the front, the knees should continue to remain aligned over the second toe, and body weight should be evenly distributed over both feet. From the side, the position of the tibia (shinbone) and torso should be parallel with each other and the low back should appear flat or showing the beginning of some rounding.
-
 Upward Phase: While keeping a firm grip on one another"s forearms, each person should maintain a straight trunk with a head-up position, and exhale while extending the hips and knees by pushing their feet into the floor through the heels. The hips and torso need to rise together while keeping the heels flat on the floor and knees aligned over the second toe. Each person should continue extending his or her hips until returning to the starting position.
-
 Exercise Variation: Each partner can place his or her feet in a split-squat position with the feet hip width apart and one foot slightly in front of the other. Each partner can balance on a single leg and perform a single leg squat, the act of the partners holding on to one another during the squatting movement will help to maintain the balance on one leg.
 ');
 INSERT INTO exercise VALUES (1098, 'Partner Tricep Extension', 'Beginner');
@@ -957,7 +852,6 @@ INSERT INTO required_equipment VALUES (1103, 1005);
 INSERT INTO exercise_description VALUES (1103, 'Starting Position: Assume a seated bent-knee position, feet placed flat on the floor / mat and arms outstretched behind you with your palms flat on the floor / mat and fingers pointed away from your body. Adjust your position to distribute your weight evenly between your feet, butt and arms, keeping your back supported in a relatively flat position (i.e., avoid arching or slumping) and head aligned with your spine.
 Gently exhale and slowly slide your butt forwards towards your feet without moving your hands. This should create a stretch through your biceps with some stretching in the anterior (front) shoulder region (anterior shoulder and chest stretch). Push yourself forward to the point of tension in the stretch, but never bounce or push to a point of pain. Hold this position for 15 - 30 seconds then relax by returning to your starting position and repeat 2-4 times.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions, holding the stretched position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is important to stretch only to the point of tension, avoid bouncing, and to control movement at other segments of the body. During this stretch, avoid any change of position of your spine (i.e., avoid arching or slumping).
 ');
 INSERT INTO exercise VALUES (1104, 'Seated Biceps Curl', 'Beginner');
@@ -976,7 +870,6 @@ INSERT INTO exercise_description VALUES (1105, 'Starting Position: Sit in the ma
 Gently exhale and slowly curl the bar upwards towards your chest by bending your elbows. Maintain a neutral wrist position and avoid any movement in your torso during the exercise.
 Continue curling the bar upwards until your elbows can flex (bend) no further. Pause momentarily then slowly return to your starting position, allowing your elbows to extend in a slow, controlled manner, moving the handles back towards the floor, stopping when your arms are extended, but not locked and the backs of your forearms make light contact with the incline pad. Repeat the movement.
 Exercise Variation: This exercise can be performed unilaterally (one arm at a time)
-
 While this exercise targets the biceps effectively, proper technique is important to prevent unnecessary stresses placed in low back by swinging your torso backwards during the movement. Follow the instructions provided to avoid potential injury.
 ');
 INSERT INTO exercise VALUES (1106, 'Seated Butterfly Stretch ', 'Beginner');
@@ -984,7 +877,6 @@ INSERT INTO used_muscle VALUES (1106, 1003);
 INSERT INTO required_equipment VALUES (1106, 1005);
 INSERT INTO exercise_description VALUES (1106, 'Starting Position: Assume a seated position with your legs folded in front of you. Sit upright (i.e., trunk vertical) with your head aligned with your spine and place your hands on the top of your feet.
 Stiffen (“brace”) your abdominal muscles to stabilize your spine, then gently exhale and slowly bend forward from your hips, lowering your elbows to rest against the inside of your thighs and push the thighs downward. Attempt to maintain a flat back position, avoid rounding your back towards the ceiling (i.e., move from the hips and not your low back) and keep you head aligned with your spine. This should create a stretch through your inner thighs.
-
 Continue to press downward to the point of tension in the stretch, but do not bounce or push to a point of pain. Hold this position for 15 - 30 seconds, then relax by returning to your starting position and repeat 2-4 times. You may elect to grasp your ankles to hold this position.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions, holding the stretched position for 1 - 2 seconds.
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bounding, and control movement at other segments of the body.
@@ -999,7 +891,6 @@ Continue pressing until your elbows are fully extended, but not locked. Pause mo
 Exercise Variation: To increase the exercise intensity and involve additional muscles, perform the following variations:
 (a) Perform unilateral (one arm at a time) presses
 (b) Sit upright off the backrest, which will require a greater effort to stabilize your trunk as you perform the press movement.
-
 Because a cable movement allows more freedom in the movement, it is important that you concentrate to control the speed, range and direction of movement during this exercise.
 ');
 INSERT INTO exercise VALUES (1108, 'Single Leg Push-off', 'Beginner');
@@ -1096,13 +987,9 @@ INSERT INTO used_muscle VALUES (1119, 1001);
 INSERT INTO used_muscle VALUES (1119, 1002);
 INSERT INTO required_equipment VALUES (1119, 1005);
 INSERT INTO exercise_description VALUES (1119, 'Starting Position: Stand facing a wall, arms length away with your feet hip-width apart and facing forward. Extend your arms to place your palms on the wall slightly higher than your shoulders. Stiffen ("brace") your core abdominal muscles to stabilize your spine, then depress and retract your scapulae (pull shoulders down and back) without arching your low back. Step back with your RIGHT leg into a split-stance position keeping both feet flat on the floor and toes pointing forward. Keep your head in line with your spine.
-
 Begin slowly moving your body towards the wall keeping your pelvis and spine in alignment. Do not allow your hips to tilt forward. Increase the flexion (bend) in your LEFT (front) knee while keeping the opposite leg straightened and pushing the heel into the floor keeping your foot in dorsi-flexion with toes pointed forward. Support your body weight with your arms, allowing your elbows to bend as you shift your weight forward. Increase the stretch by bringing your body closer to the wall and increasing the flexion (bend) in your left knee and continue pressing your right heel into the ground.
-
 Hold the stretch position for 15-30 seconds at a time for a total of 2-4 repetitions; try to move into the stretch a little deeper with each repetition, but be sure to keep your body in alignment and heels in contact with the floor. Complete all repetitions on one side before alternating to the other leg.
-
 Exercise Variation: To increase the stretch in the soleus, slightly flex (bend) the back knee while pressing the heel into the floor.
-
 ');
 INSERT INTO exercise VALUES (1120, 'Seated Calf Stretch', 'Beginner');
 INSERT INTO used_muscle VALUES (1120, 1001);
@@ -1112,7 +999,6 @@ INSERT INTO exercise_description VALUES (1120, 'Starting Position: Assume a seat
 Gently exhale and slowly pull the band towards you, moving your ankle into dorsiflexion (pointing your toes towards you), this should create a stretch through your calf, push your heel away from you to increase the intensity of the stretch.
 Continue to pull the band to the point of tension in the stretch, but do not bounce or push to a point of pain. Hold this position for 15 - 30 seconds then relax by returning to your starting position and repeat 2-4 times. Repeat with the opposite leg.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions, holding the stretched position for 1 - 2 seconds.
-
 By bending the knee slightly, this stretch will now target the Soleus muscle (the other calf muscle)
 ');
 INSERT INTO exercise VALUES (1121, 'Seated Chest Press ', 'Beginner');
@@ -1124,7 +1010,6 @@ Continue pressing until your elbows are fully extended, but not locked. Your sho
 Exercise Variation: To increase the exercise intensity, perform the following variations:
 (a) Perform unilateral (one arm at a time) presses
 (b) Sit upright off the backrest, which will require a greater effort from your core to stabilize your trunk as you perform the press movement.
-
 Very frequently individuals will press the bar to a point where the shoulder blades round themselves forward and move off the backrest. This promotes instability within the muscles that hold the shoulder blades to the ribcage. While this "push-plus" movement is considered an advanced movement, focus initially on pressing while keeping your shoulder blades flat and firmly positioned against the backrest.
 ');
 INSERT INTO exercise VALUES (1122, 'Seated Close-Grip Chest Press', 'Beginner');
@@ -1137,7 +1022,6 @@ Continue pressing until your elbows are fully extended, but not locked. Your sho
 Exercise Variation: To increase the exercise intensity, perform the following variations:
 (a) Perform unilateral (one arm at a time) presses
 (b) Sit upright off the backrest, which will require a greater effort from your core to stabilize your trunk as you perform the press movement.
-
 This position is more comfortable and less stressful on the shoulder joint and more appropriate for individuals who experience some discomfort when performing traditional chest presses as it shifts more load into the triceps and off the shoulder joint.
 ');
 INSERT INTO exercise VALUES (1123, 'Seated Crunch', 'Beginner');
@@ -1155,7 +1039,6 @@ Continue pressing until your elbows are fully extended, but not locked. Pause mo
 Exercise Variation: To increase the exercise intensity and involve additional muscles, perform the following variations:
 (a) Perform unilateral (one arm at a time) presses
 (b) Sit upright off the backrest, which will require a greater effort to stabilize your trunk as you perform the press movement.
-
 Because a cable movement allows more freedom in the movement, it is important that you concentrate to control the speed, range and direction of movement during this exercise.
 ');
 INSERT INTO exercise VALUES (1125, 'Seated High Back Row ', 'Beginner');
@@ -1176,7 +1059,6 @@ Continue pulling until your elbows reach level with, or pass just behind your sh
 Exercise Variation: To increase the exercise intensity and involve additional exercises, perform the following variations:
 (a) Perform unilateral (one arm at a time) pulls
 (b) Move the chest pad away from your body, which will now require a greater effort to stabilize your trunk as you perform the pulling movement.
-
 Allowing your shoulders to round forward as your arms extend will allow you to pull with more force. However, learn how to perform a pulling motion without scapulae (shoulder blade) movement first before introducing shoulder movement. Additionally, reduce unnecessary stresses into your low back by avoiding any backwards lean during the pull movements.
 ');
 INSERT INTO exercise VALUES (1127, 'Seated Incline Cable Press', 'Beginner');
@@ -1189,7 +1071,6 @@ Continue pressing until your elbows are fully extended, but not locked. Pause mo
 Exercise Variation: To increase the exercise intensity and involve additional muscles, perform the following variations:
 (a) Perform unilateral (one arm at a time) presses
 (b) Sit upright off the backrest, which will require a greater effort to stabilize your trunk as you perform the press movement.
-
 Because a cable movement allows more freedom in the movement, it is important that you concentrate to control the speed, range and direction of movement during this exercise.
 ');
 INSERT INTO exercise VALUES (1128, 'Seated Lat Pulldown', 'Beginner');
@@ -1200,7 +1081,6 @@ Slowly exhale and initiate the downward pull by first depressing (lower) your sc
 Continue pulling until the bar nears or touches your chest, or more importantly, you observe your elbows no longer moving downward, but now beginning to move backwards. Avoid any further pulling as this places additiomnal stresses into the shoulder joint.
 Pause momentarily, then slowly return to your starting position by allowing the bar to move upwards until your elbows are fully extended, then allow your scapule to rise slightly. Repeat the movement.
 Exercise Variation: Perform the exercise in a standing position with your feet in a staggered-stace (walking position). Maintain a slight bend in your knees and shift your weight back onto your rear leg to create the backward lean. Avoid flexing (bending) forward at the hips during the pulling movement.
-
 This exercise targets the major back muscles effectively, but should be performed without compromise to the shoulder or low back. Follow the instructions provided to reduce the stress placed upon these two areas.
 ');
 INSERT INTO exercise VALUES (1129, 'Seated Leg Extension ', 'Beginner');
@@ -1217,7 +1097,6 @@ Continue extending your hips and knees until the knees reach a relaxed, extended
 Pause momentarily, then slowly return to your starting position by flexing (bending) the hips and knees, and allowing the resistance plate to move towards you in a slow, controlled manner. Do not allow your upper thighs to compress your ribcage. Repeat the movement.
 Exercise Variation: Single-leg press.
 Repeat the same exercise, but use each leg independently
-
 Improper technique can lead to injury. Control the extension phase by keeping your heels in contact with the plate and avoid locking out your knees. During the return phase, control the movement and avoid compressing your upper thighs against your ribcage.
 ');
 INSERT INTO exercise VALUES (1131, 'Seated Machine Close-Grip Shoulder Press', 'Beginner');
@@ -1230,7 +1109,6 @@ Continue pressing until your elbows are fully extended, but not locked. Pause mo
 Exercise Variation: To increase the exercise intensity, perform the following variations:
 (a) Perform unilateral (one arm at a time) presses
 (b) Sit upright off the backrest, which will require a greater effort from your core to stabilize your trunk as you perform the press movement.
-
 This position is more comfortable and less stressful on the shoulders and more appropriate for individuals who experience some discomfort when performing traditional shoulder presses as it shifts more load into the triceps. In the overhead position, the shoulder is relatively unstable. To protect your shoulder it is important to engage your lats (back muscles) to initiate the downward movement as oppsed to simply yielding to gravity. This will help stabilize your shoulder.
 ');
 INSERT INTO exercise VALUES (1132, 'Pistol Squat Workout', 'Advanced');
@@ -1310,15 +1188,10 @@ INSERT INTO used_muscle VALUES (1144, 1002);
 INSERT INTO used_muscle VALUES (1144, 1003);
 INSERT INTO required_equipment VALUES (1144, 1006);
 INSERT INTO exercise_description VALUES (1144, 'Starting Position: Stand directly in a square at one end of the ladder with your feet approximately hip-width apart.
-
 Bend your hips and drop into an athletic ready position so that your knees are slightly bent and your chest is directly over your toes. Your arms should be bent with the elbows fixed at approximately ninety degrees (during the drill ensure that the swinging is coming from the shoulder joint and not from the elbows).
-
 Shift your bodyweight so that your weight is in your left leg. Pick up the right foot and place it in the square next to the starting square while pushing the left foot in to the ground to move your body to your right and in to the next square of the ladder.
-
 Your right foot should hit the ground at the ball of the foot and roll all the way down to the heel, as the entire right foot hits the ground shift your body weight off of the left leg and place your weight on the right leg. Once your bodyweight is on your right leg pick up your left foot to bring it into the same square as the right foot. Keep your hips flexed and knees bent so that you maintain an athletic ready position throughout the length of the entire ladder.
-
 Continue to move down the ladder to your right; keep the bodyweight in the left leg while picking up the right foot to move it to the next square to the right; as the right foot hits the square, push off with the left foot and keep the bodyweight centered on top of the right leg. Be sure to move both ways through the ladder; once you"ve done a certain number of repetitions to the right, be sure to switch directions and do the same number of repetitions moving to your left (pushing off of the right foot).
-
 Exercise Variation: As you improve your movement skills, dynamic balance and ability to move rapidly through the ladder, try not to look at your feet and keep your eyes on the horizon (where your opponents will be during an athletic competition).
 ');
 INSERT INTO exercise VALUES (1145, 'Alternate Leg Push-off ', 'Advanced');
@@ -1332,7 +1205,6 @@ Upward phase: Jump straight up into the air by explosively pushing your right fo
 Mid-air: as you are in the air quickly swing your left leg forward and your right leg back so that you will land with your left foot on top of the platform and your right leg behind you on the floor.
 Landing: The most important components of the landing phase are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees. Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels. Always push your hips backwards and drop them downwards to absorb the impacting forces associated with jumping. Avoid locking out your knees or quads on your landing as this may lead to potential knee injuries. Land with your trunk inclined slightly forward, head aligned with your spine and back rigid or flat. Keep your abdominal / core muscles engaged, stiffening your torso to protect your spine.
 Exercise Variation: When you are learning this exercise focus on the soft landing and reset your body in the correct position for the next jump and pause for a moment between jumps to ensure good form. As you improve minimize the rest time so that you are rapidly moving from one jump to the next.
-
 ');
 INSERT INTO exercise VALUES (1146, 'Asynchronous Waves', 'Advanced');
 INSERT INTO used_muscle VALUES (1146, 1000);
@@ -1355,15 +1227,10 @@ INSERT INTO used_muscle VALUES (1148, 1003);
 INSERT INTO used_muscle VALUES (1148, 1006);
 INSERT INTO required_equipment VALUES (1148, 1010);
 INSERT INTO exercise_description VALUES (1148, 'Starting Position: Place the end of a standard barbell in a corner so that it will not move unnecessarily, place a weight on one end of the barbell with a collar so that the weight can not fall off during the exercise. Stand with your feet slightly wider than shoulder-width, your toes pointed forward or slightly outward facing the end of the barbell so that it is between both feet and directly under your center of gravity.
-
 Squat down by first shifting your hips backwards then downwards to create a hinge-like movement at your knees, as you lower your hips the knees will then start to shift forward slowly, but try to control the amount of forward translation (movement) of the tibia (shinbone). Brace your core to keep your trunk stable and spine straight. Continue to lower yourself until your thighs are near, or parallel with the floor, or until your heels begin to lift off the floor, or until your torso begins to round or flex forward. Lift the end of the barbell and firmly grasp it in both hands using a closed grip (thumbs wrapped around the bar). Position the end of the bar directly in front of your chest directly under your chin. Maintain your body position with the spine in neutral (normal-to-flat), shoulders depressed (no shrugging) with scapulae retracted (squeezing shoulder blades together). Keep your chest held up and out, head in line with your spine or slightly extended (raised), heels on the floor, and shoulders over or slightly in front of the bar. Your eyes should be facing forward or slightly upward.
-
 Upward phase: Push your feet into the ground and drive your hips forward to extend your legs and begin the upward phase of the movement by standing up while continuing to hold the end of the barbell in front of your chest. Monitor your feet, ankles and knees; to maintain control of your feet and knees push the floor away from you while keeping your knees aligned over the second toe of each foot as you move up to a standing position.
-
 As you approach a full standing position quickly push through your heels, extending and pushing the hips towards an upright position, begin to press the end of the barbell upwards with both hands continuing to grip the end of the bar, stiffen your core and abdominal muscles (“bracing”) to stabilize your spine.
-
 As the hips and knees reach full extension, continue pushing upward onto your toes at the ankle while pressing the bar overhead into full extension. The movement for the bar should start at the hips, travel through the trunk and continue through the shoulders and arms. Avoid arching your back during the overhead push. Roll up on your toes as you move your legs into triple extension (ankle plantarflexion, knee and hip extension).
-
 Exercise Variation: Increase the velocity or speed of the movement to transition from a strength to a power-based exercise.
 ');
 INSERT INTO exercise VALUES (1149, 'Bent-over Row', 'Advanced');
@@ -1379,19 +1246,12 @@ INSERT INTO used_muscle VALUES (1150, 1005);
 INSERT INTO used_muscle VALUES (1150, 1003);
 INSERT INTO required_equipment VALUES (1150, 1011);
 INSERT INTO exercise_description VALUES (1150, 'Starting Position: Place a BOSU® balance trainer on the floor 3-6" to your left on a non-slip surface. Stand with your feet hip-width apart or closer, arms by your sides, depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until your feel your heels about to lift off the floor. Try to maintain a flat back by bending forward at the hips, keep your head facing directly forward and position to your arms where comfortable or where they offer the greatest degree of balance support.
-
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode sideways (left) and upwards through your lower extremity onto the top of the BOSU, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As your jump into the air, try to keep your feet level with each other and parallel with the floor, but bring them together to land on the top of the BOSU.
-
 Landing: The most important components of the landing phase on a BOSU are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees.
-
 Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels to create a level foot, parallel with the floor. Always push your hips backwards and drop your hips to absorb the jumping forces. Avoid locking out your knees or quads on your landing as this may lead to potential knee injuries.
-
 Land with your trunk inclined slightly forward, head aligned with your spine and back rigid or flat. Keep your abdominal / core muscles engaged, stiffening your torso to protect your spine.
-
 With ONLY a very brief pause at the bottom of your landing phase, explode sideways (left) and upwards again through your lower extremity off the top of the BOSU towards the floor, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As you jump into the air, try to keep your feet level with each other and parallel with the floor, moving them back to a hip-width stance (position) or slightly closer.
-
 Exercise Variation: As you develop your jumping and landing skills, you can progress the exercise intensity and complexity by: (1) driving your arms behind you during the downward phase, (2) driving your arms forward, upward (towards an overhead position) and slightly sideways in the jumping direction during the jumping phases, (3)driving your knees towards your chest during the jumping phases or (4) moving back and forth more rapidly or adding more BOSU balance trainers and performing a series of jumps in each direction.
 ');
 INSERT INTO exercise VALUES (1151, 'Bottom-up Press', 'Advanced');
@@ -1462,7 +1322,6 @@ INSERT INTO exercise_description VALUES (1160, 'Starting Position: Stand under t
 Slowly exhale and slowly pull your body upwards by flexing (bending) your elbows and pulling your elboes down to your sides Attempt to pull in a motion that drives your elbows directly down towards the floor, while keeping them positioned in the 3 and 9 o"clock position (aligned with the sides of the trunk). Attempt to keep your body aligned vertically to the floor and avoid swinging your body during your upward pull
 Continue pulling upward until your chin is level with the bar or your hands. Pause momentarily then slowly return to your starting position by allowing your arms to extend back overhead until your arms are fully extended. Continue to maintain your shoulder and wrist position, and the vertical alignment of your trunk. Repeat the movement.
 Exercise Variation: The intensity of this exercise can be increased with resistance that can be added by wearing a weight belt to which weights are connected. Using a narrow, prontated (palms forward) grip shifts some of the load from your lats (mid-back muscles) into the muscles of the upper back.
-
 This exercise targets the back muscles effectively, but should be performed without compromise to the shoulder. Follow the instructions provided to reduce the stress placed upon your shoulders
 ');
 INSERT INTO exercise VALUES (1161, 'Push-up', 'Intermediate');
@@ -1544,7 +1403,6 @@ Assume a staggered-stance position (i.e., walking position, with one leg forward
 Exhale gently and slowly squeeze your chest muscles to pull your arms forward until your hands meet below the level of your chest. Maintain the slight bend in your elbows, neutral wrist position and vertical alignment of your trunk throughout the movement.
 Pause momentarily then slowly return to your starting position, allowing your arms to move back outwards in a slow, controlled manner. Maintain the slight bend in your elbows, neutral wrist position and vertical alignment of your trunk throughout the movement. Repeat the movement.
 Exercise Variation: This exercise can be progressed in several ways including:
-
 Avoid the tendency to lean forward during this exercise as this increases the stresses within the shoulder joint, which happens frequently when the resistance used is too heavy. To protect your shoulders from potential injury, lower the resistance, align your trunk vertically and follow the instructions provided.
 ');
 INSERT INTO exercise VALUES (1172, 'Standing Gate Openers (Frankensteins)', 'Intermediate');
@@ -1556,7 +1414,6 @@ INSERT INTO exercise_description VALUES (1172, 'Starting Position: Stand with yo
 Shift your weight to your left leg and lift your right knee up toward your chest. Maintaining this leg position, bring your right leg across your body (adduction), so your right knee crosses your left leg keeping your left leg and hip stable. Do not allow any rotation in the left hip. Make sure to keep the knee up level with the hips and allow your foot to plantar flex (toes pointing toward the ground).
 Continuing the sequence, bring your right leg back across the body (abduction), allowing your right hip to open (externally rotate) bringing your right knee toward your right side. Return to starting position.
 Perform 5-10 repetitions on each side
-
 Keep the abdominals engated to help stabilize the pelvis and maintain balance.
 ');
 INSERT INTO exercise VALUES (1173, 'Standing Hamstrings Curl', 'Intermediate');
@@ -1588,7 +1445,6 @@ Exhale gently and slowly squeeze your chest muscles to pull your arms forward un
 Pause momentarily then slowly return to your starting position, allowing your arms to move back outwards in a slow, controlled manner. Maintain the slight bend in your elbows, neutral wrist position and vertical alignment of your trunk throughout the movement. Repeat the movement.
 Exercise Variation:
 This exercise can be progressed in several ways including:
-
 Avoid the tendency to lean forward during this exercise as this increases the stresses within the shoulder joint, which happens frequently when the resistance used is too heavy. To protect your shoulders from potential injury, lower the resistance, align your trunk vertically and follow the instructions provided.
 ');
 INSERT INTO exercise VALUES (1177, 'Standing Leg Extension', 'Intermediate');
@@ -1630,17 +1486,11 @@ INSERT INTO used_muscle VALUES (1182, 1007);
 INSERT INTO used_muscle VALUES (1182, 1005);
 INSERT INTO required_equipment VALUES (1182, 1005);
 INSERT INTO exercise_description VALUES (1182, 'Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towards your body).
-
 Slowly lean forward to place your hands on the mat, positioning them directly under your shoulders at shoulder-width with your fingers facing forward. Reposition your hands and knees as necessary so that your knees are directly under your hips and hands are directly under your shoulders.
-
 Stiffen your core and abdominal muscles to position your spine in a neutral position, avoid any excessive sagging or arching.
-
 Upward Phase: This exercise involves simultaneous movement of your leg and contralateral (opposite) arm. This exercise is best performed facing a mirror. Hip Extension: Slowly extend your left hip (raise and straighten the knee) attempting to extend it until it is at, or near parallel, to the floor without any rotation in the hip. Your goal is to keep both hips parallel to the floor. The use of a light bar placed across the hips, parallel to the waistline of your pants, provides visual feedback to hip rotation and what corrections are needed.
-
 Shoulder flexion: Slowly flex your right arm (raise and straighten the arm) attempting to raise it until it is at, or near parallel, to the floor without any tilting at the shoulders. Your goal is to keep the both shoulders parallel to the floor. The use of a light bar placed across the shoulders provides visual feedback to shoulder rotation and what corrections are needed. Your head should remain aligned with the spine throughout the movement.
-
 The degree of hip extension and shoulder flexion is determined by the ability to control against movement in the low back. As the leg is raised, individuals may witness an increase in lumbar lordosis (low back sagging). Only raise the limbs to heights where the low back position can be maintained through the combined actions of the core and abdominal muscles.
-
 Downward Phase: Gently lower yourself back to your starting position and repeat with the opposite limbs.
 ');
 INSERT INTO exercise VALUES (1183, 'BOSU® Squat Jumps', 'Intermediate');
@@ -1649,17 +1499,11 @@ INSERT INTO used_muscle VALUES (1183, 1005);
 INSERT INTO used_muscle VALUES (1183, 1003);
 INSERT INTO required_equipment VALUES (1183, 1011);
 INSERT INTO exercise_description VALUES (1183, 'Starting Position: Place a BOSU® balance trainer on the floor 3-6" in front of your feet on a non-slip surface. Stand with your feet hip-width apart or closer, arms by your sides, depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until you feel your heels about to lift off the floor. Try to maintain a flat back by bending forward at the hips, keep your head facing the BOSU directly and position to your arms where comfortable or where they offer the greatest degree of balance support.
-
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode upwards through your lower extremity onto the top of the BOSU, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As your jump into the air, keep your feet level with each other and parallel with the floor, but bring them together to land on the top of the BOSU.
-
 Landing: The most important components of the landing phase on a BOSU are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees.
-
 Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels to create a level foot, parallel with the floor. Always push your hips backwards and drop your hips to absorb the jumping forces. Avoid locking out your knees or quads on your landing as this may lead to potential knee injuries.
-
 Land with your trunk inclined slightly forward, head aligned with your spine and back rigid or flat. Keep your abdominal / core muscles engaged, stiffening your torso to protect your spine.
-
 Exercise Variation: As you develop your jumping and landing skills, you can progress the exercise intensity and complexity by: (1) driving your arms behind you during the downward phase (illustrated), (2) driving your arms forward (illustrated) or upward (towards an overhead position) during the jumping phase, or (3) driving your knees towards your chest during the jumping phase.
 ');
 INSERT INTO exercise VALUES (1184, 'Box Jumps', 'Intermediate');
@@ -1669,17 +1513,11 @@ INSERT INTO used_muscle VALUES (1184, 1002);
 INSERT INTO used_muscle VALUES (1184, 1003);
 INSERT INTO required_equipment VALUES (1184, 1013);
 INSERT INTO exercise_description VALUES (1184, 'Starting Position: Place a 6-12" raised platform or box on the floor 3-6" in front of your feet on a non-slip surface. Stand with your feet hip-width apart or closer, arms by your sides, depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until your feel your heels about to lift off the floor. Try to maintain a flat back by bending forward at the hips, keep your head facing the box and position your arms where comfortable or where they offer the greatest degree of balance support.
-
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode upwards through your lower extremity while swinging your arms forward and jumping onto the top of the raised platform or box, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As you jump into the air, keep your feet level with each other and parallel with the floor.
-
 Landing: The most important components of the landing phase on a raised platform or box are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees.
-
 Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels to create a level foot, parallel with the surface. Always push your hips backwards and drop your hips to absorb the jumping forces. Avoid locking your knees and quads on your landing as this may lead to potential knee injuries.
-
 Land with your trunk inclined slightly forward, head aligned with your spine and back rigid or flat. Keep your abdominal / core muscles engaged, stiffening your torso to protect your spine.
-
 Exercise Variation: As you develop your jumping and landing skills, you can progress the exercise intensity and complexity by: (1) driving your arms behind you during the downward phase (illustrated), (2) driving your arms forward or upward (illustrated) during the jumping phase, (3) driving your knees towards your chest (illustrated) during the jumping phase., or (4) increasing the height of the raised platform or box.
 ');
 INSERT INTO exercise VALUES (1185, 'Calf Raises', 'Intermediate');
@@ -1708,7 +1546,6 @@ INSERT INTO exercise_description VALUES (1187, 'Starting Position: Stand under t
 Slowly exhale and slowly pull your body upwards by flexing (bending) your elbows and pulling your arms down to your sides Attempt to pull in a motion that drives your elbows directly down towards the floor, keeping your elbows in front of your body. Attempt to keep your body aligned vertically to the floor and avoid swinging your body during your upward pull
 Continue pulling upward until your chin is level with the bar or your hands. Pause momentarily then slowly return to your starting position by allowing your arms to extend back overhead until your arms are fully extended. Continue to maintain your shoulder and wrist position, and the vertical alignment of your trunk. Repeat the movement.
 Exercise Variation: The intensity of this exercise can be increased with resistance that can be added by wearing a weight belt to which weights are connected.
-
 This exercise targets the back and biceps muscles effectively, but should be performed without compromise to the shoulder. Follow the instructions provided to reduce the stress placed upon your shoulder
 ');
 INSERT INTO exercise VALUES (1188, 'CKC Parascapular Exercises', 'Intermediate');
@@ -1718,7 +1555,6 @@ INSERT INTO required_equipment VALUES (1188, 1005);
 INSERT INTO exercise_description VALUES (1188, 'Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towards your body). Slowly lean forward to place your hands on the mat, positioning them directly under your shoulders at shoulder-width with your fingers facing forward. Reposition your hands and knees as necessary so that your knees are directly under your hips and hands are directly under your shoulders. Stiffen your abdominal muscles to position your spine in a neutral position, avoid any excessive sagging or arching.
 Slide your right hand forward to a staggered stance position, moving it 6 to 12 inches forward of the shoulder. Internally rotate both arms turning your finger tips to the center. Hold this position for 5-10 seconds for a total of 2-4 repetitions. Repeat switching hand positions.
 Exercise Variation:
-
 ');
 INSERT INTO exercise VALUES (1189, 'Close-grip Bench Press', 'Intermediate');
 INSERT INTO used_muscle VALUES (1189, 1009);
@@ -1733,18 +1569,12 @@ INSERT INTO used_muscle VALUES (1190, 1002);
 INSERT INTO used_muscle VALUES (1190, 1003);
 INSERT INTO required_equipment VALUES (1190, 1005);
 INSERT INTO exercise_description VALUES (1190, 'Starting Position: Stand in an athletic ready position with your feet hip-width apart, your right leg forward, left leg back, with both arms bent at the elbows and the left arm in front of your body and right arm back behind your body. Prepare for the jump by leaning forward hinging at the hips, while simultaneously keeping your weight back in your thighs, depressing and retracting your scapulae (pull shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Jumping Movement: Quickly sink your weight back into your hips then explosively push both feet into the floor and driving your hips forward to accelerate your body into the air achieving triple extension (pushing and extending your ankles, knees and hips simultaneously) in both legs. As you jump into the air, keep your feet level with each other and parallel with the floor.
 
-
 While you are in the air cycle your legs by moving your left leg forward in front of your body, your right leg backwards behind your body; cycle your arms with your legs so that as your left leg comes forward your right arm comes forward and as your right leg moves back your left arm moves back.
-
 Downward phase: As you land your left leg should be in front of your body and your right leg back behind your body. The most important components of the landing phase are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees. Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels. Always push your hips backwards and drop them downwards to absorb the impacting forces associated with jumping. Avoid locking out your knees or quads on your landing as this may lead to potential knee injuries. Land with your trunk inclined slightly forward, head aligned with your spine and back rigid or flat. Keep your abdominal / core muscles engaged, stiffening your torso to protect your spine.
-
 Exercise Variation: Be sure to alternate the forward leg, when learning this exercise focus first on landing with control and resetting before another repetition, as you improve your strength and power progress to performing multiple jumps in a row.
-
 It is suggested, you first learn how to squat and land before attempting to jump. Once you have mastered the hip-hinge mechanism, begin with small jumps, but emphasize your landing mechanics. Only progress to more explosive jumps once you have mastered your landing mechanics.
-
 ');
 INSERT INTO exercise VALUES (1191, 'Diagonal Raise', 'Intermediate');
 INSERT INTO used_muscle VALUES (1191, 1006);
@@ -1773,13 +1603,9 @@ INSERT INTO used_muscle VALUES (1194, 1001);
 INSERT INTO used_muscle VALUES (1194, 1002);
 INSERT INTO required_equipment VALUES (1194, 1015);
 INSERT INTO exercise_description VALUES (1194, 'Starting Position: Stand facing a row of hurdles (the hurdles should be spaced so they have an equal distance between each hurdle); start with the left leg forward and right leg back, right arm forward and left arm back (you can alternate this starting position, but be sure to have the opposite arm and leg forward); lean forward, hinging from the hips to prepare for the run. Explosively push off with the left leg while rapidly lifting the right knee and swinging the left arm forward to generate the forward movement for the drill.
-
 Step over the first hurdle and plant the right foot in the space between the first and second hurdles while explosively driving the left knee up to create a ninety degree angle at the left hip, at the same time the left knee is rising up swing the right arm forward moving from the shoulder joint (the movement comes from the shoulder not the elbow).
-
 Lift the left foot over the next hurdle and plant it on the ground while explosively lifting the right knee to a height where it creates ninety degrees of hip flexion, at the same time the left arm should swing forward from the shoulder while the right arm swings back into extension. Continue running over the hurdles by picking up the knees as high as you can to ensure that you are able to clear the hurdles as you run over them.
-
 Exercise Variation: Start with one foot touch between each pair of hurdles and progress to being able to do two foot touches in between each pair of hurdles.
-
 Maintain a tall posture with straight spine by engaging the abdominals (bracing) during the drill.
 ');
 INSERT INTO exercise VALUES (1195, 'Forward Linear Jumps', 'Beginner');
@@ -1790,17 +1616,11 @@ INSERT INTO used_muscle VALUES (1195, 1002);
 INSERT INTO used_muscle VALUES (1195, 1003);
 INSERT INTO required_equipment VALUES (1195, 1005);
 INSERT INTO exercise_description VALUES (1195, 'Starting Position: Stand with your feet hi-width apart, depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until your feel your heels about to lift off the floor. Try to maintain a flat back by bending forward at the hips. Keep your head facing forward or to the floor, and extend your arms to reach directly behind you while keeping the elbows straight.
-
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode forward and upwards through your lower extremity while throwing your arms overhead to achieve triple extension (pushing and extending your ankles, knees and hips simultaneously). As your jump into the air, try to keep your feet next to each other.
-
 While in the air traveling forward pull your legs in front of you while keeping your feet next to each other in order to prepare for the landing. Your head should be level with your eyes looking to the spot on the floor where you want to land.
-
 Your legs should be in front of you with the feet parallel next to each other, bend the knees and flex the hips to prepare to absorb the impact forces of the landing. Keep your eyes on the floor to prepare for the landing.
-
 Landing phase: Keep your feet parallel next to each other and attempt to land softly on the whole foot, let the balls of the feet hit the ground first and quickly roll down to your heels while sinking your weight back into your heels and hips. Use the rapid bending of the hips and knees to absorb the impact forces of the landing, do not land with a straight or hyper-extended knee as this could create an injury.
-
 Exercise Variation: Perform multiple jumps in a row, minimize the amount of time on the ground, as soon as you land and absorb the forces in the legs and hips explode off the ground into the next jump.
 ');
 INSERT INTO exercise VALUES (1196, 'Forward Stepping over Cones ', 'Beginner');
@@ -1808,15 +1628,10 @@ INSERT INTO used_muscle VALUES (1196, 1004);
 INSERT INTO used_muscle VALUES (1196, 1005);
 INSERT INTO required_equipment VALUES (1196, 1002);
 INSERT INTO exercise_description VALUES (1196, 'Starting Position: Place a series of cones 18-30" apart in a straight line on a non-slip surface. Stand 6" behind the first cone with your feet hip-width apart or closer, arms by your sides. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Walking Movement: Slowly lift one foot off the floor to clear the height of the cone, stabilizing your body on the stance (supporting) leg. Avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot. Hold this position momentarily before stepping forward, pushing off your stance (supporting) leg to clear the cone.
-
 The raised leg should initiate contact over the cone with a heel strike first, followed by the mid- and fore-foot, transferring your body weight into that foot. As you load into this leg, avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot. Your trailing leg needs to also clear the cone.
-
 Continue this sequence through the series of cones.
-
 Exercise Variation: This exercise can be progressed in several ways: (1) lift each leg higher off the floor (illustrated) to further challenge your balance (raising center of mass), (2) walk through the cones at a faster pace, (3) step sideways through the cones, or (4) step backwards through the cones.
-
 ');
 INSERT INTO exercise VALUES (1197, 'Front Raise', 'Beginner');
 INSERT INTO used_muscle VALUES (1197, 1006);
@@ -1859,13 +1674,9 @@ INSERT INTO used_muscle VALUES (1202, 1006);
 INSERT INTO required_equipment VALUES (1202, 1007);
 INSERT INTO required_equipment VALUES (1202, 1008);
 INSERT INTO exercise_description VALUES (1202, 'Starting Position: Grasp two dumbbells and lie supine (on your back) on an incline bench angled between 45 and 60 degrees with your feet placed firmly on the floor or on a raised platform to allow you to maintain a neutral spine (flat to normal curvature).
-
 Depress and retract your scapulae (pull shoulders down and back) to make firm contact with the bench. Your head, shoulders, butt and feet should make contact with the bench and floor/riser throughout the exercise. If using a spotter, signal for assistance in moving to your starting position. Grasp each dumbbell with a closed, pronated grip (palms facing forward, thumbs wrapped around the handle) and press the dumbbells in unison to a level over your eyes or slightly higher, with your elbows fully extended. Maintain a neutral wrist position (avoid flexion / extension at the wrist joint).
-
 Downward Phase: Inhale and slowly lower the dumbbells in unison and in a controlled movement towards your upper chest, but moving slightly wider towards the armpits. Gently touch the dumbbells to your chest without bouncing, maintaining your neutral wrist position. Keep the elbows under your wrists, and either close to your sides (emphasizes more triceps) or flared out from the body (emphasizes more pectorals). Maintain all points of contact with the bench and floor/riser and avoid any arching in the low back.
-
 Upward Phase: Exhale and gently press upwards to full elbow extension with the dumbbells positioned at your starting position. Maintain your points of contact with the bench and floor/riser, avoid arching your back during the lift and maintain your neutral wrist position throughout the movement.
-
 At the end of the set, signal your spotter to assist you in taking the dumbbells and maintain a firm grip until the dumbbells are taken from your hands.
 ');
 INSERT INTO exercise VALUES (1203, 'Incline Reverse Fly', 'Beginner');
@@ -1881,11 +1692,8 @@ INSERT INTO exercise VALUES (1204, 'Seated Medicine Ball Trunk Rotations', 'Begi
 INSERT INTO used_muscle VALUES (1204, 1004);
 INSERT INTO required_equipment VALUES (1204, 1004);
 INSERT INTO exercise_description VALUES (1204, 'Starting Position: Sit on a mat/floor with your knees bent, feet together, heels on the floor while holding a medicine ball in your lap close to your body. Start with a light ball (2 lb) and increase the weight of the ball as your fitness level improves. Sit upright with your chest raised towards the ceiling and back erect so that your torso is perpendicular to the floor. Stiffen your torso by contracting your core and abdominal muscles ("bracing").
-
 Rotation: Without leaning backwards, exhale and slowly rotate your torso and the ball to one side, keeping the ball close to your body and aligned with the middle of your torso. The ball should not drop towards the floor. Pause briefly at the end range of motion, inhale and then gently exhale while rotating completely to the opposite side. Repeat the movement back and forth.
-
 Exercise Progression 1: As your conditioning improves, you can modify your starting position by leaning back halfway to the floor while keeping your knees bent and heels on the floor. With each rotation bring the elbow close to, but not to rest on the floor. Keep your core and abdominal muscles stiff to prevent any arching in your low back during the exercise. This exercise variation increases the demands placed upon your abdominal muscles.
-
 Exercise Progression 2: As your conditioning levels continue to improve, you can modify your starting position once again by leaning back halfway to the floor and lifting your legs off the floor. Keep your knees bent and feet together during the exercise. With each rotation bring the elbow close to, but not to rest on the floor. Keep your core and abdominal muscles stiff to prevent any arching in your low back and avoid any shrugging in your shoulders during the exercise. This exercise variation further increases the demands placed upon your abdominal muscles.
 ');
 INSERT INTO exercise VALUES (1205, 'Seated Row ', 'Beginner');
@@ -1904,7 +1712,6 @@ Continue pulling until your elbows pass the sides of your body. Pause momentaril
 Exercise Variation: To increase the exercise intensity and involve additional exercises, perform the following variations:
 (a) Perform unilateral (one arm at a time) pulls
 (b) Move the chest pad away from your body, which will now require a greater effort to stabilize your trunk as you perform the pulling movement.
-
 Allowing your shoulders to round forward as your arms extend will allow you to pull with more force. However, learn how to perform a pulling motion without scapulae (shoulder blade) movement first before introducing shoulder movement. Additionally, reduce unnecessary stresses into your low back by avoiding any backwards lean during the pull movements.
 ');
 INSERT INTO exercise VALUES (1207, 'Seated Shoulder Press ', 'Beginner');
@@ -1917,7 +1724,6 @@ Continue pressing until your elbows are fully extended, but not locked. Pause mo
 Exercise Variation: To increase the exercise intensity, perform the following variations:
 (a) Perform unilateral (one arm at a time) presses
 (b) Sit upright off the backrest, which will require a greater effort from your core to stabilize your trunk as you perform the press movement.
-
 In the overhead position, the shoulder is relatively unstable. To protect your shoulder it is important to engage your lats (back muscles) to initiate the downward movement as oppsed to simply yielding to gravity. This will help stabilize your shoulder.
 ');
 INSERT INTO exercise VALUES (1208, 'Seated Side-Straddle Stretch ', 'Beginner');
@@ -1929,7 +1735,6 @@ INSERT INTO exercise_description VALUES (1208, 'Starting Position: Assume a seat
 Stiffen (“brace”) your abdominal muscles to stabilize your spine, then gently exhale and slowly bend sideways, driving the lowered elbow downward towards the floor without rotating your trunk or bending forward. Keep your head aligned with your spine, knees extended and toes pointed upwards towards the ceiling. This should create a stretch through the side of your trunk with some stretching in your back.
 Continue to bend sideways to the point of tension in the stretch, but do not bounce or push to a point of pain. Hold this position for 15 - 30 seconds then relax by returning to your starting position, repeat 2-4 times, then switch to the opposite side of your body.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions in each direction, holding the stretched position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bouncing and control movement at other segments of the body. During this stretch, avoid any rotation or forward flexion (bending) of your low back
 ');
 INSERT INTO exercise VALUES (1209, 'Seated Straddle Stretch ', 'Beginner');
@@ -1940,9 +1745,7 @@ INSERT INTO exercise_description VALUES (1209, 'Starting Position: Assume a seat
 Stiffen (“brace”) your abdominal muscles to stabilize your spine, then gently exhale and slowly bend forward from your hips, reaching forward with your hands. Attempt to maintain a flat back position and avoid rounding your back towards the ceiling (i.e., move from the hips and not your low back). Keep your head aligned with your spine, knees extended and toes pointed upwards towards the ceiling. This should create a stretch through your inner thighs with some smaller stretching in your low, middle and upper back, calves and hamstrings.
 Continue to bend and reach forward to the point of tension in the stretch, but do not bounce or push to a point of pain. Hold this position for 15 - 30 seconds then relax by returning to your starting position and repeat 2-4 times.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions, holding the stretched position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bouncing and control movement at other segments of the body. During this stretch, avoid any excessive rounding of your low back
-
 ');
 INSERT INTO exercise VALUES (1210, 'Seated Toe Touches ', 'Beginner');
 INSERT INTO used_muscle VALUES (1210, 1001);
@@ -1953,7 +1756,6 @@ INSERT INTO exercise_description VALUES (1210, 'Starting Position: Assume a seat
 Stiffen (“brace”) your abdominal muscles to stabilize your spine, then gently exhale and slowly bend forward from your hips, sliding your hands down your legs towards your ankles. Attempt to maintain a flat back position and avoid rounding your back towards the ceiling (i.e., move from the hips and not your low back). Keep your head aligned with your spine, knees extended and toes pointed upwards towards the ceiling. This should create a stretch through your calves and hamstrings, with some stretching in your low and middle back.
 Continue to bend and reach forward to the point of tension in the stretch, but do not bounce or push to a point of pain. Hold this position for 15 - 30 seconds, then relax by returning to your starting position and repeat 2-4 times. You may elect to grasp your ankles to hold this position.
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions, holding the stretched position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bounding, and control movement at other segments of the body. During this stretch, avoid any excessive rounding of your low back.
 ');
 INSERT INTO exercise VALUES (1211, 'Shoulder Packing', 'Beginner');
@@ -1963,7 +1765,6 @@ INSERT INTO required_equipment VALUES (1211, 1005);
 INSERT INTO exercise_description VALUES (1211, 'Starting Position: Stand with your feet hip-width apart, toes pointing forward, with arms by your sides. Contract your abdominal muscles (“brace”) to stabilize your spine while holding your chest up and out with your head tilted slightly up.
 Exhale and depress and retract your scapulae (pull shoulders down and back) without arching your low back. Hold the contraction for 5-10 seconds for a total of 2-4 repetitions.
 Exercise Variations:
-
 Be sure to exhale with each contraction to help you achieve the desired range of motion. Keep the abdominals engaged to prevent any increase in lumbar lordosis (inward curvature of the back).
 ');
 INSERT INTO exercise VALUES (1212, 'Side Lying Hip Abduction', 'Beginner');
@@ -1987,7 +1788,6 @@ INSERT INTO required_equipment VALUES (1214, 1005);
 INSERT INTO exercise_description VALUES (1214, 'Starting Position: Lie on your right side on a mat/floor with your legs extended straight away from your body. Bend your left knee and pull your left heel up towards your left glute muscle (buttock), use your left hand to grab a hold of the top of your left foo. Your right (lower) arm should be bent and positioned under your head for support. Your hips and shoulder should be aligned vertically to the floor. Your head should be aligned with your spine.
 Stiffen your core and abdominal muscles ("bracing") to position your spine in neutral position and maintain stability through your pelvis, maintain this abdominal contraction throughout the stretch. Exhale and use your left hand to gently pull your left heel and lower leg towards your tailbone while simultaneously keeping the left thigh and knee resting on the inside of the right thigh and pointing straight out from the left hip joint. Hold this position for 30-45 seconds, then straighten the leg and contract (squeeze) the quadriceps (thigh) muscles and repeat for 2-5 repetitions; alternate sides and repeat with the right leg.
 Exercise Variation: To increase the intensity of the stretch point your left knee behind your body while continuing to hold on to your left foot. Another option is to hold the stretch for 10-15 seconds, push your left foot into your hand (like trying to straighten your leg), hold for 5-7 seconds, then relax and pull your heel closer to your tailbone, repeat for 3-5 repetitions and alternate sides.
-
 Be sure to keep the spine in a straight line and maintain the abdominal bracing to keep the pelvis stable.
 ');
 INSERT INTO exercise VALUES (1215, 'Side Plank - modified', 'Beginner');
@@ -2161,9 +1961,7 @@ INSERT INTO used_muscle VALUES (1232, 1002);
 INSERT INTO used_muscle VALUES (1232, 1003);
 INSERT INTO required_equipment VALUES (1232, 1005);
 INSERT INTO exercise_description VALUES (1232, 'Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you. Slowly bend forward to place your palms flat on the mat, positioning your hands shoulder-width apart with your fingers facing forward. Slowly lift yourself into a push-up position, shifting your hands until your shoulders are positioned directly over your hands. Reposition your feet as needed to allow full extension of your body. Stiffen your torso by contracting your core and abdominal muscles to prevent any arching in your low back or hiking of your hips towards the ceiling.
-
 Upward Phase: While maintaining a rigid torso and full extension in your arms and legs, slowly exhale and shift your weight backwards by pushing your hips backwards and upwards. Maintain your head alignment with your spine, but slowly move your head between your shoulders as your body moves backwards and attempt to push your heels towards the floor. Maintain the stiffness in your torso to prevent the tendency of your back to arch. Continue moving until your body forms an inverted-V, keeping both arms and legs extended and a neutral (flat) spine. Allow a slight bend in the knees if required to achieve the inverted-V position.
-
 Downward Phase: Inhale and return your body to the starting push-up position, maintaining the alignment of all your body segments.
 ');
 INSERT INTO exercise VALUES (1233, 'Elevated Glute Bridge', 'Intermediate');
@@ -2187,34 +1985,22 @@ INSERT INTO used_muscle VALUES (1236, 1005);
 INSERT INTO used_muscle VALUES (1236, 1003);
 INSERT INTO required_equipment VALUES (1236, 1002);
 INSERT INTO exercise_description VALUES (1236, 'Starting Position: Place a series of cones 18-24" apart in a straight line on a non-slip surface. Stand 6" behind the first cone with your feet hip-width apart or closer, arms by your sides. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal / core muscles) to stiffen your spine.
-
 Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until your feel your heels about to lift off the floor. Try to maintain a flat back by bending forward at the hips. Keep your head facing forward or to the floor, and position your arms where comfortable or where they offer the greatest degree of balance support.
-
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode forward and upwards through your lower extremity over the top of the first cone, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As your jump into the air, try to keep your feet level with each other and parallel with the floor.
-
 Landing: The most important components of the landing phase are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees.
-
 Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels to create a level foot, parallel with the floor. Always push your hips backwards and drop your hips to absorb the jumping forces. Avoid locking your knees or quads on your landing as this may lead to potential knee injuries.
-
 Land with your trunk inclined slightly forward, head aligned with your spine and back rigid or flat. Keep your abdominal / core muscles engaged, stiffening your torso to protect your spine.
-
 With ONLY a very brief pause at the bottom of your landing phase, explode forward and upwards again through your lower extremity over the second cone, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As you jump into the air, try to keep your feet level with each other and parallel with the floor. Continue this process until you have cleared all the cones.
-
 Exercise Variation: As you develop your jumping and landing skills, you can progress the exercise intensity and complexity by: (1) driving your arms behind you during the downward phase, (2) driving your arms forward and upward (towards an overhead position) during the jumping phases, (3) driving your knees towards your chest during the jumping phases, (4) increasing the height of each cone or the spacing between each cone, or (5) moving back and forth more rapidly or adding more cones and performing a greater number of jumps in each direction.
 ');
 INSERT INTO exercise VALUES (1237, 'Forward Linear Ladder Drill', 'Intermediate');
 INSERT INTO used_muscle VALUES (1237, 1000);
 INSERT INTO required_equipment VALUES (1237, 1006);
 INSERT INTO exercise_description VALUES (1237, 'Starting Position: Stand with your feet hip-width apart at the end of the ladder so it is directly in front of you.
-
 Push off with your left leg exploding into triple extension (foot is plantar-flexed, knee and hip are extended) while picking up the right leg to step into the next square.
-
 Push your left leg into triple extension (think about pushing the ground away from you) explosively drive the right knee straight up while maintaining a tall, straight spine; when the right knee is raised, the left arm should be forward in shoulder flexion and the right arm should be back in shoulder extension.
-
 Plant the right foot in the next square forward, explosively drive the right foot into the ground to create triple extension with the right leg while explosively lifting the left knee up towards the chest; maintain a tall, straight spine while explosively driving the arms into shoulder flexion and extension to help maintain the forward momentum.
-
 Bring the left foot down and place it in the next square forward and explode into triple extension with the left leg while driving the right knee straight up; continue running forward down the ladder placing one foot in each square and emphasizing explosive leg action to rapidly move into triple extension each time you are pushing off and moving forward; keep your chest lifted, your spine straight and tall and use explosive arm swings to help maintain forward momentum through the course of the ladder.
-
 Exercise Variation: Instead of placing one foot in each square, increase the leg action to place two feet in each square; maintain rapid arm action swinging the arms forward from the shoulder joint.
 Focus on explosive actions with your legs and pick the knees up rapidly--the faster you pick your knees up, the faster and more explosive you can move your leg into triple extension to drive your momentum forward.
 ');
@@ -2230,11 +2016,8 @@ INSERT INTO used_muscle VALUES (1239, 1005);
 INSERT INTO used_muscle VALUES (1239, 1003);
 INSERT INTO required_equipment VALUES (1239, 1005);
 INSERT INTO exercise_description VALUES (1239, 'Starting Position: Stand with your feet together. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal/core muscles) to stiffen your spine.
-
 In preparation to step forward, slowly lift one foot off the floor, stabilizing your body on the stance (supporting) leg. Avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot. Hold this position momentarily before stepping forward. The raised (swing) leg should initiate contact with a heel strike first, slowly transferring your body weight into the leading (forward) foot placed firmly on the floor. As you load into this leg, avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot.
-
 As you lunge forward, focus more on dropping your hips towards the floor rather than driving your hips forward. This will help control the amount of forward movement of your shinbone (forward tibial translation) over your foot. Continue lowering your body to a comfortable position or until your front thigh becomes parallel with the floor and your tibia (shinbone) is in a slight forward lean. While lunging, simultaneously, bend forward at your hips, maintaining a flat back.
-
 Firmly push off with your front leg, activating both your quads and glutes (thighs and butt muscles) to return to your upright, starting position.
 ');
 INSERT INTO exercise VALUES (1240, 'Front Plank', 'Intermediate');
@@ -2242,9 +2025,7 @@ INSERT INTO used_muscle VALUES (1240, 1004);
 INSERT INTO used_muscle VALUES (1240, 1007);
 INSERT INTO required_equipment VALUES (1240, 1005);
 INSERT INTO exercise_description VALUES (1240, 'Starting Position: Lie prone (on your stomach) on an exercise mat or floor with your elbows close to your sides and directly under your shoulders, palms down and hands facing forward. Contract your quadriceps to extend your legs and dorsiflex your ankles (pull toes towards your shins). Contract your core and abdominal muscles to stiffen your torso.
-
 Upward Phase. Slowly lift your entire torso off the floor or mat, maintaining a stiff torso and legs. Avoid any arching (sagging) in your low back, hiking (upwards) in your hips or bending in the knees. Avoid shrugging your shoulder and keep your shoulders positioned directly over your elbows with your palms facing down. Continue to breath while holding this position for a specified time (5+ seconds).
-
 Downward Phase: While maintaining a stiff torso and extended knees, gently lower your body back towards the mat or floor before relaxing.
 ');
 INSERT INTO exercise VALUES (1241, 'Front Squat', 'Intermediate');
@@ -2254,15 +2035,10 @@ INSERT INTO used_muscle VALUES (1241, 1000);
 INSERT INTO used_muscle VALUES (1241, 1003);
 INSERT INTO required_equipment VALUES (1241, 1008);
 INSERT INTO exercise_description VALUES (1241, 'Starting Position: Stand with your feet slightly wider than hip-width, facing outward or turned slightly outwards while holding a dumbbell in each hand by your sides, with palms facing inwards. Depress and retract your scapulae (pull shoulders down and back).
-
 Stiffen your core and abdominal muscles (“bracing”) to stabilize your spine. Curl the dumbbells to a starting position where they rest on the front edge of your shoulders or just in front of your shoulders. Hold your chest up and out, tilt your head slightly up, and shift your weight over your heels.
-
 Downward Phase: Start the downward phase by first shifting your hips backwards then downwards to create a hinge-like movement at your knees. As you lower your hips the knees will then start to shift forward slowly, but try to control the amount of forward translation (movement) of the tibia (shinbone). Attempt to keep your back flat.
-
 Continue to lower yourself until your thighs are parallel or almost parallel with the floor, or until your heels begin to lift off the floor, or until your torso begins to round or flex forward. Monitor your feet, ankles and knees, ensuring that the feet don"t move, the ankles do not collapse in or out and the knees remain aligned over the second toe.
-
 Lowered Position: From the front, the knees should continue to remain aligned over the second toe and body weight should be evenly distributed over both feet. From the side, the position of the tibia (shinbone) and torso should be parallel with each other and the low back should appear flat or showing the beginning of some rounding.
-
 Upward Phase: While maintaining your back, chest and head-up position, exhale and extend the hips and knees by pushing your feet into the floor through your heels. The hips and torso need to rise together while keeping the heels flat on the floor and knees aligned over the second toe. Continue extending until you reach your starting position.
 ');
 INSERT INTO exercise VALUES (1242, 'Glute Bridge ', 'Intermediate');
@@ -2278,11 +2054,8 @@ INSERT INTO used_muscle VALUES (1243, 1005);
 INSERT INTO used_muscle VALUES (1243, 1003);
 INSERT INTO required_equipment VALUES (1243, 1005);
 INSERT INTO exercise_description VALUES (1243, 'Starting Position: Lie supine (on your back) on an exercise mat or the floor in a bent-knee position with your feet flat on the floor and your arms resting comfortably along your side with the palms rotated up to face the ceiling. Start with your feet hip-width apart with the toes facing away from you, lift the left leg and place both hands on the back of the thigh to gently pull your left knee towards your chest, slide the right foot in (towards the center of the body). Gently contract your abdominal muscles to flatten your low back into the floor. Attempt to maintain this abdominal stiffness throughout the exercise.
-
 Upward Phase: Gently exhale while holding your abdominal contraction and the back of your left thigh; press your right foot into the ground and lift upwards off the floor into hip extension by contracting (squeezing) your right glute (butt muscle). At the same time press your right heel into the floor for more stability. Avoid pushing your hips too high as this generally increases the amount of hyperextension (arching) in your low back. Maintaining your abdominal contraction helps avoid excessive arching in your low back.
-
 Lowering Phase: Inhale and slowly lower yourself back towards your starting position by controlling the action of the right hip. Repeat for a specific number of repetitions or a certain period of time; then alternate legs.
-
 Exercise Variation: To increase the strength of the muscles along the front of the shin (anterior tibilias) pick the toes of the right foot off of the floor to hold the foot in dorsiflexion-this is a good option for runners because it could help reduce the risk of developing shin splints.
 ');
 INSERT INTO exercise VALUES (1244, 'Lateral Crawls', 'Intermediate');
@@ -2297,11 +2070,8 @@ INSERT INTO used_muscle VALUES (1245, 1002);
 INSERT INTO used_muscle VALUES (1245, 1003);
 INSERT INTO required_equipment VALUES (1245, 1015);
 INSERT INTO exercise_description VALUES (1245, 'Starting Position: Stand to the side of the hurdles so that they are lying to your left, your feet should be hip-width apart with the knees slightly bent. Bend your hips and drop into an athletic ready position so that your knees are slightly bent and your chest is directly over your toes. Your arms should be bent with the elbows fixed at approximately ninety degrees (during the drill ensure that the swinging is coming from the shoulder joint and not from the elbows). Shift your bodyweight so that your weight is in your right leg. Pick the left foot up so the left hip is at ninety degrees and prepare to place the left foot on the ground beween the first two hurdles while pushing the right foot in to the ground to move your body to your left. Maintain an abdominal contraction and straight spine during this drill and keep your feet parallel so your toes are pointed straight ahead (in the same direction that you are facing).
-
 When your left foot hits the ground, shift your bodyweight into your left leg, pick up the right foot to the point where the right hip is approximately ninety degrees, lift the foot over the hurdle and bring it to the ground next to the left foot.
-
 Explosively push your right foot into the ground and pick up the left foot until the point where the left hip achieves approximately ninety degrees of flexion and continue running over the hurdles allowing both feet to touch the space in between each individual hurdle.
-
 Exercise Variation: Once you have run over the hurdles moving to your right, change directions and run over the hurdles moving to your left. Once you establish the rythym and pace of the movement, keep your head and eyes raised so that you are looking straight ahead where your opponent would be during an athletic competition.
 ');
 INSERT INTO exercise VALUES (1246, 'Lateral Lunge', 'Intermediate');
@@ -2318,15 +2088,10 @@ INSERT INTO required_equipment VALUES (1247, 1005);
 INSERT INTO required_equipment VALUES (1247, 1017);
 INSERT INTO required_equipment VALUES (1247, 1013);
 INSERT INTO exercise_description VALUES (1247, 'Starting Position: Using two stacks of risers; height not exceeding the top of your gastrocnemius (calf) muscle, place a body bar/broomstick across the top, leaving enough room between the stacks for you to step over it laterally. Make a total of 2-4 stations, lining them up with enough room for you to do a side lunge between them. Stand directly next to the broomstick, so it is perpendicular to your right leg. Your feet should be hip- width apart, toes pointing forward or turned slightly outwards, with arms by your sides and elbows flexed (bent) to 90 degrees. Stiffen your abdominal muscles (“brace”) to stabilize your spine, then depress and retract your scapulae (pull shoulders down and back) without arching your low back. Hold your chest up and out, tilt your head slightly up, and shift your weight over your heels
-
 Shift your bodyweight into your left leg and lift your right foot off of the ground and bend at the hips, pushing them backwards, while simultaneously shifting your weight to your left leg. Maintain abdominal “bracing” and alignment. Continue loading your weight into the LEFT leg while lifting the right foot off the ground and bringing your right leg over the broomstick to hip flexion with your knee at a 90 degree angle in alignment with your hips. Your right foot should remain in dorsi-flexion (toes pulled up towards your shin) with the toes pointing forward. Place the right foot down on the opposite side of the broomstick (dowel rod) and shift your weight into your right hip to prepare to bring your left foot over the obstacle to place it next to the right. Level your hips and secure your balance.
-
 Place your right foot on the ground and bend at the hips, pushing them backwards, while simultaneously shifting your weight to your right leg. Maintain abdominal “bracing” and alignment. Continue loading your weight into the RIGHT leg while lifting the left foot off the ground and bringing your left leg over the broomstick to hip flexion with your knee at a 90 degree angle in alignment with your hips. Your left foot should remain in dorsi-flexion (the toes pulled up towards the shin) with the toes pointing forward. Level your hips and secure your balance. Place your left foot on the ground, ending in the same body position as you started.
-
 “Unders” Continue the exercise stepping your right foot to the side, while keeping your weight over your heels and both feet facing forward step your right leg to the side. Once your right foot is firmly placed on the floor, bend at the hips, pushing them backwards while simultaneously shifting your weight towards the right foot. Continue shifting your weight over the right foot until your tibia (shinbone) is vertical to the floor and your right knee is aligned directly over the second toe of your right foot. The goal is to sit deep into the lunge brining the glutes level with the right knee. Your left leg should be at full extension at the knee and your body weight should still be distributed into the right hip. The heels of both feet should stay flat on the floor. Push through your right heel and lift the left leg off the floor bringing it in to starting position.
-
 Continue into the next over/under until you reach the end. Facing the same direction, come back down the line leading with your left foot.
-
 When stepping over the broomstick, be sure not to step too wide to avoid contacting the broomstick with the extended leg. Contacting the broom stick a can cause it to move resulting in a loss of balance and injury. A common mistake when performing a body weight side lunge is that individuals often step too wide and are unable to align the tibia (shinbone) over the placed foot and the knee falls inside the foot. In this case, simply shorten the width of the step taken to allow you to align the tibia over the placed foot.
 ');
 INSERT INTO exercise VALUES (1248, 'Lunge', 'Intermediate');
@@ -2342,15 +2107,11 @@ INSERT INTO used_muscle VALUES (1249, 1000);
 INSERT INTO used_muscle VALUES (1249, 1003);
 INSERT INTO required_equipment VALUES (1249, 1005);
 INSERT INTO exercise_description VALUES (1249, 'Starting Position: Stand with your feet hip width apart. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal/core muscles) to stiffen your spine.
-
 Step forward by slowly lifting the right foot off the floor, stabilize your body on the left (stance / supporting) leg and avoid any sideways tilting or swaying in your upper body by maintaining the abdominal bracing. Keep the left (stance/supporting) foot pressed firmly into the ground, hold this position momentarily before stepping forward with the right foot. The right (swing) leg should initiate contact with a heel strike first, slowly transferring your body weight into the right (leading/forward) foot placed firmly on the floor. As you lower yourself into the right leg, maintain a straight spine by leaning forward from the hips and lower your right elbow on the inside of your right knee.
-
 As you lower yourself into the lunge, focus more on dropping your hips towards the floor rather than driving your hips forward. This will help control the amount of forward movement of your shinbone (forward tibial translation) over your foot. Place both hands on the floor with the right slightly forward of the left and continue lowering your body to a comfortable position or until your front thigh becomes parallel with the floor and your tibia (shinbone) is in a slight forward lean. While in the lowered position with both hands on the floor, push back through the left foot to extend the left hip and maintain the abdominal bracing to keep the pelvis stable and increase the stretch to the left hip flexor.
 From the lowered position, keep your abdominals braced and push your hands into the floor to begin to raise yourself back to a standing position. Press the right (forward) foot into the ground and drive the right knee backwards to create knee and hip extension and pull yourself forward into a standing position. Keep your chest lifted and abdominals braced to maintain a straight spine and level pelvis while beginning to swing the left leg forward to initiate the next repetition and stretch in to the right hip.
-
 Continue the exercise for a specific number of repetitions or over a certain distance of travel.
 Exercise Variation: to add a stretch for the hamstrings before stepping in to the next lunge, push off of the floor with your hands, lean back and push the right foot in to the ground to straighten the right leg while shifting your weight into your left hip and stretch the right hamstrings. Alternate with both legs.
-
 ');
 INSERT INTO exercise VALUES (1250, 'Lying Barbell Triceps Extensions ', 'Intermediate');
 INSERT INTO used_muscle VALUES (1250, 1009);
@@ -2383,10 +2144,8 @@ INSERT INTO used_muscle VALUES (1253, 1006);
 INSERT INTO required_equipment VALUES (1253, 1004);
 INSERT INTO exercise_description VALUES (1253, 'Starting Position: Make sure that you are working with a partner who can catch the ball, let the partner feel the medicine ball first so they know how much it weighs and can prepare to catch it. Position your body directly facing your partner with the spine in neutral (normal-to-flat), shoulders depressed (no shrugging) with scapulae retracted (squeezing shoulder blades together). Keep your chest held up and out, head in line with your spine or slightly extended (raised), heels on the floor. Stand with the feet hip-width apart, the left foot slightly forward, the right foot slightly back while holding a medicine ball between both hands; contract and brace the abdominals while depressing and retracting your shoulder blades. Your eyes should be looking directly at the target in order to properly aim the throw.
 Keep your feet pressed into the ground, continue to contract and brace your abdominal muscles, swing your arms upwards to lift the medicine ball overhead and bend your elbows to reach the medicine ball behind your head. As you lift the ball over your head, shift your weight back into your right leg and lean back to engage the core muscles for extra power for the throw. While preparing to throw the ball aim the throw by keeping your eyes on your partners hands as you pull the ball back over your head.
-
 Explosively step forward with the right leg and quickly bring your arms forward over your head to generate power for throwing the ball. While stepping forward with the right leg, push the left leg into the ground create triple extension (ankle plantar flexion with knee and hip extension) and generate more forward momentum for the ball.
 Exercise Variation: Repeating throws: Use a wall with a medicine ball capable of bouncing and position yourself so that you can throw the ball into the wall and quickly catch it to prepare for the next throw.
-
 
 ');
 INSERT INTO exercise VALUES (1254, 'Overhead Slams', 'Intermediate');
@@ -2397,13 +2156,10 @@ INSERT INTO used_muscle VALUES (1254, 1003);
 INSERT INTO used_muscle VALUES (1254, 1006);
 INSERT INTO required_equipment VALUES (1254, 1004);
 INSERT INTO exercise_description VALUES (1254, 'Starting Position: Stand with your feet hip-width apart and holding a medicine ball in both hands directly in front of your chest; grasp the ball with your hands in a neutral position (palms facing each other), and elbows fully flexed (bent) and facing down towards the floor.
-
 Downward Phase: Begin your downward phase by first shifting your hips backwards then slowly moving downwards to create a hinge-like movement at your knees. Continue to lower yourself until your feel your heels about to lift off the floor. Depress and retract your scapulae (pull your shoulders down and back) and engage your abdominal / core muscles ("bracing") to stiffen your torso and support your spine. Maintain a flat back by bending forward at the hips, keep your head facing forward and reach the medicine ball back between your legs to prepare to bring it up overhead in a rapid motion.
-
 Upward phase: Swing the medicine ball upwards over your head while reaching it back behind your head and neck and simultaneously straightening your legs and rolling up on the balls of your toes to create triple extension (ankle plantarflexion, knee and hip extension); lean back while pushing the hips forward to lengthen the abdominal muscles, keep the abdominals contracted and engaged (bracing) throughout the movement to ensure spinal stability.
 Explosively bring the ball down over your head to throw it directly downwards into the floor while dropping your weight back into your hips. As you throw the ball down, make sure you are maintaining the abdominal bracing and hinge from the hips to maintain spinal stability.
 Exercise Variation: Use a bouncing medicine ball to throw it straight down and have the ball bounce back up into your hands to perform continuous repetitions.
-
 ');
 INSERT INTO exercise VALUES (1255, 'Partner Standing Row with Resistance Tubing ', 'Intermediate');
 INSERT INTO used_muscle VALUES (1255, 1009);
@@ -2441,13 +2197,9 @@ INSERT INTO used_muscle VALUES (1258, 1005);
 INSERT INTO used_muscle VALUES (1258, 1003);
 INSERT INTO required_equipment VALUES (1258, 1005);
 INSERT INTO exercise_description VALUES (1258, 'Sit at the end of a massage table with your mid thigh aligned with the edge. Sit tall, lifting your head towards the ceiling. Stiffen your abdominal muscles to engage (“brace”) your spine, then depress and retract your scapulae (pull your shoulders down and back) without arching your low back.
-
 Keeping your abdominals engaged, lean slightly backwards drawing your left knee off the table towards the chest and folding your hands under your left thigh with out moving your torso. Continue leaning back, keeping your head in line with your spine, and abdominals engaged. Draw your right knee up towards the ceiling, lifting your right thigh off the table.
-
 Begin to round out your back, lowering it to the table one vertebra at a time. Keeping hold of your left thigh, allow your right knee to stay pointed toward the ceiling. As your lower your head coming into a supine (on your back) position, keep a hold of your left leg and lower your right thigh straight down to the table maintaining the bent knee position to allow your lower leg to hang off the table and a stretch through the right hip flexor.
-
 Hold the stretch position for 15-30 seconds at a time for a total of 2-4 repetitions. Complete all repetitions on one side before alternating to the other leg.
-
 Transition from starting position to the ending supine position with control to receive the full beneft if the stretch.
 ');
 INSERT INTO exercise VALUES (1259, 'Tricep Extension', 'Beginner');
@@ -2464,11 +2216,8 @@ INSERT INTO exercise VALUES (1261, 'Triceps Kickback', 'Beginner');
 INSERT INTO used_muscle VALUES (1261, 1009);
 INSERT INTO required_equipment VALUES (1261, 1008);
 INSERT INTO exercise_description VALUES (1261, 'Starting Position: Hold a dumbbell in your left hand and assume a split-stance position placing your right leg forward, but keeping your weight evenly distributed through the heels of both feet. Stiffen your torso by contracting your abdominal and core muscles ("bracing"). Place your right hand on your right thigh or knee and slowly lean forward, transferring most of your upper extremity body weight into that right side. Depress and retract your left scapula (pull your shoulder down and back) and maintain this position throughout the exercise. Your head should be aligned with your spine.
-
 Position the your left upper arm parallel to, and close to, your torso. Bend your elbow to 90 degrees or at least to a point where your forearm hangs vertical to the floor.
-
 Upward Phase: Exhale and slowly extend (straighten) your elbow by contracting your triceps muscles until your elbow is fully extended. Your upper arm should remain stationary next to your torso and not raised during the movement. Avoid any arching (sagging) in your low back or any rotation in your torso.
-
 Downward Phase: Inhale and slowly return your arm to your starting position, without changing your torso position. Maintain your upper arm parallel and close to your torso.
 ');
 INSERT INTO exercise VALUES (1262, 'Triceps Pressdown', 'Beginner');
@@ -2484,7 +2233,6 @@ Depress and retract your scapulae (pull shoulders back and down) and attempt to 
 Gently exhale and slowly extend your elbows, pressing the handle / rope down towards the floor. Maintain your torso, shoulder, arm and wrist position throughout the movement
 Continue pressing the weight with your elbows right next to your side while maintaining a neutral position with your wrists until your elbows become fully extended, (do not allow them to "lock out" in full extension). Pause momentarily then slowly return to your starting position, allowing your elbows to flex (bend) in a slow, controlled manner moving the handle / rope upwards until your elbows begin to drift forward from the mid-line of your trunk (around upper chest level). Repeat the movement.
 Exercise Variation: This exercise can also be performed unilaterally (one arm at a time )
-
 While this exercise targets the triceps effectively, proper technique is important to emphasize these muscles. It is important to monitor the forward movement of your elbows as this recruits from your lats (back muscles) and reduces the emphasis on the triceps.
 ');
 INSERT INTO exercise VALUES (1264, 'Upward Facing Dog', 'Beginner');
@@ -2494,7 +2242,6 @@ INSERT INTO required_equipment VALUES (1264, 1005);
 INSERT INTO exercise_description VALUES (1264, 'Starting Position: Lie prone (on stomach) on a mat with your legs extended, toes pointing away from you, and place your hands directly under your shoulders with your fingers pointed forward and elbows positioned close to the sides of your body. Align your head level with your thoracic (upper) spine and attempt to maintain the alignment throughout the exercise.
 Gently exhale and press your upper body upwards, by extending your elbows and hinge from your hips (i.e., increase the arch in your low back). Continue moving upwards until you reach the point of tension, but avoid bouncing or pushing to the point of pain. As you extend your elbows, your hips and upper thighs will begin to lift off the mat, but avoid lifting your knees off the floor and performing a push-up movement. Hold this position for 15 – 30 seconds then slowly return downwards to your starting position and repeat the movement 2 – 4 times.
 The objective of this exercise is to extend your spine and hips, stretching the muscles on the front side of your trunk and hips, and not a strengthening exercise for your chest and arms.
-
 To maximize the benefits of this exercise and reduce the potential for injury, it is important to control your movement speed, carefully monitoring for any symptoms of pain in your spine or hips. Be sure to differentiate the feeling of tightness from pain.
 ');
 INSERT INTO exercise VALUES (1265, 'V Sit Partner Rotations', 'Beginner');
@@ -2560,7 +2307,6 @@ Downward Phase: Begin your downward phase by first shifting your hips backwards 
 Jumping Movement: With ONLY a very brief pause at the bottom of your downward phase, explode upwards through your lower extremity, achieving triple extension (pushing and extending your ankles, knees and hips simultaneously). As you jump into the air, pull your knees up towards your chest and try to bring your heels right underneath your glute muscles; while in the air try to keep your feet level with each other and the bottoms parallel to the floor.
 Landing: The most important components of the landing phase are correct foot position and avoiding excessive forward movement in your lower extremity which places additional stresses upon your knees. Attempt to land softly and quietly on the mid-foot, rolling backwards quickly towards the heels. Always push your hips backwards and drop them downwards to absorb the impact forces associated with jumping. Avoid locking out your knees or quads on your landing as this may lead to potential knee injuries
 Exercise Variation: Perform repeating jumps, or add the knee tuck to the forward linear jump.
-
 ');
 INSERT INTO exercise VALUES (1274, 'V-twist', 'Intermediate');
 INSERT INTO used_muscle VALUES (1274, 1004);
@@ -2571,14 +2317,6 @@ INSERT INTO exercise VALUES (1275, 'V-ups', 'Intermediate');
 INSERT INTO used_muscle VALUES (1275, 1004);
 INSERT INTO required_equipment VALUES (1275, 1005);
 INSERT INTO exercise_description VALUES (1275, 'Starting Position: Assume a seated bent-knee position, feet placed flat on the floor / mat and arms outstretched behind you with your palms flat on the floor / mat and fingers pointed outwards or away from your body. Adjust your position to distribute your weight evenly between your feet, butt and arms. Keep your back supported in a neutral or flat position (i.e., avoid arching or slumping) and your head aligned with your thoracic (upper) spine.
-Slowly lean back, bending your elbows until your trunk is supported on your elbows. Stiffen (“brace”) your abdominal muscles to stabilize your spine and attempt to hold this position throughout the exercise (avoid “arching” or “slumping” your low back). Gently exhale and slowly lift one foot off the floor, extending the knee until the leg straightens with your toes pointing away from your body. Hold this up-position briefly for 5 – 10 seconds then slowly return to your starting position and repeat the movement with the opposite leg. Complete a set of quality reps until your experience fatigue or until your technique (form) becomes compromised.
-Progression #1: Adjust your position by sitting-up until your trunk is at a 45-degree angle with the floor and move your hands close to your hips to support your body while keeping a slight bend in your elbows. Stiffen (“brace”) your abdominal muscles to stabilize your spine and attempt to hold this position throughout the exercise (avoid “arching” or “slumping” your low back). Repeat the same sequence outlined previously, but avoid leaning back during the leg lift.
-Progression #2: Slowly lean back, bending your elbows until your trunk is supported on your elbows. Stiffen (“brace”) your abdominal muscles to stabilize your spine and attempt to hold this position throughout the exercise (avoid “arching” or “slumping” your low back). Gently exhale and slowly lift both feet off the floor, extending the knees until both legs straighten with your toes pointing away from your body. Hold this up-position briefly for 10 – 15 seconds then slowly return to your starting position and repeat. Complete a set of quality reps until your experience fatigue or until your technique (form) becomes compromised.
-Progression #3: Adjust your position by sitting-up until your trunk is at a 45-degree angle with the floor and move your hands out to your sides to support your body. Stiffen (“brace”) your abdominal muscles to stabilize your spine and attempt to hold this position throughout the exercise (avoid “arching” or “slumping” your low back). Repeat the same sequence outlined previously, but avoid leaning back during the leg lifts.
-Progression #4: Assume the same starting possession as outline previously with your trunk at a 45-degree angle with the floor, but remove your hands off the floor, extending them both directly in front of you, level with your chest. Stiffen (“brace”) your abdominal muscles to stabilize your spine and attempt to hold this position throughout the exercise (avoid “arching” or “slumping” your low back). Gently exhale and slowly lift one foot off the floor, extending the knee until the leg straightens with your toes pointing away from your body. Hold this up-position briefly for 15 – 30 seconds then slowly return to your starting position and repeat the movement with the opposite leg. Complete a set of quality reps until your experience fatigue or until your technique (form) becomes compromised.
-Progression #5: Assume the same starting possession as outline previously with your trunk at a 45-degree angle with the floor and hands removed from the floor, extending them both directly in front of you, level with your chest. Stiffen (“brace”) your abdominal muscles to stabilize your spine and attempt to hold this position throughout the exercise (avoid “arching” or “slumping” your low back). Gently exhale and slowly lift both feet off the floor, extending the knees until both legs straighten with your toes pointing away from your body. Repeat the repetition sequence outlined previously.
-
-To maximize the benefits of this exercise and reduce the potential for injury, it is important to control movement speed and monitor changes in your low back carefully.
 ');
 INSERT INTO exercise VALUES (1276, 'Vertical Toe Touches', 'Intermediate');
 INSERT INTO used_muscle VALUES (1276, 1004);
@@ -2586,7 +2324,6 @@ INSERT INTO required_equipment VALUES (1276, 1005);
 INSERT INTO exercise_description VALUES (1276, 'Starting Position: Lie flat on your back on the floor / mat in a bent-knee position with feet placed firmly on the floor and arms at your sides. Stiffen (“brace”) your abdominal muscles to stabilize your spine, depress and retract your scapulae (pull shoulders back and down) and attempt to hold these positions throughout the exercise. Slowly lift both feet off the floor, extending your knees until your thighs are aligned vertically with the floor, and allowing your toes to point away from your body (DO NOT move your thighs beyond this point as it shifts your body weight from your butt into your low back, which increases the stress to your low back). Position your hands on your thighs (front or side) without lifting your shoulder blades off the floor / mat.
 Gently exhale, contract your abdominals to flex (curl) your trunk, lifting your scapulae (shoulder blades) off the floor, slowly sliding your hands down your thighs towards your ankles. Maintain your head position aligned with your thoracic (upper) spine and avoid flexing your head too far forward. This movement will press your low back into the floor / mat.
 Continue curling upward until your scapulae (shoulder blades) lift completely off the floor and hold this up-position briefly for 5 - 10 seconds then slowly return downwards to your starting position and repeat the movement. Complete a set of quality reps until your experience fatigue or until your technique (form) becomes compromised.
-
 To maximize the benefits of this exercise and reduce the potential for injury, it is important to control your movement speed, keep your thighs aligned vertically and roll your trunk upwards and downwards during the exercise.
 ');
 INSERT INTO exercise VALUES (1277, 'Walking Lunges with Twists', 'Intermediate');
@@ -2599,11 +2336,9 @@ Step forward by slowly lifting the right foot off the floor, stabilizing your bo
 As you lunge forward, focus more on lowering your hips towards the floor rather than driving your hips forward, (think about aiming your left knee towards the heel of your right foot). This will help control the amount of forward movement of your shinbone (forward tibial translation) over your foot. Continue lowering your body to a comfortable position or until your right (front) thigh becomes parallel with the floor and your tibia (shinbone) is in a slight forward lean. While lunging, simultaneously lean forward slightly at your hips while maintaining the adominal bracing to keep the spine extended and rotate to your left while continuing to hold the medicine ball in front of your mid-section.
 From the lowered position, rotate back to the right so that you are facing straight ahead, firmly push the right foot in to the ground and pull yourself back to a standing position by drving the right knee straight back to create knee and hip extension simultaneously. As you are pulling yourself foward with the right leg, pick the left leg off of the ground and slowly swing it forward to initiate the next lunge.
 While balancing on the right leg, step forward with the left foot off the floor, stabilize your body by maintaining the abdominal bracing in order to avoid any sideways tilting or swaying in your upper body. Keep the right (stance / supporting) foot pressed firmly in to the ground. The left (swing) leg should initiate contact with a heel strike first, slowly transferring your body weight into the left (leading / forward) foot placed firmly on the floor. As you lower your bodyweight into the left leg, avoid any sideways tilting or swaying in your upper body and try not to move the right (stance / supporting) foot.
-
 As you continue into the next lunge with the left foot forward, keep the focus on lowering your hips towards the floor rather than driving your hips forward, (think about aiming your right (back) knee towards the heel of your left (front) foot). This will help control the amount of forward movement of your shinbone (forward tibial translation) over your foot. Continue lowering your body to a comfortable position or until your left (front) thigh becomes parallel with the floor and your tibia (shinbone) is in a slight forward lean. While lunging, simultaneously lean forward slightly at your hips while maintaining the adominal bracing to keep the spine extended and rotate to your right while continuing to hold the medicine ball in front of your mid-section.
 From the lowered position, rotate back to the left so that you are facing straight ahead, firmly push the left foot in to the ground and pull yourself back to a standing position by drving the left knee straight back to create knee and hip extension simultaneously. As you are pulling yourself foward with the left leg, pick the right foot off of the ground and slowly swing it forward to initiate the next lunge.
 Continue the walking lunge with rotation for a specific number of repetitions or a certain distance.
-
 One variation is to contract the abdominals and glutes at the top of the stance phase (for example while balanced on the right leg with the left leg off of the ground) for 2-3 seconds to create a balance challenge. Another variation is to add more resistance by holding one dumbbell in each hand with the elbows bent at 90 degrees and pressed into the sides of the abdominals.
 ');
 INSERT INTO exercise VALUES (1278, 'Warrior I', 'Beginner');
@@ -2620,9 +2355,7 @@ INSERT INTO used_muscle VALUES (1279, 1009);
 INSERT INTO required_equipment VALUES (1279, 1007);
 INSERT INTO required_equipment VALUES (1279, 1008);
 INSERT INTO exercise_description VALUES (1279, 'Starting Position: Holding two dumbbells, kneel and rest your elbows on a bench with approximately a 90 degree bend at the elbows and the dumbbells hanging freely off the edge of the pad. Pronate your forearms (rotate forearms to face palms downward and the bottom of the forearms are resting on the bench) while keeping your wrists in a neutral position (not in flexion or extension).
-
 Downward Phase: Inhale and slowly allow the wrists to move into flexion (allow dumbbells to move towards the floor) without releasing your grip, extending your arms or leaning forward / backward. Hold this end position briefly.
-
 Upward Phase: Exhale and slowly contract your forearm extensor muscles (along the top of the forearm) and roll your wrists to pull the weight up and return the dumbbells back to the starting position.
 ');
 INSERT INTO exercise VALUES (1280, 'Wrist Curl - Flexion', 'Beginner');
@@ -2638,9 +2371,7 @@ INSERT INTO used_muscle VALUES (1281, 1009);
 INSERT INTO required_equipment VALUES (1281, 1007);
 INSERT INTO required_equipment VALUES (1281, 1008);
 INSERT INTO exercise_description VALUES (1281, 'Starting Position: Holding two dumbbells, kneel and rest your elbows on a bench with approximately a 90 degree bend at the elbows and the dumbbells hanging freely off the edge of the pad. Position your forearms into neutral with the dumbbells vertical to the floor (rotate forearms to face palms inward) keeping your wrists in a neutral position (not in flexion or extension).
-
 Downward Phase: Inhale and slowly pronate your forearms (rotate the dumbbells towards the floor) while maintaining a neutral wrist (not in flexion nor extension). Avoid releasing your grip, extending your arms, leaning forward / backward or any rapid, jerking movements. Hold this end position briefly.
-
 Upward Phase: Exhale and slowly supinate your forearms (rotate the dumbbells towards the ceiling) while maintaining a neutral wrist (not in flexion nor extension). Avoid releasing your grip, extending your arms, leaning forward / backward or any rapid, jerking movements. Hold this end position briefly and repeat the entire sequence.
 ');
 INSERT INTO exercise VALUES (1282, 'Stability Ball Pikes', 'Advanced');
@@ -2648,11 +2379,8 @@ INSERT INTO used_muscle VALUES (1282, 1004);
 INSERT INTO used_muscle VALUES (1282, 1006);
 INSERT INTO required_equipment VALUES (1282, 1012);
 INSERT INTO exercise_description VALUES (1282, 'Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6" under your body weight) with both feet and hands on the floor, hip- and shoulder-width apart.
-
 Gently exhale, contract your abdominal/core muscles to stiffen your torso and slowly walk yourself forward, lifting your legs off the floor. Continue walking out until your toes, with ankles in dorsiflexion (toes pointed towards your shins), rest on the top of the ball. Maintain a rigid torso aligned parallel with your legs. Retract and depress your scapulae (pull your shoulder back and down) as your reach your end position, with your arms fully extended and hands positioned directly under your shoulders.
-
 Curling Phase: Exhale and while keeping your legs fully extended, pull your feet towards towards your chest, rolling the ball forward as your hips move upwards (think about lifting your rear end towards the ceiling while hinging at the hips). Continue moving until you reach an inverted position where your hips are positioned directly above your shoulders, with your legs, torso and arms fully extended, and head positioned between your arms. Your toes should remain on the top of the ball, but your ankles can move into plantar flexion (toes pointed away from your shins).
-
 Lowering Phase: Inhale and slowly lower yourself back towards the floor, returning your body to the starting position.
 ');
 INSERT INTO exercise VALUES (1283, 'Stability Ball Reverse Extensions', 'Advanced');
@@ -2719,7 +2447,6 @@ At the left cone reach down with your left hand to touch the cone (this reach wi
 Maintain the athletic ready position with your weight back in your hips, your chest lifted tall with a straight spine and as you are shuffling to the right continue to pick up the right foot while driving off the left foot to maintain the momentum back to the cone placed 10 yards away (the right cone should be 5 yards from the center cone).
 At the right cone reach down with the right hand to touch the cone, then drive the right foot into the ground and pick up the left foot in order to laterally shuffle back to the center cone; once at the center cone, drop back into the athletic ready position with the hips flexed and spine straight and tall and push the legs forward to move backwards in a backpedaling motion to return to the original starting position.
 Exercise Variation: Have a partner or coach stand at the center cone and provide either verbal or visual instructions on which way to shuffle: either point to the left to have the athlete/client shuffle to the left, or provide a verbal cue of left to have the client/athlete move to the left.
-
 ');
 INSERT INTO exercise VALUES (1291, 'Transverse Lunge', 'Advanced');
 INSERT INTO used_muscle VALUES (1291, 1005);
@@ -2794,7 +2521,6 @@ INSERT INTO exercise_description VALUES (1301, 'Starting Position: Lie flat on y
 Stiffen (“brace”) your abdominal muscles to stabilize your spine and maintain this throughout the exercise. Gently exhale and rotate your trunk and legs slowly towards the arm placed at your side while keeping the extended arm vertical to the floor at all times and the upper shoulder stable (i.e., no movement of the shoulder blade). Continue to rotate until your belly button is level with the floor. This places a significant stretch and increased load into the upper shoulder. Control movement (stabilize) in this shoulder and avoid any arching in your low back that may accompany the rotation. Stiffening ("bracing") your abdominal muscles will help prevent this.
 Pause momentarily then slowly return back to your starting position. Perform 1 set x 5 – 10 repetitions at a slow, controlled tempo (pace), then repeat to the opposite side.
 Exercise Variation: If a light dumbbell is not available, perform this exercise without any resistance or with any weighted device. The exercise complexity is increased by holding a kettle bell that has an “offset center of mass.”
-
 To maximize the benefits of this exercise and reduce the potential for injury, it is often important to stabilize the scapula and control movement carefully. Follow the instructions provided carefully
 ');
 INSERT INTO exercise VALUES (1302, 'Simultaneous Wave with Reverse Lunges', 'Advanced');
@@ -2825,25 +2551,17 @@ INSERT INTO used_muscle VALUES (1306, 1005);
 INSERT INTO used_muscle VALUES (1306, 1003);
 INSERT INTO required_equipment VALUES (1306, 1005);
 INSERT INTO exercise_description VALUES (1306, 'Starting Position: Stand with your feet approximately hip width apart. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back, and "brace" (engage your abdominal/core muscles) to stiffen your spine.
-
 In preparation to step forward, slowly lift the right foot off the floor, stabilizing your body on the stance (supporting) leg. Avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot. Hold this position momentarily before stepping forward. The raised (swing) leg should initiate contact with a heel strike first, slowly transferring your body weight into the leading (forward) foot placed firmly on the floor. As you load into this leg, avoid any sideways tilting or swaying in your upper body and try not to move the stance (supporting) foot.
-
 As you lower yourself forward into the lunge position, maintain the abdominal bracing and focus more on dropping your hips towards the floor rather than driving your hips forward. This will help control the amount of forward movement of your shinbone (forward tibial translation) over your foot. Continue lowering your body to a comfortable position or until your right (front) thigh becomes parallel with the floor and your tibia (shinbone) is in a slight forward lean. While in the lunge position simultaneously bend forward at your hips, while maintaining a flat back and contracting (squeezing) the glutes of the left (backward) leg, this will help increase the stretch in the left hip flexor muscles.
-
 Hold this stretch position for 15-30 seconds at a time for a total of 2-4 repetitions; try to move into the stretch a little deeper with each repetition, but be sure to keep your body in alignment. Complete all repetitions on one side before alternating to the other leg. Firmly push off with your front leg, activating both your quads and glutes (thighs and butt muscles) to return to your upright, starting position.
-
 ');
 INSERT INTO exercise VALUES (1307, 'Standing Shoulder Extension', 'Beginner');
 INSERT INTO used_muscle VALUES (1307, 1009);
 INSERT INTO required_equipment VALUES (1307, 1005);
 INSERT INTO exercise_description VALUES (1307, 'Starting Position: Stand in a split-stance position with the right leg in front. Stiffen your abdominal muscles (“brace”) to stabilize your spine, then depress and retract your scapulae (pull shoulders down and back) without arching your low back.
-
 Bending at the hips, reach forward with your right arm straight and elbow extended and place it on the table. Maintain abdominal bracing to keep the spine in alignment. Keeping both shoulders square to the front, flex (bend) your left elbow lifting your forearm up and forming a 90 degree angle at that elbow.
-
 Begin extending the shoulder by maintaining the 90 degree bend in the left elbow and drawing the elbow up and back so your hand is now pointing to the ground. Increase the stretch by keeping the shoulder in place and extending the elbow, straightening the arm with your thumb pointing down.
-
 Hold the stretch for 15-30 seconds for a total of 2-4 repetitions. Do not allow your head to drop towards the ground. Keep your gaze on the table.
-
 
 Keep your body square to the table. Avoid leaning into the support arm and opening the chest. Keep your abdominals engaged to support the back.
 ');
@@ -2853,11 +2571,8 @@ INSERT INTO used_muscle VALUES (1308, 1003);
 INSERT INTO required_equipment VALUES (1308, 1008);
 INSERT INTO required_equipment VALUES (1308, 1013);
 INSERT INTO exercise_description VALUES (1308, 'Starting Position: Stand with your feet parallel about hip width apart while holding dumbbells in your hands with palms facing inwards. Depress and retract your scapulae (pull shoulders down and back). Attempt to avoid shrugging your shoulder upwards.
-
 Upward Phase: Slowly step to place your right foot on a platform, placing your foot firmly on the deck while keeping your torso upright and aligning your knee over your second toe. Push off with the trailing (left) leg to raise your body onto the platform placing that foot alongside your leading (right) foot. During this transition, your torso and your right tibia (shinbone) will move slightly forward past vertical, but try to avoid excessive forward movement.
-
 Downward Phase: Slowly load the weight of your body into your leading (right) foot, step backwards to place the trailing (left) foot on the floor in its starting position. Allow your body to lean slightly forward during the step-down movement. Load your weight into your trailing (left) foot and step off the platform with your leading (right) foot, returning to your starting position. Repeat for the opposite side.
-
 An exercise progression is to step-up onto one leg only and remain standing on a single-leg before stepping back down.
 ');
 INSERT INTO exercise VALUES (1309, 'Supermans', 'Beginner');
@@ -2866,9 +2581,7 @@ INSERT INTO used_muscle VALUES (1309, 1005);
 INSERT INTO used_muscle VALUES (1309, 1006);
 INSERT INTO required_equipment VALUES (1309, 1005);
 INSERT INTO exercise_description VALUES (1309, 'Starting Position: Lie prone (on your stomach) on a mat with your legs extended, ankles slightly plantarflexed (toes pointing away from your shins), arms extended overhead with palms facing each other. Relax your head to align it with your spine.
-
 Upward Phase: Exhale, contract your abdominal and core muscles to stabilize your spine and slowly extend both hips (raise both legs) a few inches off the floor while simultaneously raising both arms a few inches off the floor. Keep both legs and arms extended and avoiding any rotation in each. Maintain your head and torso position, avoiding any arching in your back or raising of your head. Hold this position briefly.
-
 Downward Phase: Gently inhale and lower your legs and arms back towards your starting position without any movement in your low back or hips.
 ');
 INSERT INTO exercise VALUES (1310, 'Supine 90-90 Hip Rotator Stretch', 'Beginner');
@@ -2876,24 +2589,18 @@ INSERT INTO used_muscle VALUES (1310, 1005);
 INSERT INTO used_muscle VALUES (1310, 1003);
 INSERT INTO required_equipment VALUES (1310, 1005);
 INSERT INTO exercise_description VALUES (1310, 'Starting Position: Lie supine (on your back) on a mat, placing the backs of your lower legs and heels on the top of a bench (so that the knees are able to maintain a ninety-degree bend). Position your feet hip-width apart on the bench with your ankles slightly dorsiflexed (toes pointing towards the ceiling). Gently contract your abdominal/core muscles to flatten your low back into the floor. Attempt to maintain this gentle muscle contraction throughout the exercise. Extend your arms along your sides with palms turned to the ceiling and breathe deeply for 30 seconds to allow your hips to relax into this position.
-
 Take your left foot and rotate your lower leg in towards the midline (center) of your body so that you can rest your left foot on your right knee; maintain the ninety degree bend in the left knee as the foot is resting on the right knee.
 With both hands, reach down and grab the back of the right thigh to begin pulling your right thigh and knee towards your chest, keep the right foot on top of the bench for support as your pull your knee towards your chest. Hold this position for 30-45 seconds, then extend the right leg back along the top of the bench before repeating 2-5 times; alternate so the right foot is resting on the left knee and repeat.
 Exercise Variation: Instead of a bench, use a stability ball, this will allow you to roll your right knee towards your chest and use the leverage of the ball to increase the intensity of the stretch.
-
 ');
 INSERT INTO exercise VALUES (1311, 'Supine Dead Bug', 'Beginner');
 INSERT INTO used_muscle VALUES (1311, 1004);
 INSERT INTO required_equipment VALUES (1311, 1005);
 INSERT INTO exercise_description VALUES (1311, 'Starting Position: Lie supine (on your back) on an exercise mat or firm surface, bending your knees until your feet are positioned flat on the floor 12 - 18" from your buttocks. Allow your arms to lie along your side and bend the elbows so your hands are pointing towards the ceiling. Breathe deeply for a 30 seconds relaxing your body and allowing gravity to gently pull your lower back and shoulders towards the floor. Depress and retract your scapulae (pull your shoulders down and back) without increasing the arch in your low back or lifting your hips off the mat / floot. Hold this position throughout the exercise.
-
 To start the exercise, initiate a Hollowing Movement: Breathe normally and at the end of your breaths (end-tidal volume), perform the following actions individually at first, then combine them together:
-
 Once you have used a hollowing movement to stabilize your spine and pelvis, lift both legs and arms off of the floor; the knees should be directly over the hip joints and bent ninety degrees (pictured) and the elbows should be directly over the shoulder joints so your hands are pointed over your head (pictured).
-
 Inhale and maintain the abdominal hollowing while slowly lowering the right heel and left hand towards the floor. The hand and heel should lightly touch the floor (but not rest), exhale continue the abdominal hollowing and slowly bring the leg and arm back to the initial starting position. Alternate to use the right arm and left leg; continue to complete a specific number of repetitions or a certain period of time.
 Exercise Variation: To have more control (making it easier) when learning this exercise, start with the hands resting on the floor above the head and the feet resting gently on the floor in front of the buttocks; slowly lift the right arm and left leg off of the floor together while maintaining the abdominal hollowing, lower and alternate sides.
-
 ');
 INSERT INTO exercise VALUES (1312, 'Supine Hamstrings Stretch', 'Beginner');
 INSERT INTO used_muscle VALUES (1312, 1001);
@@ -2903,10 +2610,8 @@ INSERT INTO required_equipment VALUES (1312, 1005);
 INSERT INTO exercise_description VALUES (1312, 'Starting Position: Lie flat on your back on the floor / mat adjacent to a wall edge (corner) or in a door jam. Elevate one leg to rest against the wall while the other leg will lie flat on the floor / mat past the wall edge or door jam. Adjust your position to allow you to rest as much of the back of the elevated leg against the wall without having to lift your hips off the floor and point your toes towards the ceiling. Extend your arms outwards at shoulder level with palms facing upwards and stiffen (“brace”) your abdominal muscles to stabilize your spine.
 Gently exhale and extend your leg slowly by contracting your quads while pulling your toes downwards towards your body, this will increase the stretch in your hamstrings and calf muscles. Do not allow any movement in your hips and low back during this stretch.
 Hold this position for 15 – 30 seconds then relax and return to your starting position. Perform 2 – 4 repetitions then change your position and repeat with the opposite leg.
-
 Exercise Variation: Progress this by tilting your pelvis (hips) anteriorly (forward) to increase the stretch within the hamstrings. While in the stretched position with your knee extended and toes pulled downwards, increase the arch in your lower back, which tilts your hips forward and increases the magnitude of the hamstrings stretch.
 This stretch with pelvic tilts can be completed more dynamically by completing 1 set of 5 - 10 repetitions with each leg, holding the tilted position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bouncing and perform the pelvic tilting movement slowly.
 ');
 INSERT INTO exercise VALUES (1313, 'Supine Hip Flexor Stretch', 'Beginner');
@@ -2914,11 +2619,8 @@ INSERT INTO used_muscle VALUES (1313, 1005);
 INSERT INTO used_muscle VALUES (1313, 1003);
 INSERT INTO required_equipment VALUES (1313, 1005);
 INSERT INTO exercise_description VALUES (1313, 'Starting Position: Lie supine (on your back) on an exercise mat or firm surface, extending your legs so there are lying flat along the floor with the toes pointing up towards the ceiling. Slide your left foot back towards your hip so that your foot is flat along the floor and the knee is pointing up towards the ceiling, keep the right leg flat along the ground.
-
 Depress and retract your scapulae (pull your shoulder down and back) without increasing the arch in your low back or lifting your hips off the mat / floor. Hold this position throughout the exercise. Reach down with both hands and gently grab the back of the left thigh to pull your knee back towards your chest, at the same time keep your right leg lying flat along the ground and push the back of the heel into the ground while contracting (squeezing) your right glute (butt) muscle.
-
 To increase the stretch, maintain the abdominal contraction, exhale and slowly pull the knee further back towards the chest while straightening the leg and pushing your heel away from your body. Hold position for 30-45 seconds, straighten the leg and repeat for 2-5 repetitions; alternate legs and repeat.
-
 Continue breathing through the exercise, use the exhale phase to slowly pull the knee towards the chest to increase the stretch.
 ');
 INSERT INTO exercise VALUES (1314, 'Supine Hollowing with Lower Extremity Movements', 'Beginner');
@@ -2927,9 +2629,7 @@ INSERT INTO required_equipment VALUES (1314, 1005);
 INSERT INTO exercise_description VALUES (1314, 'Starting Position: Lie supine (on your back) on an exercise mat or firm surface, bending your knees until your feet are positioned flat on the floor 12 - 18" from your buttocks. Extend your arms out to your sides, palms facing either up or down (illustrated) at, or near shoulder level. Breathe deeply for a 30 seconds relaxing your body and allowing gravity to gently pull your lower back and shoulders towards the floor.
 Depress and retract your scapulae (pull your shoulder down and back) without increasing the arch in your low back or lifting your hips off the mat / floor. Hold this position throughout the exercise.
 Hollowing Movement: Breathe normally and at the end of your breaths (end-tidal volume), perform the following actions individually at first, then combine them together:
-
 Exercise Progressions: Once your have spent time learning how to co-contract the muscles of the pelvic floor and core, independent of breathing, progress the exercise complexity by adding small movements in the lower extremity:
-
 ');
 INSERT INTO exercise VALUES (1315, 'Supine Pelvic Tilts', 'Beginner');
 INSERT INTO used_muscle VALUES (1315, 1004);
@@ -2964,13 +2664,9 @@ INSERT INTO used_muscle VALUES (1318, 1003);
 INSERT INTO required_equipment VALUES (1318, 1005);
 INSERT INTO exercise_description VALUES (1318, 'Starting Position: Stand with your feet in straddle position (wider than hip-width apart) with your left foot pointing forward and your right foot pointed to the side and arms by your sides. Line up the heel of your left foot, with your right heel. Stiffen your abdominal muscles (“brace”) to stabilize your spine, then depress and retract your scapulae (pull shoulders down and back) without arching your low back. Hold your chest up and tilt your head slightly up.
 Reach your left arm straight into the air, keeping it close to your head and palm tuned in (pinky in front, thumb in back). Keep your shoulders down, letting only the arm lift. Place your right hand lightly on your right leg.
-
 Slowly drop your right shoulder letting your right hand move closer to your right foot. Continue reaching up and over with your left arm as you move into lateral flexion (bending to the side). Maintain abdominal bracing and keep your head in line with your spine. Your weight should be distributed evenly through both legs. Maintain an open chest, keeping your right arm in line with your ear.
-
 Hold the stretch for 15-30 seconds for a total of 2-4 repetitions. Move into the stretch a littler deeper with each repetition. Repeat on the opposite side.
-
 When sliding your hand down your leg, make sure you do not allow your hand to rest directly on your knee. Place it above or below depending on your flexibility. Your hand should rest lightly on the leg, not support your body weight. Do not compromise form in order to reach your hand closer to the ground.
-
 ');
 INSERT INTO exercise VALUES (1319, 'Standing Trunk Rotation', 'Intermediate');
 INSERT INTO used_muscle VALUES (1319, 1004);
@@ -3025,22 +2721,16 @@ INSERT INTO exercise_description VALUES (1326, 'Starting Position: Lie flat on y
 Gently exhale then begin your movement by simultaneously:
 Continue moving until your elbow touches or comes close to touching the opposite knee. Hold this up-position briefly for 1 – 2 seconds then slowly return to your starting position and repeat the movement to the opposite side. Complete a set of quality reps until your experience fatigue or until your technique (form) becomes compromised.
 Important points to consider while performing this movement:
-
 To maximize the benefits of this exercise and reduce the potential for injury, it is important to control movement speed and monitor changes in your low back carefully.
 ');
 INSERT INTO exercise VALUES (1327, 'Supine IT Band Stretch', 'Intermediate');
 INSERT INTO used_muscle VALUES (1327, 1003);
 INSERT INTO required_equipment VALUES (1327, 1005);
 INSERT INTO exercise_description VALUES (1327, 'Starting Position: Lie flat on your back on the floor / mat with both legs extended, arms outstretched to your sides at shoulder level, with palms facing upwards. Stiffen (“brace”) your abdominal muscles to stabilize your spine, depress and retract your scapulae (pull shoulders back and down) without moving your trunk and attempt to hold these positions throughout the exercise. Place the heel of one foot on top of the toes of the other foot, aligning both feet vertically.
-
 Gently exhale and slowly rotate your hips, attempting to drop the inside of the top foot towards the floor while keeping both knees extended. Attempt to rotate the hips until they align vertically, or near vertically with the floor with little rotation occurring through your trunk. Avoid arching your low back during this rotation.
-
 Hold this position for 15 – 30 seconds then relax and return to your starting position. Perform 2 – 4 repetitions then change your foot position and repeat with the opposite side.
-
 Exercise Variation: This stretch can become more dynamic by performing slow, controlled movements to complete 1 set of 5 - 10 repetitions with each leg, holding the stretched position for 1 - 2 seconds.
-
 To maximize the benefits of a stretch and reduce the potential for injury, it is often important to stretch only to the point of tension, avoid bouncing and control movement at other segments of the body. During this stretch, attempt to avoid any rotation or arching in your low back
-
 ');
 INSERT INTO exercise VALUES (1328, 'Supine Shoulder Roll', 'Intermediate');
 INSERT INTO used_muscle VALUES (1328, 1004);
@@ -3061,5 +2751,4 @@ Progression 1: Extend the lower leg, while resting the inside of the upper knee 
 Progression 2: Remove the riser under the upper knee and place it firmly against the mat / floor. In this position, the upper knee may rise off the floor and the upper thigh may rotate with your trunk. Your objective is to stabilize your hips by pressing the knee into the floor and only allowing rotation to occur in the trunk.
 Progression 3: Repeat the same exercise, but begin with both arms extended in front of your body at chest level. As you begin to rotate, bend the upper elbow, sliding it towards your trunk, then extending the arm outwards again at chest level as you continue your rotation. Continue your rotation until the point of tension in the trunk and shoulder, but avoid arching your back or rotating your hips. This will increase the stretch in the shoulder and chest region, in addition to your trunk.
 To maximize the benefits of this stretch and reduce the potential for injury, it is often important to follow the instructions provided carefully.
-
 ');

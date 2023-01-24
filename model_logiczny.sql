@@ -2,14 +2,14 @@
 
 CREATE TABLE exercise (
     id NUMBER(4) PRIMARY KEY,
-    exercise_name VARCHAR(60) NOT NULL,
+    exercise_name VARCHAR(100) NOT NULL,
     difficulty_level VARCHAR(12) NOT NULL,
     CHECK (difficulty_level in ('Beginner', 'Intermediate', 'Advanced'))
 );
 
 CREATE TABLE exercise_description (
     id NUMBER(4) REFERENCES exercise(id),
-    exercise_description VARCHAR(5000)
+    exercise_description VARCHAR(4000)
 );
 
 CREATE TABLE equipment (
