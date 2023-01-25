@@ -36,7 +36,8 @@ FROM (
   SELECT E.id, exercise_name
   FROM exercise E JOIN required_equipment RE ON E.id = RE.exercise_id
   JOIN equipment ON equipment.id = RE.equipment_id
-  WHERE equipment_name = 'Barbell' AND difficulty_level IN ('Beginner', 'Intermediate', 'Advanced')) A
+  WHERE equipment_name = 'Barbell'
+    AND difficulty_level IN ('Beginner', 'Intermediate', 'Advanced')) A
 WHERE (
   SELECT COUNT(*) FROM
     ((SELECT muscle_name FROM muscle WHERE muscle_name IN ('ABS'))

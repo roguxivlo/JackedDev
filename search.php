@@ -39,9 +39,9 @@
             <label for="difficulty">Difficulty: </label>
             <select id="difficulty" name="difficulty">
               <option value="all">All</option>
-              <option value="beginner">Beginner</option>
-              <option value="intermediate">Intermediate</option>
-              <option value="advanced">Advanced</option>
+              <option value="Beginner">Beginner</option>
+              <option value="Intermediate">Intermediate</option>
+              <option value="Advanced">Advanced</option>
             </select>
           </tr>
 
@@ -54,6 +54,8 @@
                 <div class="overSelect"></div>
               </div>
               <div id="checkboxes">
+                <label for="Body/Integrated">
+                  <input type="checkbox" name="Body/Integrated" />Calves</label>
                 <label for="Calves">
                   <input type="checkbox" name="Calves" />Calves</label>
                 <label for="Shins">
@@ -83,21 +85,21 @@
             <label for="equipment">Equipment: </label>
             <select id="equipment" name="equipment">
               <option value="all">All</option>
-              <option value="ResistanceBands/Cables">Resistance Bands/Cables</option>
-              <option value="HeavyRopes">Heavy Ropes</option>
+              <option value="Resistance Bands/Cables">Resistance Bands/Cables</option>
+              <option value="Heavy Ropes">Heavy Ropes</option>
               <option value="Cones">Cones</option>
               <option value="Kettlebells">Kettlebells</option>
-              <option value="MedicineBall">Medicine Ball</option>
-              <option value="NoEquipment">No Equipment</option>
+              <option value="Medicine Ball">Medicine Ball</option>
+              <option value="No Equipment">No Equipment</option>
               <option value="Ladder">Ladder</option>
               <option value="Bench">Bench</option>
               <option value="Dumbbells">Dumbbells</option>
-              <option value="WeightMachines">Weight Machines / Selectorized</option>
+              <option value="Weight Machines / Selectorized">Weight Machines / Selectorized</option>
               <option value="Barbell">Barbell</option>
-              <option value="BOSUTrainer">BOSU Trainer</option>
-              <option value="StabilityBall">Stability Ball</option>
-              <option value="RaisedPlatformBox">Raised Platform/Box</option>
-              <option value="PullUpBar">Pull up bar</option>
+              <option value="BOSU Trainer">BOSU Trainer</option>
+              <option value="Stability Ball">Stability Ball</option>
+              <option value="Raised Platform/Box">Raised Platform/Box</option>
+              <option value="Pull up bar">Pull up bar</option>
               <option value="Hurdles">Hurdles</option>
               <option value="TRX">TRX</option>
             </select>
@@ -114,6 +116,9 @@
     $difficulty = $_POST["difficulty"];
     $equipment = $_POST["equipment"];
     $targetMuscles = array();
+    if (isset($_POST["Body/Integrated"])) {
+      array_push($targetMuscles, "Body/Integrated");
+    }
     if (isset($_POST["Calves"])) {
       array_push($targetMuscles, "Calves");
     }
@@ -152,23 +157,92 @@
       echo $targetMuscles[$i] . "<br>";
     }
 
-    $table_name = "exercies JOIN target_muscles ON exercises.id = target_muscles.exercise_id JOIN required_equipment ON exercises.id = required_equipment.exercise_id";
+    
 
+    $query = "SELECT A.id, A.exercise_name
+              FROM (
+                SELECT E.id, exercise_name
+                FROM exercise E JOIN required_equipment RE ON E.id = RE.exercise_id
+                JOIN equipment ON equipment.id = RE.equipment_id";
+    
+    $cond1 = "0=0";
+    $cond2 = "0=0";
+
+    if ($equipment != "all") {
+      $cond1 = " WHERE equipment_name = `$equipment`";
+    }
     if ($difficulty != "all") {
-      $sql = "SELECT * FROM ".$table_name." WHERE difficulty_level = '$difficulty'";
-    } else {
-      $sql = "SELECT * FROM ".$table_name;
+      $cond2 = " difficulty_level = `$difficulty`";
     }
 
+    $query = $query . " WHERE " . $cond1 . " AND " . $cond2;
 
-    $sql = $sql.";";
-    echo "<br>".$sql."<br><br>";
-
-    $stmt = oci_parse($conn, $sql);
-    oci_execute($stmt);
-    while($row = oci_fetch_array($stmt, OCI_BOTH)) {
-      echo $row['EXERCISE_NAME'] . $row['DIFFICULTY_LEVEL'] . "<br>";
+    if (count($targetMuscles) > 0) {
+      $query = $query . " WHERE (
+        SELECT COUNT(*) FROM
+          ((SELECT muscle_name FROM muscle WHERE muscle_name IN (";
+      for ($i = 0; $i < count($targetMuscles); $i++) {
+        $query = $query . "`$targetMuscles[$i]`";
+        if ($i != count($targetMuscles) - 1) {
+          $query = $query . ", ";
+        }
+      }
+      $query = $query . "))";
+      $query = $query . " MINUS (SELECT muscle_name
+      FROM muscle JOIN used_muscle ON muscle.id = used_muscle.muscle_id
+        JOIN exercise ON exercise.id = used_muscle.exercise_id
+      WHERE exercise.id = A.id))
+      ) = 0";
     }
+    else {
+      $query = $query . ") as A";
+    }
+
+    $login = "jr440002";
+    $password = "haslo";
+    $host = "//labora.mimuw.edu.pl/LABS";
+    $connection = oci_connect($login, $password, $host);
+    if (!$connection) {
+      $e = oci_error();
+      echo $e['message'];
+      trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
+      exit;
+    }
+    else {
+      echo "Połączono z bazą danych<br>";
+    }
+
+    // $query = $query . ";";
+    echo $query . "<br>";
+
+    // get the results
+    // $statement = oci_parse($connection, $query);
+    $statement = oci_parse($connection, "SELECT * FROM exercise");
+
+    // echo $statement . "<br>";
+
+    if (!$statement) {
+      echo "Nie udało się wykonać zapytania<br>";
+      $e = oci_error($connection);
+      echo $e['message'];
+      trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
+      exit;
+    }
+
+    oci_execute($statement, OCI_NO_AUTO_COMMIT);
+
+    echo "<br>Znalezione ćwiczenia:<br>";
+
+    // display the results
+    echo "<table border='1'>\n";
+    while (($row = oci_fetch_array($statement, OCI_ASSOC)) != false) {
+      echo "<tr>\n";
+      echo "<td>" . "chuj" . $row['A.ID'] . $row['A.EXERCISE_NAME'] . "</td>\n";
+      echo "</tr>\n";
+    }
+    echo "</table>\n";
+    echo "<br>";
+    echo "Koniec wyników<br>";
 
   } else {
     echo "Nie wybrałeś żadnych opcji<br>";
