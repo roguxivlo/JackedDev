@@ -169,10 +169,10 @@
     $cond2 = "0=0";
 
     if ($equipment != "all") {
-      $cond1 = " WHERE equipment_name = `$equipment`";
+      $cond1 = " WHERE equipment_name = '$equipment'";
     }
     if ($difficulty != "all") {
-      $cond2 = " difficulty_level = `$difficulty`";
+      $cond2 = " difficulty_level = '$difficulty'";
     }
 
     $query = $query . " WHERE " . $cond1 . " AND " . $cond2;
@@ -182,7 +182,7 @@
         SELECT COUNT(*) FROM
           ((SELECT muscle_name FROM muscle WHERE muscle_name IN (";
       for ($i = 0; $i < count($targetMuscles); $i++) {
-        $query = $query . "`$targetMuscles[$i]`";
+        $query = $query . "'$targetMuscles[$i]'";
         if ($i != count($targetMuscles) - 1) {
           $query = $query . ", ";
         }
@@ -195,7 +195,7 @@
       ) = 0";
     }
     else {
-      $query = $query . ") as A";
+      $query = $query . ") A";
     }
 
     $login = "jr440002";
@@ -216,8 +216,8 @@
     echo $query . "<br>";
 
     // get the results
-    // $statement = oci_parse($connection, $query);
-    $statement = oci_parse($connection, "SELECT * FROM exercise");
+    $statement = oci_parse($connection, $query);
+    // $statement = oci_parse($connection, "SELECT * FROM exercise");
 
     // echo $statement . "<br>";
 
@@ -235,9 +235,11 @@
 
     // display the results
     echo "<table border='1'>\n";
+    echo "<tr> <th> No. </th> <th> Name </th> </tr>\n";
+    $i = 1;
     while (($row = oci_fetch_array($statement, OCI_ASSOC)) != false) {
       echo "<tr>\n";
-      echo "<td>" . "chuj" . $row['A.ID'] . $row['A.EXERCISE_NAME'] . "</td>\n";
+      echo "<td>" .$i++ . "</td><td>". $row['EXERCISE_NAME'] . "</td>\n";
       echo "</tr>\n";
     }
     echo "</table>\n";
