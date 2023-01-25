@@ -1799,7 +1799,7 @@ Upward Phase: Exhale, gently contract your abdominal / core muscles to stiffen y
 Lowering Phase: Inhale and gently return yourself to your starting position.
 Exercise Variation: You can increase the exercise intensity by increasing the length of time you are in the raised position.
 ');
-INSERT INTO exercise VALUES (1216, 'TRX ® Suspended Pike', 'Advanced');
+INSERT INTO exercise VALUES (1216, 'TRX Suspended Pike', 'Advanced');
 INSERT INTO used_muscle VALUES (1216, 1004);
 INSERT INTO used_muscle VALUES (1216, 1006);
 INSERT INTO required_equipment VALUES (1216, 1016);
@@ -1809,7 +1809,7 @@ Upward Phase: Exhale, contract your abdominal muscles and slowly pull your legs 
 Downward Phase: While maintaining your rigid torso, inhale and slowly lower your body towards the starting push-up position, maintaining your head and spine alignment.
 Exercise Variation: The intensity of this exercise can be increased by lengthening the straps and positioning your body further away from the anchor point of the TRX.
 ');
-INSERT INTO exercise VALUES (1217, 'TRX ® Suspended Push-up', 'Advanced');
+INSERT INTO exercise VALUES (1217, 'TRX Suspended Push-up', 'Advanced');
 INSERT INTO used_muscle VALUES (1217, 1009);
 INSERT INTO used_muscle VALUES (1217, 1008);
 INSERT INTO used_muscle VALUES (1217, 1006);
@@ -1829,7 +1829,7 @@ INSERT INTO used_muscle VALUES (1219, 1000);
 INSERT INTO required_equipment VALUES (1219, 1003);
 INSERT INTO exercise_description VALUES (1219, 'Stand with the feet hip-width apart and hold a kettlebell in the right hand in a ‘bottom-up’ position (holding the top of the handle so that the bottom of the kettlebell is facing up to the ceiling.) Squeeze the handle of the kettlebell with a tight grip to maintain balance. Keep the back straight and the right elbow next to the rib cage while walking a specified, pre-determined distance; after covering the distance turn towards the kettlebell to face the opposite direction and return to the starting point.
 ');
-INSERT INTO exercise VALUES (1220, 'TRX ® Back Row', 'Advanced');
+INSERT INTO exercise VALUES (1220, 'TRX Back Row', 'Advanced');
 INSERT INTO used_muscle VALUES (1220, 1004);
 INSERT INTO used_muscle VALUES (1220, 1009);
 INSERT INTO used_muscle VALUES (1220, 1007);
@@ -1841,7 +1841,7 @@ Downward Phase: While maintaining your rigid torso, inhale and slowly lower your
 Exercise Variation (1): Change to a high-back row by raising the elbows to shoulder height during the pull movement. This places more emphasis on the posterior deltoids and muscles in the upper back.
 Exercise Variation (2): The intensity of this exercise can be increased by positioning your body further away from the anchor point of the TRX and lengthening the straps.
 ');
-INSERT INTO exercise VALUES (1221, 'TRX ® Biceps Curl', 'Advanced');
+INSERT INTO exercise VALUES (1221, 'TRX Biceps Curl', 'Advanced');
 INSERT INTO used_muscle VALUES (1221, 1004);
 INSERT INTO used_muscle VALUES (1221, 1009);
 INSERT INTO required_equipment VALUES (1221, 1016);
@@ -1852,7 +1852,7 @@ Downward Phase: While maintaining your rigid torso, inhale and slowly lower your
 Exercise Variation (1): Change to a pronated grip (palms facing away from the body) on the TRX handles. This places more emphasis on the Brachialis and Brachioradialis (forearm) muscles.
 Exercise Variation (2):The intensity of this exercise can be increased by positioning your body further away from under the anchor point of the TRX and lengthening the straps.
 ');
-INSERT INTO exercise VALUES (1222, 'TRX ® Chest Press', 'Advanced');
+INSERT INTO exercise VALUES (1222, 'TRX Chest Press', 'Advanced');
 INSERT INTO used_muscle VALUES (1222, 1004);
 INSERT INTO used_muscle VALUES (1222, 1009);
 INSERT INTO used_muscle VALUES (1222, 1008);
@@ -1863,14 +1863,14 @@ Upward Phase: Exhale and slowly extend (straighten) your elbows by pressing your
 Downward Phase: While maintaining a straight, rigid torso, inhale and slowly lower your body back towards your starting position keeping your head and spine aligned.
 Exercise Variation: The intensity of this exercise can be increased by lengthening the straps and positioning your body further away from the anchor point of the TRX.
 ');
-INSERT INTO exercise VALUES (1223, 'TRX ® Front Rollout', 'Advanced');
+INSERT INTO exercise VALUES (1223, 'TRX Front Rollout', 'Advanced');
 INSERT INTO used_muscle VALUES (1223, 1004);
 INSERT INTO required_equipment VALUES (1223, 1016);
 INSERT INTO exercise_description VALUES (1223, 'Starting Position: Holding the TRX handles or foot cradles in each hand, turn to kneel facing the anchor point. Grasp the handles/cradles with a closed, pronated grip (thumbs wrapped around the handles with your palms facing the floor) and position your hips directly over your knees, keeping your legs hip-width apart. Flex (bend) your torso into a ball by contracting your abdominal muscles and maintain this position throughout the movement. Bend your elbows until your upper arms are positioned vertical to the floor with your hands adjacent to your face and keep your head aligned with the upper spine.
 Downward Phase: Contract your core and back muscles to further stiffen your torso in preparation for movement. Inhale and gently push your hips forward, opening up the angle at your knees as your body swings forward under the anchor point. Do not allow your spine to straighten or your back to begin arching (sagging) during the movement. Keep your elbows in and hands adjacent to your face.
 Upward Phase: Exhale and slowly pull with your abdominal muscles until your body is back to your starting position. Be sure not to alter your arm or back position.
 ');
-INSERT INTO exercise VALUES (1224, 'TRX ® Hamstrings Curl ', 'Advanced');
+INSERT INTO exercise VALUES (1224, 'TRX Hamstrings Curl ', 'Advanced');
 INSERT INTO used_muscle VALUES (1224, 1005);
 INSERT INTO used_muscle VALUES (1224, 1003);
 INSERT INTO required_equipment VALUES (1224, 1016);
@@ -1879,7 +1879,7 @@ Upward Phase: Exhale and slowly contract your hamstrings to move your heels towa
 Downward Phase: Inhale and slowly return both feet in unison towards your starting position, establishing a rigid body alignment. Avoid any back and forth swinging of the TRX straps.
 Exercise Variation: The intensity of this exercise can be increased by positioning your body further away from under the anchor point of the TRX and lengthening the straps.
 ');
-INSERT INTO exercise VALUES (1225, 'TRX ® Hip Press', 'Advanced');
+INSERT INTO exercise VALUES (1225, 'TRX Hip Press', 'Advanced');
 INSERT INTO used_muscle VALUES (1225, 1007);
 INSERT INTO used_muscle VALUES (1225, 1005);
 INSERT INTO used_muscle VALUES (1225, 1003);
@@ -1889,7 +1889,7 @@ Upward Phase: Exhale and press your hips towards the ceiling, extending your hip
 Downward Phase: Inhale and slowly return your hips to your starting position. Avoid any back and forth swinging of the TRX straps.
 Progression: The intensity of this exercise can be increased by lengthening the straps and positioning your body further away from under the anchor point of the TRX.
 ');
-INSERT INTO exercise VALUES (1226, 'TRX ® Overhead Triceps Extension', 'Advanced');
+INSERT INTO exercise VALUES (1226, 'TRX Overhead Triceps Extension', 'Advanced');
 INSERT INTO used_muscle VALUES (1226, 1009);
 INSERT INTO required_equipment VALUES (1226, 1016);
 INSERT INTO exercise_description VALUES (1226, 'Starting Position: Holding the TRX handles in each hand, turn yourself to face away from the anchor point. Position your hands overhead with a 90 degree bend in your elbows, and elbows pointing forward with neutral wrists (not in flexion or extension). Assume a split-stance position, lunging forward until the straps become tight and maintain this foot position throughout the exercise. Stiffen your torso by contracting your core/abdominal muscles ("bracing").
@@ -1897,7 +1897,7 @@ Upward Phase: Exhale and slowly extend (straighten) your elbows by pressing your
 Downward Phase: While maintaining a stable torso, inhale and slowly lower your body back towards your starting position keeping your head and spine aligned together.
 Progression: The intensity of this exercise can be increased by positioning your body further away from under the anchor point of the TRX and lengthening the straps.
 ');
-INSERT INTO exercise VALUES (1227, 'TRX ® Side-straddle Golf Swings ', 'Advanced');
+INSERT INTO exercise VALUES (1227, 'TRX Side-straddle Golf Swings ', 'Advanced');
 INSERT INTO used_muscle VALUES (1227, 1007);
 INSERT INTO used_muscle VALUES (1227, 1008);
 INSERT INTO used_muscle VALUES (1227, 1006);
@@ -1907,7 +1907,7 @@ Rotation Movement: Exhale and slowly rotate your arms at the shoulders without t
 Exercise Variation (1): To progress the exercise and mimic the golf swing more closely try moving your feet together and change your starting position where you are not bending over, but assuming a slightly bent-knee (1/4 squat) position. Extend your arms forward towards your knees rather than to chest level (pushing down on the handles of foot cradles) and rotate as described above. This rotation will exhibit more pivoting off the back foot. Change your head position to look towards the floor.
 Exercise Variation (2): Progress the movement to a windmill to increase torso rotation for your golf swing. From the same starting position described in the first progression, rotate both arms together in each direction while keeping your head fixed and facing the floor. This movement will exhibit a greater degree of pivoting off the back foot.
 ');
-INSERT INTO exercise VALUES (1228, 'TRX ® Single-arm Chest Press', 'Advanced');
+INSERT INTO exercise VALUES (1228, 'TRX Single-arm Chest Press', 'Advanced');
 INSERT INTO used_muscle VALUES (1228, 1004);
 INSERT INTO used_muscle VALUES (1228, 1009);
 INSERT INTO used_muscle VALUES (1228, 1008);
@@ -1918,7 +1918,7 @@ Upward Phase: Exhale and slowly extend (straighten) your left elbow by pressing 
 Downward Phase: While maintaining your rigid torso, inhale and slowly lower your body back towards your starting position keeping your head aligned with your spine. Repeat to the opposite side, changing your arm and leg positions.
 Exercise Variation: To increase the intensity of this exercise lengthen the straps and position your body further away from under the anchor point, or change the foot position so that the ipsilateral (same-side) leg is forward.
 ');
-INSERT INTO exercise VALUES (1229, 'TRX ® Single-arm Row', 'Advanced');
+INSERT INTO exercise VALUES (1229, 'TRX Single-arm Row', 'Advanced');
 INSERT INTO used_muscle VALUES (1229, 1004);
 INSERT INTO used_muscle VALUES (1229, 1009);
 INSERT INTO used_muscle VALUES (1229, 1007);
@@ -1930,7 +1930,7 @@ Downward Phase: While maintaining your rigid torso, inhale and slowly lower your
 Exercise Variation (1): Change to a high-back row by raising the elbow to shoulder height during the pull movement. This places more emphasis on the posterior deltoids and muscles in the upper back.
 Exercise Variation (2) To increase the intensity of this exercise, lengthen the straps and position your body further away from under the anchor point of the TRX, or change the foot position so that the ipsilateral (same side) leg is forward.
 ');
-INSERT INTO exercise VALUES (1230, 'TRX ® Suspended Knee Tucks', 'Advanced');
+INSERT INTO exercise VALUES (1230, 'TRX Suspended Knee Tucks', 'Advanced');
 INSERT INTO used_muscle VALUES (1230, 1004);
 INSERT INTO used_muscle VALUES (1230, 1008);
 INSERT INTO required_equipment VALUES (1230, 1016);
@@ -1939,7 +1939,7 @@ Upward Phase: Exhale and slowly press yourself upward until your elbows are full
 Downward Phase: Inhale and slowly lower your body towards your starting push-up position, aligning your head and spine together. Avoid any arching or sagging in your low back throughout the range of motion.
 Exercise Variation: The intensity of this exercise can be increased by positioning your body further away from under the anchor point of the TRX and lengthening the straps.
 ');
-INSERT INTO exercise VALUES (1231, 'TRX ® Suspended Lunge', 'Advanced');
+INSERT INTO exercise VALUES (1231, 'TRX Suspended Lunge', 'Advanced');
 INSERT INTO used_muscle VALUES (1231, 1004);
 INSERT INTO used_muscle VALUES (1231, 1005);
 INSERT INTO used_muscle VALUES (1231, 1003);
@@ -2276,7 +2276,7 @@ INSERT INTO exercise_description VALUES (1270, 'Starting Position: Stand in a sp
 Upward Phase: Exhale and slowly press the dumbbell overhead, extending your elbows until your arms are vertical to the floor, elbows pointing forward, but not completely locked. The dumbbell should be positioned directly over your head with your palms facing upwards and the dumbbell hanging vertically or angled slightly. Maintain your balance and avoid changing the position of your head, torso, upper arms, wrists and feet.
 Downward Phase: Inhale and allow the weight to slowly bend your elbows, lowering the dumbbell behind your head in a controlled manner without moving your upper arms. Continue lowering the dumbbell until your elbows reach a 90 degree bend or until your upper arms begin to move backwards. Be sure to avoid making contact with the back of your head. Also, avoid changing the position in your head, torso, upper arms, wrists and feet.
 ');
-INSERT INTO exercise VALUES (1271, 'TRX ® Assisted Cross-over Lunge with Arm Raise', 'Intermediate');
+INSERT INTO exercise VALUES (1271, 'TRX Assisted Cross-over Lunge with Arm Raise', 'Intermediate');
 INSERT INTO used_muscle VALUES (1271, 1007);
 INSERT INTO used_muscle VALUES (1271, 1005);
 INSERT INTO used_muscle VALUES (1271, 1006);
@@ -2286,7 +2286,7 @@ Downward Phase: Inhale and slowly step with your right leg across to the left wh
 Once your right foot is firmly placed on the floor, begin to bend at the hips, pushing them backwards while simultaneously shifting your weight towards your right foot. Continue shifting your weight over the right foot until your tibia (shinbone) is vertical to the floor and aligned directly over your second toe, with your weight distributed through your heel. The heel of your back foot may lift of the ground as you load into your right foot. Your arms should be in a wide, overhead position.
 Upward Phase: Exhale and push off firmly with your right leg, while pulling on the TRX, returning your body to your starting position. Repeat the movement to the opposite side.
 ');
-INSERT INTO exercise VALUES (1272, 'TRX ® Assisted Side Lunge with Arm Raise', 'Intermediate');
+INSERT INTO exercise VALUES (1272, 'TRX Assisted Side Lunge with Arm Raise', 'Intermediate');
 INSERT INTO used_muscle VALUES (1272, 1007);
 INSERT INTO used_muscle VALUES (1272, 1005);
 INSERT INTO used_muscle VALUES (1272, 1000);
@@ -2458,7 +2458,7 @@ INSERT INTO used_muscle VALUES (1292, 1000);
 INSERT INTO required_equipment VALUES (1292, 1000);
 INSERT INTO exercise_description VALUES (1292, 'Place a cable pulley in the highest position and attach a single handle. Stand facing the pulley with the feet close together, and grip the handle in the left hand. Step back with the left foot on the ground pointed in the 9 o"clock direction with the right foot facing the machine, pointed in the 12 o"clock direction. When the left foot is on the ground, pull the left arm back (keeping the elbow high) and reach forward with the right hand straight out a little higher than the shoulder. Pull the left hand all the way back until it is directly in front of the left shoulder, and pause before straightening the left arm. Step back with the left foot to return to the original starting position.
 ');
-INSERT INTO exercise VALUES (1293, 'TRX ® Atomic Push-up', 'Advanced');
+INSERT INTO exercise VALUES (1293, 'TRX Atomic Push-up', 'Advanced');
 INSERT INTO used_muscle VALUES (1293, 1004);
 INSERT INTO used_muscle VALUES (1293, 1009);
 INSERT INTO used_muscle VALUES (1293, 1008);

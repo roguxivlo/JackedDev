@@ -55,7 +55,7 @@
               </div>
               <div id="checkboxes">
                 <label for="Body/Integrated">
-                  <input type="checkbox" name="Body/Integrated" />Calves</label>
+                  <input type="checkbox" name="Body/Integrated" />Body/Integrated</label>
                 <label for="Calves">
                   <input type="checkbox" name="Calves" />Calves</label>
                 <label for="Shins">
@@ -159,7 +159,7 @@
 
     
 
-    $query = "SELECT A.id, A.exercise_name
+    $query = "SELECT DISTINCT A.id, A.exercise_name
               FROM (
                 SELECT E.id, exercise_name
                 FROM exercise E JOIN required_equipment RE ON E.id = RE.exercise_id
@@ -169,13 +169,13 @@
     $cond2 = "0=0";
 
     if ($equipment != "all") {
-      $cond1 = " WHERE equipment_name = '$equipment'";
+      $cond1 = " equipment_name = '$equipment'";
     }
     if ($difficulty != "all") {
       $cond2 = " difficulty_level = '$difficulty'";
     }
 
-    $query = $query . " WHERE " . $cond1 . " AND " . $cond2;
+    $query = $query . " WHERE " . $cond1 . " AND " . $cond2 . ") A";
 
     if (count($targetMuscles) > 0) {
       $query = $query . " WHERE (
@@ -194,9 +194,6 @@
       WHERE exercise.id = A.id))
       ) = 0";
     }
-    else {
-      $query = $query . ") A";
-    }
 
     $login = "jr440002";
     $password = "haslo";
@@ -209,17 +206,14 @@
       exit;
     }
     else {
-      echo "Połączono z bazą danych<br>";
+      // echo "Połączono z bazą danych<br>";
     }
 
-    // $query = $query . ";";
-    echo $query . "<br>";
+    // echo $query . "<br>";
 
     // get the results
     $statement = oci_parse($connection, $query);
-    // $statement = oci_parse($connection, "SELECT * FROM exercise");
-
-    // echo $statement . "<br>";
+    
 
     if (!$statement) {
       echo "Nie udało się wykonać zapytania<br>";
@@ -239,12 +233,15 @@
     $i = 1;
     while (($row = oci_fetch_array($statement, OCI_ASSOC)) != false) {
       echo "<tr>\n";
-      echo "<td>" .$i++ . "</td><td>". $row['EXERCISE_NAME'] . "</td>\n";
+      echo "<td>" .$i++ . "</td><td><A HREF=\"exercise_site.php?id=".$row['ID']."\">". $row['EXERCISE_NAME'] . "</td>\n";
       echo "</tr>\n";
     }
     echo "</table>\n";
     echo "<br>";
     echo "Koniec wyników<br>";
+    if ($i == 1) {
+      echo "Nie znaleziono żadnych ćwiczeń spełniających podane kryteria<br>";
+    }
 
   } else {
     echo "Nie wybrałeś żadnych opcji<br>";

@@ -46,3 +46,18 @@ WHERE (
         JOIN exercise ON exercise.id = used_muscle.exercise_id
       WHERE exercise.id = A.id))
 ) = 0;
+
+-- Display exercise description:
+SELECT exercise_description
+FROM exercise_description
+  JOIN exercise ON exercise.id = exercise_description.id
+WHERE exercise_name = 'Seated Biceps Curl';
+
+-- For a given exercise, display info:
+SELECT
+FROM exercise E
+  JOIN required_equipment RE ON E.id = RE.exercise_id
+  JOIN equipment EQ ON EQ.id = RE.equipment_id
+  JOIN used_muscle UM ON E.id = UM.exercise_id
+  JOIN muscle M ON M.id = UM.muscle_id
+WHERE exercise_name = 'Seated Biceps Curl';
