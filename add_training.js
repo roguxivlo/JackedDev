@@ -1,12 +1,7 @@
-// Click on a close button to hide the current list item
-var close = document.getElementsByClassName("close");
-var i;
-for (i = 0; i < close.length; i++) {
-  close[i].onclick = function() {
-    var div = this.parentElement;
-    div.style.display = "none";
-  }
-}
+// global array to store exercises to add
+var exercises_array = [];
+var series_array = []
+var repetitions_array = []
 
 // create new element on list
 function newElement() {
@@ -19,4 +14,11 @@ function newElement() {
 
     document.getElementById("exercises_list").appendChild(li);
 
+    exercises_array.push(exercise);
+    series_array.push(series);
+    repetitions_array.push(repetitions);
+
+    var send_exercises = exercises_array.join(',');
+    console.log(send_exercises);
+    $.post("add_training.php", {send_exercises: send_exercises});
 }
