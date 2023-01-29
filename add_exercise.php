@@ -51,5 +51,7 @@
     echo "<a href=search.php?training_id=" .$training_id.">Dodaj Nowe ćwiczenie: wyszukaj ćwiczenie i kliknij dodaj</a>";
   ?>
 
+  <br><a href="training_history.php">Gotowe!</a><br>
+
   </center>
 </body>

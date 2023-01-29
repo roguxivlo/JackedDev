@@ -70,8 +70,8 @@
     $name = $_POST['name'];
     $repetitions = $_POST['repetitions'];
     $series = $_POST['series'];
-    $query = "INSERT INTO training_exercise (training_id, exercise_id, repetitions, series) VALUES ($training_id, $exercise_id, $repetitions, $series)";
-    // echo $query . "<br>";
+    $query = "INSERT INTO exercises_per_training VALUES ($training_id, $exercise_id, $series, $repetitions)";
+    echo $query . "<br>";
     $statement = oci_parse($connection, $query);
     $r = oci_execute($statement);
     if (!$r) {
@@ -80,6 +80,7 @@
     }
     else {
       echo "Dodano ćwiczenie $name do treningu $training_id";
+      echo "<center><br><a href=add_exercise.php?training_id=".$training_id.">Powrót do edycji treningu</a><br></center>";
     }
   }
 ?>
