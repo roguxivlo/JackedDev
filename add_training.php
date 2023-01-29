@@ -2,11 +2,16 @@
   <head>
     <title> JackedDev - Dodawanie treningów </title>
     <meta charset="utf-8">
-    <script src="add_training.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="add_training.css">
   </head>
   <body>
+    <?php
+    // check if logged in
+    session_start();
+    if (!isset($_SESSION["login"])) {
+      header("location: login.php");
+      exit;
+    }
+    ?>
     <center>
       <table>
         <tr>
@@ -14,32 +19,51 @@
         </tr>
       </table>
       <div>
-        <h2>Zapisz trening</h2>
-        <input type="text" id="exercise_input" placeholder="ćwiczenie">
-        <input type="number" id="series" min="1" placeholder="ilość serii">
-        <input type="number" id="repetitions" min="1" placeholder="ilość powtórzeń">
-        <span onclick="newElement()" class="add_exercise_btn">Dodaj ćwiczenie</span>
+        <h2>Podaj datę treningu</h2>
+        <!-- date form -->
+        <form action="add_training.php" method="post">
+          <input type="date" name="date" value="<?php echo date('Y-m-d'); ?>">
+          <input type="submit" name="submit" value="Wybierz datę">
       </div>
-      <ul id="exercises_list" action="add_training.php" method="post">   
-      </ul>
-      <form method="post">
-        <input action="javascript:void(0);" type="submit" name="submit" value="Dodaj">
-      </form>  
+      
     </center>  
   </body>
   <?php
   if (isset($_POST["submit"])) {
-    echo "Dodano trening: <br>";    
-    $exercises_array = $_POST['send_exercises'];
-    $exercises_array = explode(',', $exercises_array);
-
-    echo count($exercises_array) . "<br>";
-    //for ($i = 0; $i < count($exercises_array); $i++) {
-    //  echo $exercises_array[$i] . "<br>";
-    //}
-  }
-  else {
-    //echo "jeszcze nie zapisałeś treningu<br>";
+    $conn = oci_connect($_SESSION['sql_login'], $_SESSION['sql_password'], $_SESSION['sql_host']);
+    if (!$conn) {
+      $e = oci_error();
+      trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
+    }
+    $sql = "INSERT INTO training (user_login, training_date) VALUES ('". $_SESSION['login']."', TO_DATE('".$_POST["date"]."','YYYY-MM-DD'))";
+    echo $sql."<br>";
+    $stid = oci_parse($conn, $sql);
+    $r = oci_execute($stid);
+    if (!$r) {
+      $e = oci_error($stid);
+      trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
+    }
+    else {
+      echo "Dodano trening dnia: <br>";
+      echo $_POST["date"];
+      // get training id
+      $sql = "SELECT id FROM training WHERE ROWNUM = 1 ORDER BY id DESC";
+      echo $sql."<br>";
+      $stid = oci_parse($conn, $sql);
+      $r = oci_execute($stid);
+      if (!$r) {
+        $e = oci_error($stid);
+        trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
+      }
+      else {
+        $row = oci_fetch_array($stid, OCI_ASSOC+OCI_RETURN_NULLS);
+        $training_id = $row['ID'];
+        $_SESSION['training_id'] = $training_id;
+        echo "ID treningu: ".$training_id."<br>";
+        // href to add_exercise.php
+        echo "<a href='add_exercise.php?training_id=".$training_id."'>Dodaj ćwiczenie</a>";
+      }
+    }
   }
   ?>
 </html>

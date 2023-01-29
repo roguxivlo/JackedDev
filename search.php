@@ -233,7 +233,12 @@
     $i = 1;
     while (($row = oci_fetch_array($statement, OCI_ASSOC)) != false) {
       echo "<tr>\n";
-      echo "<td>" .$i++ . "</td><td><A HREF=\"exercise_site.php?id=".$row['ID']."\">". $row['EXERCISE_NAME'] . "</td>\n";
+      $msg = "</td><td><A HREF=\"exercise_site.php?id=".$row['ID']."\">". $row['EXERCISE_NAME'];
+      if (isset($_SESSION['training_id'])) {
+        $training_id = $_SESSION['training_id'];
+        $msg = "</td><td><A HREF=\"add_exercise_site.php?id=".$row['ID']."&&training_id=".$training_id."\">". $row['EXERCISE_NAME'];
+      }
+      echo "<td>" .$i++ . $msg . "</td>\n";
       echo "</tr>\n";
     }
     echo "</table>\n";

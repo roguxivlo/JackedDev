@@ -57,6 +57,9 @@
       $login = "jr440002";
       $password = "haslo";
       $host = "//labora.mimuw.edu.pl/LABS";
+      $_SESSION['sql_login'] = $login;
+      $_SESSION['sql_password'] = $password;
+      $_SESSION['sql_host'] = $host;
       $connection = oci_connect($login, $password, $host);
       if (!$connection) {
         echo "oci_connect failed\n";
