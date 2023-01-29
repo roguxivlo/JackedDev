@@ -15,7 +15,7 @@
       <h1>Twoje treningi</h1>
       <table>
       <tr><td><a href="index.php">Strona główna</a></td></tr>
-      <tr><td><a href="training_site.php">Dodaj trening</a></td></tr>
+      <tr><td><a href="add_training.php">Dodaj trening</a></td></tr>
       <tr><td><a href="logout.php">Wyloguj</a></td></tr>
       </table>
     </center>
