@@ -1,0 +1,19 @@
+#part1 {
+    float: left;
+    width: 50%;
+}
+
+#desc {
+    float: left;
+    width: 50%;
+}
+
+#desc_text {
+    max-height: 300px;
+    overflow: scroll;
+}
+
+#exercise_content {
+    width: 90%;
+    padding-top: 20px;
+}

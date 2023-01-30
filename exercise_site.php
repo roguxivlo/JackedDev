@@ -58,54 +58,118 @@
   }
   // echo $muscles[0] . "<br>";
 ?>
-<html>
-  <head>
-    <title> JackedDev: <?php echo $name; ?> </title>
+
+<!DOCTYPE html lang="pl">
+
+<head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="exercise_site.css">
+    <link rel="stylesheet" href="main.css">
+    <title>JackedDev.com</title>
 </head>
 
 <body>
-<div>
-    <center>
-      <table>
-        <tr>
-          <td><a href="index.php">Strona Główna</a></td>
-        </tr>
-        <tr>
-          <td><a href="search.php">Szukaj Ćwiczeń</a></td>
-        </tr>
-        <?php
+<div class="main_page">
+    <?php
+        session_start();
         if (isset($_SESSION['login'])) {
-          echo "<tr><td><a href='user_page.php'>Twoje treningi</a></td></tr>";
-          echo "<tr><td><a href='logout.php'>Wyloguj się</a></td></tr>";
+            echo "<div class='login_and_register'>";
+            echo "<div class='login_and_register_button_div'>";
+            echo "<a href='logout.php'>";
+            echo "<button class='login_and_register_button' id='logout_button'>";
+            echo "Wyloguj"; 
+            echo "</button>";
+            echo "</a>";
+            echo "</div>";
+            echo "</div>";
         }
         else {
-          echo "<tr><td><a href='login.php'>Zaloguj się</a></td></tr>";
-          echo "<tr><td><a href='register.php'>Zarejestruj się</a></td></tr>";
+            echo "<div class='login_and_register'>";
+            echo "<div class='login_and_register_button_div'>";
+            echo "<a href='register.php'>";
+            echo "<button class='login_and_register_button' id='register_button'>";
+            echo "Zarejestruj"; 
+            echo "</button>";
+            echo "</a>";
+            echo "</div>";
+
+            echo "<div class='login_and_register_button_div'>";
+            echo "<a href='login.php'>";
+            echo "<button class='login_and_register_button' id='login_button'>";
+            echo "Zaloguj";
+            echo "</button>";
+            echo "</a>";
+            echo "</div>";
+            echo "</div>";
+        }
+    ?>
+    <div class="content">
+        <h1 class="small_title"> JackedDev </h1>
+        <center>
+        <div id='exercise_content'>
+        <div id='part1'>
+            <h1> <?php echo $name; ?> </h1>
+            <h2> Equipment: </h2>
+            <p> <?php echo $equipment; ?> </p>
+            <h2> Targeted muscles: </h2>
+            <p> <?php
+                for ($i = 0; $i < count($muscles); $i++) {
+                echo $muscles[$i];
+                if ($i != count($muscles) - 1) {
+                    echo ", ";
+                }
+                }
+            ?> </p>
+            <h2> Difficulty: </h2>
+            <p> <?php echo $difficulty; ?> </p>
+        </div>
+
+        <div id='desc'>
+            <h2> Description: </h2>
+            <div id='desc_text'>
+                <?php echo $description; ?>
+            </div>
+        </div>
+        
+    </div>
+    </center>
+    </div>
+
+    <div class="menu">
+        <?php
+        if (isset($_SESSION['login'])) {
+            // szukaj treningów
+            echo "<div class='col3'>"; 
+            echo "<a href='search.php'>";
+            echo "<button class='bottom_button' id='bottom_button1'> Szukaj Ćwiczeń </button>";
+            echo "</a>";
+            echo "</div>";
+
+            // dodanie treningów
+            echo "<div class='col3'>"; 
+            echo "<a href='search.php'>";
+            echo "<button class='bottom_button' id='bottom_button2'> Zapisz Trening </button>";
+            echo "</a>";
+            echo "</div>";
+
+            // historia treningów
+            echo "<div class='col3'>"; 
+            echo "<a href='search.php'>";
+            echo "<button class='bottom_button' id='bottom_button3'> Historia Treningów </button>";
+            echo "</a>";
+            echo "</div>";
+        }
+        else {
+            // szukaj treningów
+            echo "<div class='col1'>"; 
+            echo "<a href='search.php'>";
+            echo "<button class='bottom_button' id='bottom_button1'> Szukaj Ćwiczeń </button>";
+            echo "</a>";
+            echo "</div>";
         }
         ?>
-      </table>
-    </center>
-  </div>
-  <div>
-    <center>
-      <h1> <?php echo $name; ?> </h1>
-      <h2> Equipment: </h2>
-      <p> <?php echo $equipment; ?> </p>
-      <h2> Targeted muscles: </h2>
-      <p> <?php
-        for ($i = 0; $i < count($muscles); $i++) {
-          echo $muscles[$i];
-          if ($i != count($muscles) - 1) {
-            echo ", ";
-          }
-        }
-      ?> </p>
-      <h2> Difficulty: </h2>
-      <p> <?php echo $difficulty; ?> </p>
-      <h2> Description: </h2>
-      <p> <?php echo $description; ?> </p>
-      
-    </center>
-  </div>
+    </div>
+</div>
+</body>
+
 </html>

@@ -1,0 +1,124 @@
+.main_page {
+    position:absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px; 
+    background-color: #9dd0de;
+}
+
+.login_and_register {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #9dd0de;
+}
+
+.login_and_register_button_div {
+    float: right;
+    width: 100px;
+    text-align: center;
+}
+
+.login_and_register_button {
+    width: 100%;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+
+#login_button {
+    background-color: #26b4e6;
+}
+
+#register_button {
+    background-color: #26b4e6;
+}
+
+#logout_button {
+    background-color: #26b4e6;
+}
+
+#login_button:hover {
+    background-color: black;
+}
+
+#register_button:hover {
+    background-color: black;
+}
+
+#logout_button:hover {
+    background-color: black;
+}
+
+.content {
+    text-align: center;
+}
+
+.menu {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.title {
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-size: 100px;
+}
+
+.small_title {
+    padding-top: 0px;
+    padding-bottom: 5px;
+    font-size: 50px;
+}
+
+.col1 {
+    float: left;
+    width: 100%;
+}
+
+.col2 {
+    float: left;
+    width: 50%;
+}
+
+.col3 {
+    float: left;
+    width: 33.333%;
+}
+
+.bottom_button {
+    width: 100%;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+}
+  
+#bottom_button1 {
+    background-color: #26b4e6;
+}
+
+#bottom_button1:hover {
+    background-color: black;
+}
+
+#bottom_button2 {
+    background-color: #94d3f1;
+}
+
+#bottom_button2:hover {
+    background-color: black;
+}
+
+#bottom_button3 {
+    background-color: #195257;
+}
+
+#bottom_button3:hover {
+    background-color: black;
+}
