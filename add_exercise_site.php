@@ -12,12 +12,10 @@
     exit;
   }
   $name_query = "SELECT exercise_name FROM exercise WHERE id = $exercise_id";
-  // echo $name_query . "<br>";
   $name_statement = oci_parse($connection, $name_query);
   oci_execute($name_statement);
   $name_assoc = oci_fetch_array($name_statement, OCI_ASSOC);
   $name = $name_assoc['EXERCISE_NAME'];
-  // echo $name . "<br>";
 
 ?>
 
@@ -67,15 +65,6 @@
     ?>
     <div class="content">
         <h1 class="title"> JackedDev </h1>
-        <!--<div>
-            <center>
-            <table>
-                <tr>
-                <td><a href=<?php echo "add_exercise.php?training_id=".$training_id.">";?>Powrót do edycji treningu</a></td>
-                </tr>
-            </table>
-            </center>
-        </div>-->
         <div>
             <center>
             <h1> <?php echo $name; ?> </h1>
@@ -98,7 +87,6 @@
             </form>
 
                 <?php
-                // TODO: add exercise to training
                 if (isset($_POST['submit'])) {
                     $training_id = $_POST['training_id'];
                     $exercise_id = $_POST['exercise_id'];
@@ -106,12 +94,10 @@
                     $repetitions = $_POST['repetitions'];
                     $series = $_POST['series'];
                     $query = "INSERT INTO exercises_per_training VALUES ($training_id, $exercise_id, $series, $repetitions)";
-                    //echo $query . "<br>";
                     $statement = oci_parse($connection, $query);
                     $r = oci_execute($statement);
                     if (!$r) {
                     $e = oci_error($statement);
-                    //echo $e['message'];
                     }
                     else {
                     echo "Dodano ćwiczenie $name do treningu $training_id";

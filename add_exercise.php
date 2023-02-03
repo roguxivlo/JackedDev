@@ -75,10 +75,10 @@
             trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
             }
             else {
-            echo "<table id='training_table'>\n";
+            echo "<table border='1' id='training_table'>\n";
             echo "<tr>\n";
-            echo "<th>Ćwiczenie | </th>\n";
-            echo "<th>Liczba Serii | </th>\n";
+            echo "<th>Ćwiczenie</th>\n";
+            echo "<th>Liczba Serii</th>\n";
             echo "<th>Powtórzenia</th>\n";
             echo "</tr>\n";
             while ($row = oci_fetch_array($stid, OCI_ASSOC+OCI_RETURN_NULLS)) {
@@ -88,10 +88,8 @@
             }
             echo "</table>\n";
             }
-            //echo "<a href=search.php?training_id=" .$training_id.">Dodaj Nowe ćwiczenie: wyszukaj ćwiczenie i kliknij dodaj</a>";
         ?>
 
-        <!--<a href="training_history.php">Gotowe!</a>-->
         </center>
     </div>
 

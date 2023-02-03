@@ -89,9 +89,6 @@
             $row = oci_fetch_array($stid, OCI_ASSOC+OCI_RETURN_NULLS);
             $training_id = $row['ID'];
             $_SESSION['training_id'] = $training_id;
-            //echo "ID treningu: ".$training_id."<br>";
-            // href to add_exercise.php
-            //echo "<a href='add_exercise.php?training_id=".$training_id."'>Dodaj ćwiczenie</a>";
             echo "<div id='add_exercise_button_div'>";
             echo "<a href='add_exercise.php?training_id=".$training_id."'>";
             echo "<button id='add_exercise_button'>";
