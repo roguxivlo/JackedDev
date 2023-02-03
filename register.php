@@ -85,7 +85,6 @@
             $user_login = $_POST["login"];
             $user_password = $_POST["password"];
             $user_password2 = $_POST["password2"];
-            // echo "$user_login, $user_password, $user_password2<br>";
             if ($user_password != $user_password2) {
             echo "Hasła nie są takie same";
             }
