@@ -15,7 +15,7 @@
             echo "<div class='login_and_register'>";
             echo "<div class='login_and_register_button_div'>";
             echo "<button class='login_and_register_button' id='logout_button'>";
-            echo "Wyloguj"; 
+            echo "Wyloguj";
             echo "</button>";
             echo "</div>";
             echo "</div>";
@@ -45,7 +45,7 @@
         <h1 class="title"> JackedDev </h1>
         <!-- rejestracja -->
         <center>
-        <form>
+        <form action="#" method="post">
             <table>
             <tr>
                 <td>Login:</td>
