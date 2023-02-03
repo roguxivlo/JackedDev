@@ -217,11 +217,6 @@
             trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
             exit;
             }
-            else {
-            // echo "Połączono z bazą danych<br>";
-            }
-
-            // echo $query . "<br>";
 
             // get the results
             $statement = oci_parse($connection, $query);
