@@ -1,6 +1,7 @@
 <?php
   session_start();
   $exercise_id = $_GET['id'];
+  $training_id = $_GET['training_id'];
   $login = "jr440002";
   $password = "haslo";
   $host = "//labora.mimuw.edu.pl/LABS";
@@ -10,7 +11,6 @@
     echo $m['message'], "\n";
     exit;
   }
-
   $name_query = "SELECT exercise_name FROM exercise WHERE id = $exercise_id";
   // echo $name_query . "<br>";
   $name_statement = oci_parse($connection, $name_query);
@@ -19,51 +19,13 @@
   $name = $name_assoc['EXERCISE_NAME'];
   // echo $name . "<br>";
 
-  $equipment_query = "SELECT equipment_name FROM equipment JOIN required_equipment ON equipment.id = required_equipment.equipment_id JOIN exercise ON exercise.id = required_equipment.exercise_id WHERE exercise.id = $exercise_id";
-  // echo $equipment_query . "<br>";
-  $equipment_statement = oci_parse($connection, $equipment_query);
-  oci_execute($equipment_statement);
-  $equipment_assoc = oci_fetch_array($equipment_statement, OCI_ASSOC);
-  $equipment = $equipment_assoc['EQUIPMENT_NAME'];
-
-
-  $description_query = "SELECT exercise_description
-  FROM exercise_description
-    JOIN exercise ON exercise.id = exercise_description.id
-  WHERE exercise.id = $exercise_id";
-  // echo $description_query . "<br>";
-
-  $description_statement = oci_parse($connection, $description_query);
-  oci_execute($description_statement);
-  $description_assoc = oci_fetch_array($description_statement, OCI_ASSOC);
-  $description = $description_assoc['EXERCISE_DESCRIPTION'];
-
-  // echo $description . "<br>";
-
-  $difficulty_query = "SELECT difficulty_level FROM exercise WHERE id = $exercise_id";
-  // echo $difficulty_query . "<br>";
-  $difficulty_statement = oci_parse($connection, $difficulty_query);
-  oci_execute($difficulty_statement);
-  $difficulty_assoc = oci_fetch_array($difficulty_statement, OCI_ASSOC);
-  $difficulty = $difficulty_assoc['DIFFICULTY_LEVEL'];
-  // echo $difficulty . "<br>";
-
-  $muscles_query = "SELECT muscle_name FROM muscle JOIN used_muscle ON muscle.id = used_muscle.muscle_id JOIN exercise ON exercise.id = used_muscle.exercise_id WHERE exercise.id = $exercise_id";
-  // echo $muscles_query . "<br>";
-  $muscles_statement = oci_parse($connection, $muscles_query);
-  oci_execute($muscles_statement);
-  $muscles = array();
-  while ($row = oci_fetch_array($muscles_statement, OCI_ASSOC)) {
-    array_push($muscles, $row['MUSCLE_NAME']);
-  }
-  // echo $muscles[0] . "<br>";
 ?>
 
 <!DOCTYPE html lang="pl">
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="exercise_site.css">
+    <link rel="stylesheet" href="add_exercise_site.css">
     <link rel="stylesheet" href="main.css">
     <title>JackedDev.com</title>
 </head>
@@ -104,35 +66,70 @@
         }
     ?>
     <div class="content">
-        <h1 class="small_title"> JackedDev </h1>
-        <center>
-        <div id='exercise_content'>
-        <div id='part1'>
+        <h1 class="title"> JackedDev </h1>
+        <!--<div>
+            <center>
+            <table>
+                <tr>
+                <td><a href=<?php echo "add_exercise.php?training_id=".$training_id.">";?>Powrót do edycji treningu</a></td>
+                </tr>
+            </table>
+            </center>
+        </div>-->
+        <div>
+            <center>
             <h1> <?php echo $name; ?> </h1>
-            <h2> Equipment: </h2>
-            <p> <?php echo $equipment; ?> </p>
-            <h2> Targeted muscles: </h2>
-            <p> <?php
-                for ($i = 0; $i < count($muscles); $i++) {
-                echo $muscles[$i];
-                if ($i != count($muscles) - 1) {
-                    echo ", ";
-                }
-                }
-            ?> </p>
-            <h2> Difficulty: </h2>
-            <p> <?php echo $difficulty; ?> </p>
-        </div>
+            
+            <form action="add_exercise_site.php" method="post">
+                <input type="hidden" name="training_id" value=<?php echo $training_id; ?>>
+                <input type="hidden" name="exercise_id" value=<?php echo $exercise_id; ?>>
+                <input type="hidden" name="name" value=<?php echo $name; ?>>
+                <table>
+                <tr>
+                    <td> Liczba powtórzeń: </td>
+                    <td> <input type="number" name="repetitions" min="1" max="100" value="1"> </td>
+                </tr>
+                <tr>
+                    <td> Liczba serii: </td>
+                    <td> <input type="number" name="series" min="1" max="100" value="1"> </td>
+                </tr>
+                </table>
+                <input type="submit" name="submit" value="Dodaj ćwiczenie">
+            </form>
 
-        <div id='desc'>
-            <h2> Description: </h2>
-            <div id='desc_text'>
-                <?php echo $description; ?>
-            </div>
+                <?php
+                // TODO: add exercise to training
+                if (isset($_POST['submit'])) {
+                    $training_id = $_POST['training_id'];
+                    $exercise_id = $_POST['exercise_id'];
+                    $name = $_POST['name'];
+                    $repetitions = $_POST['repetitions'];
+                    $series = $_POST['series'];
+                    $query = "INSERT INTO exercises_per_training VALUES ($training_id, $exercise_id, $series, $repetitions)";
+                    //echo $query . "<br>";
+                    $statement = oci_parse($connection, $query);
+                    $r = oci_execute($statement);
+                    if (!$r) {
+                    $e = oci_error($statement);
+                    //echo $e['message'];
+                    }
+                    else {
+                    echo "Dodano ćwiczenie $name do treningu $training_id";
+
+                    // przycisk
+                    echo "<div id='add_exercise_button_div'>";
+                    echo "<a href=add_exercise.php?training_id=".$training_id.">";
+                    echo "<button id='add_exercise_button'>";
+                    echo "Powrót do edycji";
+                    echo "</button>";
+                    echo "</a>";
+                    echo "</div>";
+                    }
+                }
+                ?>
+            
+            </center>
         </div>
-        
-    </div>
-    </center>
     </div>
 
     <div class="menu">

@@ -1,10 +1,29 @@
+<?php
+session_start();
+// check if logged in
+if (!isset($_SESSION['login'])) {
+  header("Location: login.php");
+}
+
+// get training id
+$training_id = $_GET['training_id'];
+
+// connect to db
+$conn = oci_connect($_SESSION['sql_login'], $_SESSION['sql_password'], $_SESSION['sql_host']);
+if (!$conn) {
+  $e = oci_error();
+  trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
+}
+
+?>
+
 <!DOCTYPE html lang="pl">
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="training_site.css">
     <link rel="stylesheet" href="main.css">
-    <title>JackedDev.com</title>
+    <title> JackedDev: Trening <?php echo $training_id; ?> </title>
 </head>
 
 <body>
@@ -44,11 +63,31 @@
     ?>
     <div class="content">
         <h1 class="title"> JackedDev </h1>
-        <p class="main_page_text"> 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus viverra odio, ut venenatis nisl imperdiet viverra. Nunc placerat ipsum rutrum risus accumsan vulputate. Pellentesque purus urna, auctor at tortor lobortis, bibendum consectetur elit. Aenean eu sapien massa. Aenean at augue mi. In hac habitasse platea dictumst. Nam facilisis consectetur tincidunt.
-            Cras hendrerit mi nec consectetur sodales. Nullam ullamcorper dolor ac lectus gravida accumsan. Aenean consequat eros sed purus vehicula, at porta nisi ornare. Fusce porttitor, enim in hendrerit pulvinar, est nisi elementum risus, et tempor dolor nulla sed metus. Etiam semper nibh tellus. Fusce nec mattis elit. Vestibulum sit amet odio vitae ligula accumsan consectetur. Donec mattis magna sit amet tortor dignissim interdum id eu sem. Quisque iaculis sagittis elementum. Phasellus id pretium turpis. Duis blandit mattis bibendum.
-            Fusce malesuada eget ipsum vitae suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed quis ornare elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis pretium ante et felis congue, ac fermentum diam semper. Vivamus convallis, lacus non faucibus fermentum, dolor massa facilisis massa, vitae pretium tortor diam id felis. Pellentesque varius ultrices arcu et imperdiet. Praesent scelerisque ipsum ut ante porttitor interdum. Praesent accumsan placerat metus at auctor. Nunc volutpat risus ac dolor ultrices, ut accumsan lacus blandit. Aenean at scelerisque tortor. Integer vitae vehicula purus. Praesent nec lacinia magna. Vivamus et luctus velit, sit amet iaculis lacus. 
-        </p>
+        <center>
+        <?php
+        $query = "SELECT * FROM exercises_per_training JOIN exercise ON exercise_id = exercise.id WHERE training_id = $training_id";
+        $stid = oci_parse($conn, $query);
+        $r = oci_execute($stid);
+        if (!$r) {
+            $e = oci_error($stid);
+            trigger_error(htmlentities($e['message'], ENT_QUOTES), E_USER_ERROR);
+        }
+        else {
+            echo "<table border='1'>\n";
+            echo "<tr>\n";
+            echo "<th>Ćwiczenie</th>\n";
+            echo "<th>Liczba Serii</th>\n";
+            echo "<th>Powtórzenia</th>\n";
+            echo "</tr>\n";
+            while ($row = oci_fetch_array($stid, OCI_ASSOC+OCI_RETURN_NULLS)) {
+            echo "<tr>\n";
+            echo "<td>".$row['EXERCISE_NAME']."</td><td>".$row['SERIES']."</td><td>".$row['REPETITIONS']."</td>\n";
+            echo "</tr>\n";
+            }
+            echo "</table>\n";
+        }
+        ?>
+        </center>
     </div>
 
     <div class="menu">

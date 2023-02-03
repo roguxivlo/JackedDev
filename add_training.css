@@ -1,15 +1,19 @@
-
-/* delete dots */ 
-ul {
-    list-style: none;
+#add_exercise_button {
+    width: 20%;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    background-color: #26b4e6;
 }
 
-/* Set all odd list items to a different color (zebra-stripes) */
-ul li:nth-child(odd) {
-    background: #f9f9f9;
+#add_exercise_button:hover {
+    background-color: black;
 }
 
-/* Darker background-color on hover */
-ul li:hover {
-    background: #ddd;
+#add_exercise_button_div {
+    padding-top: 15px;
 }

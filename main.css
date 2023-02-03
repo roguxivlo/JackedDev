@@ -88,6 +88,11 @@
     width: 33.333%;
 }
 
+.col4 {
+    float: left;
+    width: 25%;
+}
+
 .bottom_button {
     width: 100%;
     border: none;

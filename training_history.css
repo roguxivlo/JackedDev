@@ -1,0 +1,30 @@
+nav ul {
+  height:100%; width:22%;
+  overflow:hidden; overflow-y:scroll;
+}
+
+#search_result {
+  height: 40%;
+  padding-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+}
+
+.list_button {
+  width: 100%;
+  border: none;
+  color: black;
+  padding: 10px;
+  background-color: #9dd0de;
+}
+
+.list_button:hover {
+  background-color: black;
+  color: white;
+}
+
+.list_div {
+  width: 100%;
+}

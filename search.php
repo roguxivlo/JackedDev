@@ -237,26 +237,7 @@
 
             oci_execute($statement, OCI_NO_AUTO_COMMIT);
 
-            //echo "<br>Znalezione ćwiczenia:<br>";
-
-            // display the results
-            //echo "<table border='1'>\n";
-            //echo "<tr> <th> No. </th> <th> Name </th> </tr>\n";
             $i = 1;
-            //while (($row = oci_fetch_array($statement, OCI_ASSOC)) != false) {
-            //echo "<tr>\n";
-            //$msg = "</td><td><A HREF=\"exercise_site.php?id=".$row['ID']."\">". $row['EXERCISE_NAME'];
-            //if (isset($_SESSION['training_id'])) {
-            //    $training_id = $_SESSION['training_id'];
-            //    $msg = "</td><td><A HREF=\"add_exercise_site.php?id=".$row['ID']."&&training_id=".$training_id."\">". $row['EXERCISE_NAME'];
-            //}
-            //echo "<td>" .$i++ . $msg . "</td>\n";
-            //echo "</tr>\n";
-            //}
-            //echo "</table>\n";
-            //echo "<br>";
-            //echo "Koniec wyników<br>";
-        
             echo "<center>";
             echo "<div id='search_result'>";
             echo "<nav>";
@@ -307,14 +288,14 @@
 
             // dodanie treningów
             echo "<div class='col3'>"; 
-            echo "<a href='search.php'>";
+            echo "<a href='add_training.php'>";
             echo "<button class='bottom_button' id='bottom_button2'> Zapisz Trening </button>";
             echo "</a>";
             echo "</div>";
 
             // historia treningów
             echo "<div class='col3'>"; 
-            echo "<a href='search.php'>";
+            echo "<a href='training_history.php'>";
             echo "<button class='bottom_button' id='bottom_button3'> Historia Treningów </button>";
             echo "</a>";
             echo "</div>";

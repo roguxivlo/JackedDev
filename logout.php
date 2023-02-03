@@ -49,13 +49,19 @@
 
     <div class="menu">
         <?php
-            // szukaj treningów
-            echo "<div class='col1'>"; 
-            echo "<a href='search.php'>";
-            echo "<button class='bottom_button' id='bottom_button1'> Szukaj Ćwiczeń </button>";
+            echo "<div class='col2'>"; 
+            echo "<a href='index.php'>";
+            echo "<button class='bottom_button' id='bottom_button1'> Strona Główna </button>";
             echo "</a>";
             echo "</div>";
-        ?>
+
+            // szukaj treningów
+            echo "<div class='col2'>"; 
+            echo "<a href='search.php'>";
+            echo "<button class='bottom_button' id='bottom_button2'> Szukaj Ćwiczeń </button>";
+            echo "</a>";
+            echo "</div>";
+            ?>
     </div>
 </div>
 </body>
